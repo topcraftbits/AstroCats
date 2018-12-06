@@ -1,0 +1,232 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+  viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+  <defs>
+    <style>
+      .cls-1 {fill: #fbfaf9;}
+      .cls-2 {fill: url(#linear-gradient);}
+      .cls-3 {fill: #494948;}
+      .cls-4 {fill: #666665;}
+      .cls-5 {fill: url(#linear-gradient-2);}
+      .cls-6 {fill: url(#linear-gradient-3);}
+      .cls-7 {fill: url(#linear-gradient-4);}
+      .cls-8 {fill: #047870;}
+      .cls-9 {fill: #6898ae;}
+      .cls-10 {fill: url(#linear-gradient-5);}
+
+      @keyframes box {
+        from {
+          transform: translateY(-7px);
+        }
+      }
+      .box {
+        animation: box 5000ms ease-in-out -1100ms alternate infinite;
+      }
+      @keyframes box-item {
+        0%, 50% {
+          transform: none;
+        }
+        25% {
+          transform: scale(0.2, 1);
+        }
+      }
+      .box-item1 {
+        animation: box-item 6000ms ease-in-out infinite;
+        transform-origin: 181px 0;
+      }
+      .box-item2 {
+        animation: box-item 8000ms ease-in-out -1000ms infinite;
+        transform-origin: 181px 0;
+      }
+      .box-item3 {
+        animation: box-item 7000ms ease-in-out -3500ms infinite;
+        transform-origin: 181px 0;
+      }
+      .box-item4 {
+        animation: box-item 6100ms ease-in-out -2400ms infinite;
+        transform-origin: 181px 0;
+      }
+      .box-item5 {
+        animation: box-item 5600ms ease-in-out -600ms infinite;
+        transform-origin: 214px 0;
+      }
+
+      @keyframes dots {
+        from {
+          transform: translateX(-18px);
+        }
+      }
+      .dots {
+        animation: dots 5000ms ease-in-out -2000ms alternate infinite;
+      }
+
+      @keyframes eye {
+        0%, 50% {
+          transform: none;
+        }
+        10% {
+          transform: translate(-2px, 0);
+        }
+        20% {
+          transform: translate(2px, -2px);
+        }
+        40% {
+          transform: translate(2px, 2px);
+        }
+      }
+      .eye {
+        animation: eye 5000ms ease-in-out -1000ms infinite;
+      }
+
+      @keyframes load {
+        to {
+          transform: rotate(-1turn);
+        }
+      }
+      .load {
+        animation: load 4000ms ease-in-out infinite;
+        transform-origin: 64px 231px;
+      }
+
+      @keyframes square {
+        0%, 50% {
+          transform: none;
+        }
+        25% {
+          transform: scale(0.7);
+        }
+      }
+      .square1 {
+        animation: square 4000ms ease-in-out -800ms alternate infinite;
+        transform-origin: 63.715px 270.765px;
+      }
+      .square2 {
+        animation: square 4000ms ease-in-out -1100ms infinite;
+        transform-origin: 107px 195px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="143.62" y1="95.46" x2="143.62" y2="242.43" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#666665" />
+      <stop offset="0.4" stop-color="#636362" />
+      <stop offset="0.72" stop-color="#595958" />
+      <stop offset="1" stop-color="#494948" />
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="48.13" y1="215.61" x2="79.29" y2="246.78" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#77dfb2" />
+      <stop offset="1" stop-color="#1dca7f" />
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="63.71" y1="264.53" x2="63.71" y2="277" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6897ad" />
+      <stop offset="0.25" stop-color="#6694aa" />
+      <stop offset="0.46" stop-color="#608ba0" />
+      <stop offset="0.65" stop-color="#567d8f" />
+      <stop offset="0.82" stop-color="#476877" />
+      <stop offset="0.99" stop-color="#354e59" />
+      <stop offset="1" stop-color="#344c57" />
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="81.22" y1="124.57" x2="132.61" y2="175.97" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1dc97f" />
+      <stop offset="0.26" stop-color="#1cc67e" />
+      <stop offset="0.47" stop-color="#19bc7d" />
+      <stop offset="0.66" stop-color="#14ab79" />
+      <stop offset="0.84" stop-color="#0c9375" />
+      <stop offset="1" stop-color="#047870" />
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="181.44" y1="92.08" x2="237.9" y2="92.08" xlink:href="#linear-gradient-4" />
+  </defs>
+
+  <g class="dots">
+    <ellipse class="cls-1" cx="166.18" cy="191.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="166.18" cy="200.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="166.18" cy="209.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="156.64" cy="191.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="156.64" cy="200.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="156.64" cy="209.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="185.28" cy="191.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="185.28" cy="200.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="185.28" cy="209.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="175.73" cy="191.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="175.73" cy="200.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="175.73" cy="209.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="204.37" cy="191.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="204.37" cy="200.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="204.37" cy="209.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="194.82" cy="191.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="194.82" cy="200.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="194.82" cy="209.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="223.46" cy="191.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="223.46" cy="200.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="223.46" cy="209.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="213.92" cy="191.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="213.92" cy="200.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="213.92" cy="209.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="242.56" cy="191.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="242.56" cy="200.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="242.56" cy="209.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="233.01" cy="191.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="233.01" cy="200.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="233.01" cy="209.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="261.65" cy="191.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="261.65" cy="200.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="261.65" cy="209.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="252.1" cy="191.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="252.1" cy="200.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="252.1" cy="209.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="280.74" cy="191.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="280.74" cy="200.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="280.74" cy="209.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="271.2" cy="191.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="271.2" cy="200.27" rx="1.59" ry="1.5" />
+    <ellipse class="cls-1" cx="271.2" cy="209.27" rx="1.59" ry="1.5" />
+  </g>
+
+    <!-- window bg -->
+  <rect class="cls-2" x="59.64" y="95.46" width="167.97" height="146.97" rx="4.49" ry="4.49" />
+  <path class="cls-3" d="M63.84,89.16H223.47a4.2,4.2,0,0,1,4.2,4.2v8.4a0,0,0,0,1,0,0h-168a0,0,0,0,1,0,0v-8.4A4.2,4.2,0,0,1,63.84,89.16Z" />
+
+    <!-- window bar -->
+  <circle class="cls-4" cx="67.73" cy="95.46" r="1.59" />
+  <circle class="cls-4" cx="75.1" cy="95.46" r="1.59" />
+  <circle class="cls-4" cx="82.47" cy="95.46" r="1.59" />
+
+    <!-- refresh -->
+  <path class="cls-5" d="M63.71,253.23a22,22,0,1,1,16.16-7A22.11,22.11,0,0,1,63.71,253.23Zm0-42a19.94,19.94,0,1,0,19.95,19.94A20,20,0,0,0,63.71,211.25Z" />
+  <path class="cls-1 load" d="M55.84,231.19a7.88,7.88,0,0,1,7.87-7.87,7.7,7.7,0,0,1,3.67.92l1.92-1.92a10.48,10.48,0,0,0-16.09,8.87H49.27l5.25,5.25,5.25-5.25Zm17.06-5.25-5.25,5.25h3.94a7.88,7.88,0,0,1-7.87,7.87,7.7,7.7,0,0,1-3.67-.92l-1.92,1.92a10.48,10.48,0,0,0,16.09-8.87h3.94Z" />
+
+  <rect class="cls-6 square1" x="57.48" y="264.53" width="12.47" height="12.47" />
+  <rect class="cls-1 square2" x="100.68" y="189.77" width="12.47" height="12.47" />
+
+    <!-- T -->
+  <rect class="cls-7" x="79.62" y="122.98" width="54.59" height="54.59" rx="5.46" ry="5.46" />
+  <path class="cls-1" d="M109.89,165.79H104V143.45H96V138h21.84v5.44h-7.94Z" />
+
+  <g class="box">
+    <path class="cls-1" d="M249.13,138.9h-85v-85h85Zm-84-1h82.93V54.92H165.14Z" />
+    <rect class="cls-8 box-item1" x="181.44" y="78.4" width="40.77" height="4.06" />
+    <rect class="cls-8" x="181.44" y="118.92" width="56.47" height="4.06" />
+    <rect class="cls-9 box-item4" x="181.44" y="101.7" width="31.29" height="4.06" />
+    <rect class="cls-1" x="218.33" y="101.7" width="4.06" height="4.06" />
+    <rect class="cls-1" x="233.84" y="110.31" width="4.06" height="4.06" />
+
+    <rect class="cls-10 box-item2" x="181.44" y="69.8" width="56.46" height="4.06" />
+    <rect class="cls-10" x="181.44" y="87" width="29.43" height="4.06" />
+    <rect class="cls-10 box-item2" x="181.44" y="110.3" width="46.23" height="4.06" />
+
+      <!-- <path class="cls-10 box-item2" d="M237.9,73.86H181.44V69.8H237.9ZM210.87,87H181.44v4.06h29.43Zm16.8,23.3H181.44v4.06h46.23Z" /> -->
+      <!-- <g id="Group" transform="translate(164, 62)">
+          <polygon id="Path" points="73.9 20.86 17.44 20.86 17.44 16.8 73.9 16.8"></polygon>
+          <polygon id="Path" points="46.87 34 17.44 34 17.44 38.06 46.87 38.06"></polygon>
+          <polygon id="Path" points="63.67 57.3 17.44 57.3 17.44 61.36 63.67 61.36"></polygon>
+          </g> -->
+
+    <rect class="cls-1" x="173.32" y="87.01" width="4.06" height="4.06" />
+    <rect class="cls-9 box-item5" x="214.93" y="87.01" width="22.95" height="4.06" />
+  </g>
+
+  <path class="cls-1" d="M163.46,181v43h43V181Zm20.78,21.52L164.51,222.2V182.75Zm-19-20.47h39.45L185,201.73ZM185,203.22l19.73,19.73H165.26Zm.74-.74,19.73-19.73V222.2Z" />
+
+  <path class="cls-1" d="M104.81,64a21.52,21.52,0,1,1,21.52-21.52A21.54,21.54,0,0,1,104.81,64Zm0-42a20.47,20.47,0,1,0,20.47,20.47A20.49,20.49,0,0,0,104.81,22Z" />
+  <path class="cls-1" d="M118.58,42.52s-6.17,8.16-13.77,8.16S91,42.52,91,42.52s6.17-8.16,13.77-8.16S118.58,42.52,118.58,42.52Z" />
+  <circle class="cls-8 eye" cx="104.81" cy="42.52" r="4.48" />
+  <rect class="cls-1" x="104.29" y="63.52" width="1.05" height="46.65" />
+  <circle class="cls-1" cx="104.81" cy="110.17" r="2.1" />
+</svg>
