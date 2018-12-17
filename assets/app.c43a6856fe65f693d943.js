@@ -3,95 +3,25 @@ webpackJsonp(["app"], {
 		"use strict";
 		e.exports = [{
 			id: 1,
-			name: "Nathaniel Bibler",
-			slug: "nathaniel-bibler",
-			title: "Chief Executive Officer",
-			bio: "As co-founder, lead developer, and CEO, Nate (or Nathaniel, but probably not Nathan) has an impressive hat collection ‘round these parts. No matter the situation, he’ll conjure an appropriate early-2000s romantic comedy reference, and is the most likely Envy-er (Labber? We still need to figure out what to call employees) to host a pool party. Any day now, Nathan.",
-			social: [["twitter", "https://twitter.com/nbibler"], ["github", "https://github.com/nbibler"], ["linkedin", "https://linkedin.com/in/nathanielbibler"], ["personal", "http://www.nathanielbibler.com"]]
+			name: "Lucian Crisan",
+			slug: "lucian-crisan@Lucian-alliance",
+			title: "Dragon Chi Developer",
+			bio: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+			social: [["twitter", "https://twitter.com/crisanlucid"], ["github", "https://github.com/crisanlucid"], ["linkedin", "https://linkedin.com/in/crisanlucid"], ["personal", "https://codepen.io/crisanlucid/"]]
 		}, {
 			id: 2,
-			name: "Tyler Hunt",
-			slug: "tyler-hunt",
+			name: "Radu Crican",
+			slug: "radu-crican",
 			title: "Sr Developer",
-			bio: "Originally hailing from Orlando, co-founder and senior developer Tyler was the first to test the satellite office waters — other companies call it “remote,” but we like dropping in unannounced. With a penchant for baking bread, mixing cocktails, and unique room decor, we’ll all be seeking out his cabin if society collapses.",
-			social: [["twitter", "https://twitter.com/tylerhunt"], ["github", "https://github.com/tylerhunt"], ["linkedin", "https://linkedin.com/in/tylerhunt"], ["personal", "http://tylerhunt.com"]]
+			bio: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+			social: [["twitter", "https://twitter.com/cricanr"], ["github", "https://github.com/cricanr"], ["linkedin", "https://linkedin.com/in/cricanr"], ["personal", "http://cricanr.com"]]
 		}, {
 			id: 3,
-			name: "Mark Kendall",
-			slug: "mark-kendall",
+			name: "Lucas Louca",
+			slug: "lucas-louca",
 			title: "Lead Developer",
-			bio: "With the furthest commute for Florida-based employees, lead developer Mark is a collector and connoisseur of highway miles. Part of a growing contingent of Orlando City season ticket holders (go Lions!), he continues to contend that his Gundam model painting habit doesn’t bring him into designer territory.",
-			social: [["twitter", "https://twitter.com/markkendall"], ["github", "https://github.com/markkendall"]]
-		}, {
-			id: 4,
-			name: "Jacob Swanner",
-			slug: "jacob-swanner",
-			title: "Sr Developer",
-			bio: "Resident traveler and foodie, senior developer Jacob is (for now) our West Coast representative, trading the Sunshine State for its evil doppleganger Seattle. Interests include hiking, waiting around at Tesla Superchargers, and eating food spicy enough to melt the tongues of mere mortals.",
-			social: [["twitter", "https://twitter.com/jswanner"], ["github", "https://github.com/jswanner"], ["linkedin", "https://linkedin.com/in/jacobswanner"], ["personal", "http://jacobswanner.com"]]
-		}, {
-			id: 5,
-			name: "Jennifer Borders",
-			slug: "jennifer-borders",
-			title: "Project Director",
-			bio: "Like Atlas, project director Jennifer balances the Envy Labs world on her shoulders (except the coding part — honestly, though, she’s probably picked that up by now too). A fan of donuts, LEGO (who isn’t?), and home projects, we’re legitimately unsurprised when a farm animal impedes her commute from St. Cloud.",
-			social: [["twitter", "https://twitter.com/jlathey"], ["linkedin", "https://linkedin.com/pub/jennifer-borders/23/428/295"], ["pinterest", "https://pinterest.com/jenno77"]]
-		}, {
-			id: 6,
-			name: "Nick Walsh",
-			slug: "nick-walsh",
-			title: "Chief Operating Officer",
-			bio: "An early riser or some other interesting fact, lead designer and COO Nick has been writing everyone else’s biographies, leaving this one pretty lackluster. We’ll (I’ll) just chalk it up to modesty or something.",
-			social: [["twitter", "https://twitter.com/nickawalsh"], ["dribbble", "https://dribbble.com/nickawalsh"], ["linkedin", "https://www.linkedin.com/in/nickawalsh"], ["codepen", "http://codepen.com/nickawalsh"]]
-		}, {
-			id: 7,
-			name: "Dray Lacy",
-			slug: "dray-lacy",
-			title: "Sr Developer",
-			bio: "Drawing, running, and donuts are things senior developer Dray thinks he would enjoy if he weren’t busy visiting his car in the shop. Meteorology may be a science, but there’s no theorem to explain the rainstorms that accompany his haircuts. When all else fails, or when it doesn’t, blame him.",
-			social: [["twitter", "https://twitter.com/draylacy"], ["github", "https://github.com/omghax"]]
-		}, {
-			id: 8,
-			name: "Bernie Mapili",
-			slug: "bernie-mapili",
-			title: "Chief Financial Officer",
-			bio: "As the staff bean counter, CFO Bernie’s coding knowledge begins and ends with the tax variety. His desk typically doubles as the mailbox.",
-			social: [["twitter", "https://twitter.com/bmapili"], ["linkedin", "https://www.linkedin.com/pub/bernie-mapili-jr/2/380/738"]]
-		}, {
-			id: 9,
-			name: "Matt Schultz",
-			slug: "matt-schultz",
-			title: "Sr Developer",
-			bio: "Not to be confused with the politician of the same name, senior developer Matt’s desk houses the most trophies in the office — and some are even his. A collector of shorts, flip-flops, and climbing gear, he attempts to convince everyone that the mess in his corner is an altruistic recycling effort.",
-			social: [["twitter", "https://twitter.com/mattschultz"], ["github", "https://github.com/mattschultz"], ["personal", "http://votemattschultz.com/meet-matt"]]
-		}, {
-			id: 10,
-			name: "Ayana Campbell Smith",
-			slug: "ayana-campbell-smith",
-			title: "Sr Designer",
-			bio: "No inanimate object can escape a happy disposition through the style of designer Ayana. She’s a fan of cooking, reading, animation, showing the rest of us up with desk decorations, and graciously acknowledging every Parks and Recreation reference tossed around (including the one on this site).",
-			social: [["twitter", "https://twitter.com/_ayanacampbell"], ["dribbble", "https://dribbble.com/_ayanacampbell"], ["linkedin", "https://linkedin.com/pub/ayana-campbell/38/89/256"], ["personal", "http://ayanacampbell.com"]]
-		}, {
-			id: 11,
-			name: "Olivia Howard",
-			slug: "olivia-howard",
-			title: "Designer",
-			bio: "If Multitalented was an acceptable middle name, designer Olivia’s knack for photography, art, social media, and scripty text would justify it (but good on her parents for avoiding the temptation). Originally hailing from Tennessee, she’s an adventure-seeker, helps promote soccer as the national sport of Envy Labs, and is probably a Lululemon salesperson in disguise.",
-			social: [["instagram", "http://instagram.com/odhoward"], ["dribbble", "http://www.dribbble.com/oliviahoward"], ["linkedin", "https://www.linkedin.com/in/oliviahoward"], ["personal", "https://www.oliviahow.com/"]]
-		}, {
-			id: 12,
-			name: "Ben Stankich",
-			slug: "ben-stankich",
-			title: "Front-End Developer",
-			bio: "As the current title holder for youngest Envy-er, most of our movie references are lost on front-end developer Ben. He‘s a leading scholar in Indie Worship music, adds to our UCF grad majority, and, like Mark, spent a good portion of his childhood abroad alongside missionary parents (before settling in St. Cloud — we‘ll avoid jokes here in case Jennifer hears too).",
-			social: [["twitter", "https://twitter.com/benstankich"], ["dribbble", "http://www.dribbble.com/benstankich"], ["linkedin", "https://www.linkedin.com/in/benstankich"], ["personal", "http://benstankich.com/"]]
-		}, {
-			id: 13,
-			name: "Thomas Meeks",
-			slug: "thomas-meeks",
-			title: "Sr Developer",
-			bio: "Following a foray into managing large software teams at Pluralsight and Amazon, we’re excited to toss co-founder and senior developer Thomas back into the tantalizing weeds of code and data. He’s the lone Linux user on staff (we’re concerned too), and his proximity to Jacob on the opposite coast puts him on the hook to open an Envy Seattle office (we’re waiting).",
-			social: [["twitter", "https://twitter.com/thomasmeeks"], ["github", "https://github.com/thomas"], ["personal", "http://thomasmeeks.com/"]]
+			bio: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+			social: [["twitter", "https://twitter.com/lucaslouca"], ["github", "https://github.com/lucaslouca"]]
 		}]
 	},
 	"../data/work.js": function (e, t, o) {
@@ -294,13 +224,13 @@ webpackJsonp(["app"], {
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/jennifer-borders-l.jpg?size=1280w": function (e, t, o) {
 		e.exports = o.p + "536cc8add007f02e32bbff32f2dc8a02.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/mark-kendall-l.jpg?size=1280w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/lucas-louca-l.jpg?size=1280w": function (e, t, o) {
 		e.exports = o.p + "6d875da48496f19be0d9f1a741a9c2dd.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/matt-schultz-l.jpg?size=1280w": function (e, t, o) {
 		e.exports = o.p + "811c419219d5dd186fa755c508da8561.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/nathaniel-bibler-l.jpg?size=1280w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/lucian-crisan@Lucian-alliance-l.jpg?size=1280w": function (e, t, o) {
 		e.exports = o.p + "6881a1f312ed13b13f5b546b27b87db4.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/nick-walsh-l.jpg?size=1280w": function (e, t, o) {
@@ -312,7 +242,7 @@ webpackJsonp(["app"], {
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/thomas-meeks-l.jpg?size=1280w": function (e, t, o) {
 		e.exports = o.p + "ae62c108a090c250fa452aea2040ad7a.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/tyler-hunt-l.jpg?size=1280w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/radu-crican-l.jpg?size=1280w": function (e, t, o) {
 		e.exports = o.p + "639338c2e6eb2e3e2c8dae9daf77f90b.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/cisco/cisco-1-1-a.jpg?size=1600w": function (e, t, o) {
@@ -735,13 +665,13 @@ webpackJsonp(["app"], {
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/jennifer-borders.jpg?size=400w": function (e, t, o) {
 		e.exports = o.p + "0cf15fa5b6bfd57ad1406b8779a1efac.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/mark-kendall.jpg?size=400w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/lucas-louca.jpg?size=400w": function (e, t, o) {
 		e.exports = o.p + "c1ae695c034ae5bf7d626fe0d3edf080.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/matt-schultz.jpg?size=400w": function (e, t, o) {
 		e.exports = o.p + "355ab6b0b1d004d00a772e1c3e5e1fdb.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/nathaniel-bibler.jpg?size=400w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/lucian-crisan@Lucian-alliance.jpg?size=400w": function (e, t, o) {
 		e.exports = o.p + "4c57923d4034a8b54a6b1d52b4b144f2.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/nick-walsh.jpg?size=400w": function (e, t, o) {
@@ -753,7 +683,7 @@ webpackJsonp(["app"], {
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/thomas-meeks.jpg?size=400w": function (e, t, o) {
 		e.exports = o.p + "98f6f48f683e0045191564bad97ac6e4.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/tyler-hunt.jpg?size=400w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/radu-crican.jpg?size=400w": function (e, t, o) {
 		e.exports = o.p + "e10450ce0782c89b1178f351172396bf.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=600!./assets/home/about.jpg?size=600w": function (e, t, o) {
@@ -804,13 +734,13 @@ webpackJsonp(["app"], {
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/jennifer-borders-l.jpg?size=640w": function (e, t, o) {
 		e.exports = o.p + "7d9f4c126668729772e5e5e39e9b2192.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/mark-kendall-l.jpg?size=640w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/lucas-louca-l.jpg?size=640w": function (e, t, o) {
 		e.exports = o.p + "9fc9fae6b7fff2681ba804c6f845ca76.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/matt-schultz-l.jpg?size=640w": function (e, t, o) {
 		e.exports = o.p + "050e6be68e31768b7bd7e0545ae6ef06.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/nathaniel-bibler-l.jpg?size=640w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/lucian-crisan@Lucian-alliance-l.jpg?size=640w": function (e, t, o) {
 		e.exports = o.p + "caa2a68f355c97f869433a313f5e2124.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/nick-walsh-l.jpg?size=640w": function (e, t, o) {
@@ -822,7 +752,7 @@ webpackJsonp(["app"], {
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/thomas-meeks-l.jpg?size=640w": function (e, t, o) {
 		e.exports = o.p + "b6bf3cd3453498f39e28984cfed04c69.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/tyler-hunt-l.jpg?size=640w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/radu-crican-l.jpg?size=640w": function (e, t, o) {
 		e.exports = o.p + "7f92563c77da8fc27f64f84ad280d976.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/ayana-campbell-smith.jpg?size=800w": function (e, t, o) {
@@ -843,13 +773,13 @@ webpackJsonp(["app"], {
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/jennifer-borders.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "e5acf31d41ac799ed94fe7179c156d50.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/mark-kendall.jpg?size=800w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/lucas-louca.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "dd9de3f31b377798e9da2f6bdeec4b51.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/matt-schultz.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "f471b6596a5ceff0d7c37881e3ab9dc6.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/nathaniel-bibler.jpg?size=800w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/lucian-crisan@Lucian-alliance.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "7b3e539469d5b32c3f28bac8786a828f.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/nick-walsh.jpg?size=800w": function (e, t, o) {
@@ -861,7 +791,7 @@ webpackJsonp(["app"], {
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/thomas-meeks.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "d5cce0724a07be8ebbe9475869ed9d46.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/tyler-hunt.jpg?size=800w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/radu-crican.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "175b4bfc8e583b81d6a4af344acb6cec.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/cisco/cisco-1-1-a.jpg?size=800w": function (e, t, o) {
@@ -2306,14 +2236,14 @@ webpackJsonp(["app"], {
 			ratio: 1
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/mark-kendall-l.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/lucas-louca-l.jpg": function (e, t) {
 		e.exports = {
 			color: [145, 141, 141, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMjAiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQVVBQlFEQVNJQUFoRUJBeEVCLzhRQUdRQUJBQU1CQVFBQUFBQUFBQUFBQUFBQUFBVUhDQU1FLzhRQUp4QUFBUU1EQXdNRUF3QUFBQUFBQUFBQUFRSURCQUFGRVFZU0lSTXhRUWNVVVdFVklvSC94QUFYQVFFQkFRRUFBQUFBQUFBQUFBQUFBQUFEQWdFRS84UUFJQkVCQUFJQkF3VUJBQUFBQUFBQUFBQUFBUUFDQXhFU0lSTWlNWUd4VWYvYUFBd0RBUUFDRVFNUkFEOEFudEVhcWpzK2tFT3hJaDNRZE5rc0l1QVpUMEVBdWtwVVY3c2pqNjROV0RaZFZ0V3VDbUdZbDFucmJTRmJta3FlMnBQWkpVZVNlQ1Jud1JXY0xocGkrMlRTRGNDNVBNTzJtRnZVNzdkd2tiMUtJQlVDQWVDUnoyR2E5K2o1OHhWNXRuVDl6S2VmZFgxc2JsQlNBQU1randBYy9XS2pGajNuVUxjRVRKZHByUnJ5c3VoVjNia3ZQUEdKTWJVNDRwd29MWkpUdU9jSEE3ak9QNVN1emJyck1hT2hxZWhnQnNaQ213b3FQemttbEc1QWZFa3Evc25OVUlhaWFidWM1dU93cDloaFRpZDZBb0t4NFVQSVBZaXMrK24wcHh1ZnFtWXhzWmNqTWRSaEtFQUpiTGpnQ2dCOFk0SHdEU2xhSGErdnNRWGozOGx6L2dZa3lQRmtPdVNndHhoc2tJZlVsSS9VRGdBMHBTdVM2N21KVU5DZi85az0iIGZpbHRlcj0idXJsKCN4KSIvPgogICAgICAgIDwvc3ZnPg==",
 			ratio: 1
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/mark-kendall.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/lucas-louca.jpg": function (e, t) {
 		e.exports = {
 			color: [136, 136, 136, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMjAiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQVVBQlFEQVNJQUFoRUJBeEVCLzhRQUdnQUJBUUFDQXdBQUFBQUFBQUFBQUFBQUFBY0JBd1FHQ1AvRUFDWVFBQUVEQXdRQ0FnTUJBQUFBQUFBQUFBRUNBd1FBQlJFR0VpRXhCeE5CVVJRak0ySC94QUFYQVFBREFRQUFBQUFBQUFBQUFBQUFBQUFBQWdNQi84UUFIUkVBQVFRQ0F3QUFBQUFBQUFBQUFBQUFBUUFDQXhFU01RUVRJZi9hQUF3REFRQUNFUU1SQUQ4QTVYZ1BVRURTK203NWIweDdsY1dISlB0UTVEamV4S2N0aEozSFBIUXFnNk4xTzNhYlREYlYrZlA5eWRqYktWbDFRVW5sUkdlaHpqQTYrcWoybHZIdXBMUFo3eGFyYmNJYnFweFFKSmJVcjlTRTV6dDR5YzVBK0RYVXJjOFdtSmFHQzR0bU9oYW1tMEhoS2lvWklIUTVwSVkreWlIYVZKSk1MQkcxNkMxQmRCZUxrdVRJdDBxS29BTmh0NUozWUh6d09NOTByYnBaRDVzekptdExUSlA5RXJPU0RnVW95VTZLejRnc2pFZXdCeFVpWSt1UE1mOEFYN25pckhPM243NCs4OW1veDVOMDlDMDdyYWJDdEh0anhaYm9DbXd2SVFITnBVRTU2SEp4U2xOeDJocGRRV3lFbXJWaDBQT2N1RmhSSmxKUXAxYXowQ0FBTURBQVArVXBTb0RTZDNwSy85az0iIGZpbHRlcj0idXJsKCN4KSIvPgogICAgICAgIDwvc3ZnPg==",
@@ -2334,14 +2264,14 @@ webpackJsonp(["app"], {
 			ratio: 1
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/nathaniel-bibler-l.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/lucian-crisan@Lucian-alliance-l.jpg": function (e, t) {
 		e.exports = {
 			color: [207, 204, 199, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMjAiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQVVBQlFEQVNJQUFoRUJBeEVCLzhRQUdRQUJBUUFEQVFBQUFBQUFBQUFBQUFBQUFBY0RCQVlJLzhRQUtSQUFBZ0VEQXdJR0FnTUFBQUFBQUFBQUFRTUNBQVFSQlJJaEZERUdCeUpCVVdFVEl6S1JzZi9FQUJZQkFRRUJBQUFBQUFBQUFBQUFBQUFBQUFJREFQL0VBQjhSQUFJQ0FnRUZBQUFBQUFBQUFBQUFBQUFCQWhFREVqRWhORUZSOFAvYUFBd0RBUUFDRVFNUkFEOEF2V290amIrSTVPZ3hjU0lza0p5a0JFZnA5eWZiMDFnOEJhcGJKc1gyN2JxTEdieTBHVFJLVWdRT2ZiajQ0eFVxODhucTB6b05Pczd1NWN0OHR6aE9lN2FBTVlKQUh6bkZjTnB6TlNhOXV2dWZjdzZjUWpDNVlremc2ZkVRcmNPM3B6MkI3ZmVhS3h0dFN1aEtTMWNhUFY3ZGYwOVV0clhiWll6ZzRGS25xZEVmckZ1bTl2Ym0zVTlrQnVYQmNKaUhIQXlaWno4MG83ZXlkUzhIRytkMDUyOXBwNlZ6bVlzYktjak9SbExJampPVHlPLytWb2VWV3FYZHhvOTcxcmVzV2tLVWxWeVB5UVhFaVg4UWY2cFNwWk8ydjdrdHhPa1VpSGhtMW5ib2JiM0YzYXdhc1RLa3pHeUoraElFZ2NkczBwU2pHVHBkVE5JLy85az0iIGZpbHRlcj0idXJsKCN4KSIvPgogICAgICAgIDwvc3ZnPg==",
 			ratio: 1
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/nathaniel-bibler.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/lucian-crisan@Lucian-alliance.jpg": function (e, t) {
 		e.exports = {
 			color: [207, 204, 199, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMjAiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQVVBQlFEQVNJQUFoRUJBeEVCLzhRQUdRQUJBUUFEQVFBQUFBQUFBQUFBQUFBQUFBY0RCQVlJLzhRQUtSQUFBZ0VEQXdJR0FnTUFBQUFBQUFBQUFRTUNBQVFSQlJJaEZERUdCeUpCVVdFVEl6S1JzZi9FQUJZQkFRRUJBQUFBQUFBQUFBQUFBQUFBQUFJREFQL0VBQjhSQUFJQ0FnRUZBQUFBQUFBQUFBQUFBQUFCQWhFREVqRWhORUZSOFAvYUFBd0RBUUFDRVFNUkFEOEF2V290amIrSTVPZ3hjU0lza0p5a0JFZnA5eWZiMDFnOEJhcGJKc1gyN2JxTEdieTBHVFJLVWdRT2ZiajQ0eFVxODhucTB6b05Pczd1NWN0OHR6aE9lN2FBTVlKQUh6bkZjTnB6TlNhOXV2dWZjdzZjUWpDNVlremc2ZkVRcmNPM3B6MkI3ZmVhS3h0dFN1aEtTMWNhUFY3ZGYwOVV0clhiWll6ZzRGS25xZEVmckZ1bTl2Ym0zVTlrQnVYQmNKaUhIQXlaWno4MG83ZXlkUzhIRytkMDUyOXBwNlZ6bVlzYktjak9SbExJampPVHlPLytWb2VWV3FYZHhvOTcxcmVzV2tLVWxWeVB5UVhFaVg4UWY2cFNwWk8ydjdrdHhPa1VpSGhtMW5ib2JiM0YzYXdhc1RLa3pHeUoraElFZ2NkczBwU2pHVHBkVE5JLy85az0iIGZpbHRlcj0idXJsKCN4KSIvPgogICAgICAgIDwvc3ZnPg==",
@@ -2390,14 +2320,14 @@ webpackJsonp(["app"], {
 			ratio: 1
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/tyler-hunt-l.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/radu-crican-l.jpg": function (e, t) {
 		e.exports = {
 			color: [177, 177, 177, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMjAiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQVVBQlFEQVNJQUFoRUJBeEVCLzhRQUdRQUJBQU1CQVFBQUFBQUFBQUFBQUFBQUFBVUdCd01FLzhRQUp4QUFBZ0lCQXdNREJRRUFBQUFBQUFBQUFRSURCQVVBRVJJR0lURVRRVkVpSXpKaGdVTC94QUFYQVFFQkFRRUFBQUFBQUFBQUFBQUFBQUFFQWdNRi84UUFIUkVBQWdJQ0F3RUFBQUFBQUFBQUFBQUFBQUVDRVFNaEl6RlJRZi9hQUF3REFRQUNFUU1SQUQ4QTFicU5USDBWbHJOWlNMRVhwL2VRZ1NSeGx3SEtrOWdRcEozUGp6cm5qY2RMWTZPV1NoYnR2TjYzR0dXZXkwcnRFVUIyZjJKL2UzamJWRXkyUVhQMDYyTXlFOXVuRGtZMllRSkp4WWNRTzVJOG52OEFzZHRTT0Z5S1lpcFdyeFhKMW1kbFFNMGhMRHNGOC9IYjU5OVJHMDAvaFRnbmphcmZwZk9tY0ZWbHhLUGtNbFlndDgzRWlJeUFBaGlQZFNmQUdtc21seU9FeTJRdnkzNzNXVlhJUlR0RGFpcTdORjZpZ2JsRHkvRTlqL2ROSnJINkI1RnFpbzlYMnBvYzlnWm8zMlBwU3R4L3lDQjVBMUtLeHY0Ym5ZSjNWT1k0L1QzVnlSNCtDQnBwbzJKM0haMU15cHVqMlpBV3BEV3RRNUc1V2UxQWswcXdzb1ZuMjIzN2creWdmelRUVFdpUVNYYlAvOWs9IiBmaWx0ZXI9InVybCgjeCkiLz4KICAgICAgICA8L3N2Zz4=",
 			ratio: 1
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/tyler-hunt.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/radu-crican.jpg": function (e, t) {
 		e.exports = {
 			color: [177, 171, 169, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMjAiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQVVBQlFEQVNJQUFoRUJBeEVCLzhRQUZ3QUJBUUVCQUFBQUFBQUFBQUFBQUFBQUFBY0dCUC9FQUNZUUFBSUNBZ0VEQkFJREFBQUFBQUFBQUFFQ0F3UUZFUUFHRWlFVE1VRmhVWUVVTWtML3hBQVhBUUFEQVFBQUFBQUFBQUFBQUFBQUFBQUNCQVVCLzhRQUl4RUJBQUVEQVFrQkFBQUFBQUFBQUFBQUFRQUNBeUVUQkJFU0l6RXlVV0dCOFAvYUFBd0RBUUFDRVFNUkFEOEFzR0FnclNYRS9rZG5wQldKTE5vRHg3ay9qbWI2RWxseS9UZHA0c25MTGtnd0FKdEdaV2Z2SVlxRC9uNEFBME5jd1UvVjJRcllHcmxjakFqQm5Hb1lObE5FamV5ZmNnYzBsUEowYUdQbHQ0cUNGcXMrckphQUFFajNjajc4SDk4QUhFSW9PRkU2eWpZSEhyTFEzbU1yUEJkVjJWMFVJb0dqNDhGZCszSEpCYWlxNUcvYm12OEFUVm0zS0pBQmNoeWJSSlpUdFVySUY3VHJZSUJINUI0NHh5NGx1dUdNZnZzamVGeXVReDJRV1NqZXN3K212aEJLU2hBK0NwMkNQbzh0WFRONlhNUncyN1N4STFoQVpJNFVFYU13WCsyaDhuWEhISnRydVgxTCswQnBrNTU4VlNzWHJjRmlCWlZweW12Q1g4a0pvTUJ2NkxIOWE0NDQ0dnFWZVpwYm9Rd1QvOWs9IiBmaWx0ZXI9InVybCgjeCkiLz4KICAgICAgICA8L3N2Zz4=",
@@ -3761,24 +3691,24 @@ webpackJsonp(["app"], {
 			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/jennifer-borders.jpg")
 		}
 	},
-	"./assets/team/mark-kendall-l.jpg?sizes=640w+1280w": function (e, t, o) {
+	"./assets/team/lucas-louca-l.jpg?sizes=640w+1280w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"640w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/mark-kendall-l.jpg?size=640w"),
-				"1280w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/mark-kendall-l.jpg?size=1280w")
+				"640w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/lucas-louca-l.jpg?size=640w"),
+				"1280w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/lucas-louca-l.jpg?size=1280w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/mark-kendall-l.jpg?size=640w") + " 640w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/mark-kendall-l.jpg?size=1280w") + " 1280w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/mark-kendall-l.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/lucas-louca-l.jpg?size=640w") + " 640w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/lucas-louca-l.jpg?size=1280w") + " 1280w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/lucas-louca-l.jpg")
 		}
 	},
-	"./assets/team/mark-kendall.jpg?sizes=400w+800w": function (e, t, o) {
+	"./assets/team/lucas-louca.jpg?sizes=400w+800w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"400w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/mark-kendall.jpg?size=400w"),
-				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/mark-kendall.jpg?size=800w")
+				"400w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/lucas-louca.jpg?size=400w"),
+				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/lucas-louca.jpg?size=800w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/mark-kendall.jpg?size=400w") + " 400w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/mark-kendall.jpg?size=800w") + " 800w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/mark-kendall.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/lucas-louca.jpg?size=400w") + " 400w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/lucas-louca.jpg?size=800w") + " 800w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/lucas-louca.jpg")
 		}
 	},
 	"./assets/team/matt-schultz-l.jpg?sizes=640w+1280w": function (e, t, o) {
@@ -3801,24 +3731,24 @@ webpackJsonp(["app"], {
 			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/matt-schultz.jpg")
 		}
 	},
-	"./assets/team/nathaniel-bibler-l.jpg?sizes=640w+1280w": function (e, t, o) {
+	"./assets/team/lucian-crisan@Lucian-alliance-l.jpg?sizes=640w+1280w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"640w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/nathaniel-bibler-l.jpg?size=640w"),
-				"1280w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/nathaniel-bibler-l.jpg?size=1280w")
+				"640w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/lucian-crisan@Lucian-alliance-l.jpg?size=640w"),
+				"1280w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/lucian-crisan@Lucian-alliance-l.jpg?size=1280w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/nathaniel-bibler-l.jpg?size=640w") + " 640w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/nathaniel-bibler-l.jpg?size=1280w") + " 1280w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/nathaniel-bibler-l.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/lucian-crisan@Lucian-alliance-l.jpg?size=640w") + " 640w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/lucian-crisan@Lucian-alliance-l.jpg?size=1280w") + " 1280w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/lucian-crisan@Lucian-alliance-l.jpg")
 		}
 	},
-	"./assets/team/nathaniel-bibler.jpg?sizes=400w+800w": function (e, t, o) {
+	"./assets/team/lucian-crisan@Lucian-alliance.jpg?sizes=400w+800w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"400w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/nathaniel-bibler.jpg?size=400w"),
-				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/nathaniel-bibler.jpg?size=800w")
+				"400w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/lucian-crisan@Lucian-alliance.jpg?size=400w"),
+				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/lucian-crisan@Lucian-alliance.jpg?size=800w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/nathaniel-bibler.jpg?size=400w") + " 400w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/nathaniel-bibler.jpg?size=800w") + " 800w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/nathaniel-bibler.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/lucian-crisan@Lucian-alliance.jpg?size=400w") + " 400w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/lucian-crisan@Lucian-alliance.jpg?size=800w") + " 800w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/lucian-crisan@Lucian-alliance.jpg")
 		}
 	},
 	"./assets/team/nick-walsh-l.jpg?sizes=640w+1280w": function (e, t, o) {
@@ -3881,24 +3811,24 @@ webpackJsonp(["app"], {
 			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/thomas-meeks.jpg")
 		}
 	},
-	"./assets/team/tyler-hunt-l.jpg?sizes=640w+1280w": function (e, t, o) {
+	"./assets/team/radu-crican-l.jpg?sizes=640w+1280w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"640w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/tyler-hunt-l.jpg?size=640w"),
-				"1280w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/tyler-hunt-l.jpg?size=1280w")
+				"640w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/radu-crican-l.jpg?size=640w"),
+				"1280w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/radu-crican-l.jpg?size=1280w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/tyler-hunt-l.jpg?size=640w") + " 640w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/tyler-hunt-l.jpg?size=1280w") + " 1280w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/tyler-hunt-l.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/radu-crican-l.jpg?size=640w") + " 640w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/radu-crican-l.jpg?size=1280w") + " 1280w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/radu-crican-l.jpg")
 		}
 	},
-	"./assets/team/tyler-hunt.jpg?sizes=400w+800w": function (e, t, o) {
+	"./assets/team/radu-crican.jpg?sizes=400w+800w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"400w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/tyler-hunt.jpg?size=400w"),
-				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/tyler-hunt.jpg?size=800w")
+				"400w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/radu-crican.jpg?size=400w"),
+				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/radu-crican.jpg?size=800w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/tyler-hunt.jpg?size=400w") + " 400w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/tyler-hunt.jpg?size=800w") + " 800w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/tyler-hunt.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/radu-crican.jpg?size=400w") + " 400w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/radu-crican.jpg?size=800w") + " 800w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/team/radu-crican.jpg")
 		}
 	},
 	"./assets/work/cisco/cisco-1-1-a.jpg?sizes=800w+1600w": function (e, t, o) {
@@ -7228,11 +7158,11 @@ webpackJsonp(["app"], {
 		}
 		
 		Object.defineProperty(t, "__esModule", {value: !0});
-		var a = n(["\n  background: ", ";\n  position: relative;\n"], ["\n  background: ", ";\n  position: relative;\n"]), d = n(["\n  bottom: 0;\n  color: ", ";\n  font-weight: bold;\n  left: 0;\n  padding: 1rem;\n  position: absolute;\n  right: 1rem;\n  transition: transform 600ms ", ";\n  z-index: 40;\n  strong {\n    display: block;\n    line-height: 1.3;\n  }\n  span {\n    display: block;\n    font-size: ", ";\n    letter-spacing: 0.2em;\n    line-height: 1.5;\n    opacity: 0.6;\n    text-transform: uppercase;\n  }\n"], ["\n  bottom: 0;\n  color: ", ";\n  font-weight: bold;\n  left: 0;\n  padding: 1rem;\n  position: absolute;\n  right: 1rem;\n  transition: transform 600ms ", ";\n  z-index: 40;\n  strong {\n    display: block;\n    line-height: 1.3;\n  }\n  span {\n    display: block;\n    font-size: ", ";\n    letter-spacing: 0.2em;\n    line-height: 1.5;\n    opacity: 0.6;\n    text-transform: uppercase;\n  }\n"]), l = n(["\n  margin: 8rem 0 4rem;\n  transition: opacity 400ms ease;\n  @media (min-width: 45em) {\n    margin-top: 16rem;\n  }\n"], ["\n  margin: 8rem 0 4rem;\n  transition: opacity 400ms ease;\n  @media (min-width: 45em) {\n    margin-top: 16rem;\n  }\n"]), r = n(["\n  grid-column-gap: 3.125vw;\n"], ["\n  grid-column-gap: 3.125vw;\n"]), i = n(["\n  grid-column: 3 / span 12;\n  margin-bottom: 3.125vw;\n  overflow: hidden;\n  padding-top: 100%;\n  position: relative;\n  text-decoration: none;\n  z-index: 20;\n  &:hover,\n  &:focus {\n    &::after {\n      opacity: 1;\n    }\n    &::before {\n      opacity: 1;\n      transform: scale(1);\n      transition: opacity 600ms ", ", transform 600ms ", ";\n    }\n    > div:first-child {\n      transform: scale(1.05);\n    }\n    > div:last-child {\n      transform: translate(1rem, -1rem);\n    }\n  }\n  &::after {\n    background: linear-gradient(rgba(50, 50, 49, 0), rgba(50, 50, 49, 1));\n    bottom: 0;\n    content: '';\n    height: 6rem;\n    left: 0;\n    opacity: 0.7;\n    position: absolute;\n    right: 0;\n    transition: opacity 300ms ease;\n    will-change: opacity;\n    z-index: 20;\n  }\n  &::before {\n    border: 2px solid ", ";\n    bottom: 0;\n    content: '';\n    left: 0;\n    margin: 1rem;\n    opacity: 0;\n    position: absolute;\n    right: 0;\n    top: 0;\n    transform: scale(1.25);\n    transition: opacity 300ms ease, transform 0ms 300ms;\n    z-index: 30;\n  }\n  > div:first-child {\n    bottom: 0;\n    left: 0;\n    position: absolute;\n    right: 0;\n    top: 0;\n    transition: transform 800ms ", ";\n    will-change: transform;\n  }\n  > div:last-child {\n    will-change: transform;\n  }\n  @media (min-width: 40em) {\n    grid-column-start: auto;\n    grid-column-end: span 6;\n    &:nth-child(odd) {\n      grid-column-start: 3;\n    }\n  }\n  @media (min-width: 77em) {\n    grid-column-end: span 4;\n    padding-top: 0;\n    &:nth-child(odd) {\n      grid-column-start: auto;\n    }\n    &:nth-child(3n + 1) {\n      grid-column-start: 3;\n    }\n    > div:first-child {\n      position: static;\n    }\n  }\n  @media (min-width: 115em) {\n    grid-column-end: span 3;\n    &:nth-child(odd) {\n      grid-column-start: auto;\n    }\n    &:nth-child(3n + 1) {\n      grid-column-start: auto;\n    }\n    &:nth-child(4n + 1) {\n      grid-column-start: 3;\n    }\n  }\n  @supports not (display: grid) {\n    max-width: 20rem;\n  }\n"], ["\n  grid-column: 3 / span 12;\n  margin-bottom: 3.125vw;\n  overflow: hidden;\n  padding-top: 100%;\n  position: relative;\n  text-decoration: none;\n  z-index: 20;\n  &:hover,\n  &:focus {\n    &::after {\n      opacity: 1;\n    }\n    &::before {\n      opacity: 1;\n      transform: scale(1);\n      transition: opacity 600ms ", ", transform 600ms ", ";\n    }\n    > div:first-child {\n      transform: scale(1.05);\n    }\n    > div:last-child {\n      transform: translate(1rem, -1rem);\n    }\n  }\n  &::after {\n    background: linear-gradient(rgba(50, 50, 49, 0), rgba(50, 50, 49, 1));\n    bottom: 0;\n    content: '';\n    height: 6rem;\n    left: 0;\n    opacity: 0.7;\n    position: absolute;\n    right: 0;\n    transition: opacity 300ms ease;\n    will-change: opacity;\n    z-index: 20;\n  }\n  &::before {\n    border: 2px solid ", ";\n    bottom: 0;\n    content: '';\n    left: 0;\n    margin: 1rem;\n    opacity: 0;\n    position: absolute;\n    right: 0;\n    top: 0;\n    transform: scale(1.25);\n    transition: opacity 300ms ease, transform 0ms 300ms;\n    z-index: 30;\n  }\n  > div:first-child {\n    bottom: 0;\n    left: 0;\n    position: absolute;\n    right: 0;\n    top: 0;\n    transition: transform 800ms ", ";\n    will-change: transform;\n  }\n  > div:last-child {\n    will-change: transform;\n  }\n  @media (min-width: 40em) {\n    grid-column-start: auto;\n    grid-column-end: span 6;\n    &:nth-child(odd) {\n      grid-column-start: 3;\n    }\n  }\n  @media (min-width: 77em) {\n    grid-column-end: span 4;\n    padding-top: 0;\n    &:nth-child(odd) {\n      grid-column-start: auto;\n    }\n    &:nth-child(3n + 1) {\n      grid-column-start: 3;\n    }\n    > div:first-child {\n      position: static;\n    }\n  }\n  @media (min-width: 115em) {\n    grid-column-end: span 3;\n    &:nth-child(odd) {\n      grid-column-start: auto;\n    }\n    &:nth-child(3n + 1) {\n      grid-column-start: auto;\n    }\n    &:nth-child(4n + 1) {\n      grid-column-start: 3;\n    }\n  }\n  @supports not (display: grid) {\n    max-width: 20rem;\n  }\n"]), c = o("../node_modules/react/index.js"), m = s(c), u = o("../node_modules/prop-types/index.js"), p = s(u), g = o("../node_modules/react-router-dom/es/index.js"), f = o("../node_modules/react-transition-group/index.js"), h = o("../node_modules/styled-components/dist/styled-components.browser.es.js"), U = s(h), b = o("./components/PositionLink.js"), w = s(b), Q = o("./components/Photo.js"), F = s(Q), j = o("./components/TeamMember.js"), V = s(j), R = o("./components/styled-components/Layout.js"), B = o("./components/styled-components/Text.js"), k = o("./assets/motifs/motif-3.svg"), z = (s(k), o("./assets/team/ayana-campbell-smith.jpg?sizes=400w+800w")), Z = s(z), v = o("./assets/team/ben-stankich.jpg?sizes=400w+800w"), I = s(v), E = o("./assets/team/bernie-mapili.jpg?sizes=400w+800w"), S = s(E), N = o("./assets/team/dray-lacy.jpg?sizes=400w+800w"), y = s(N), C = o("./assets/team/jacob-swanner.jpg?sizes=400w+800w"), W = s(C), x = o("./assets/team/jennifer-borders.jpg?sizes=400w+800w"), D = s(x), T = o("./assets/team/mark-kendall.jpg?sizes=400w+800w"), A = s(T), _ = o("./assets/team/matt-schultz.jpg?sizes=400w+800w"), M = s(_), J = o("./assets/team/nathaniel-bibler.jpg?sizes=400w+800w"), L = s(J), G = o("./assets/team/nick-walsh.jpg?sizes=400w+800w"), H = s(G), Y = o("./assets/team/olivia-howard.jpg?sizes=400w+800w"), X = s(Y), O = o("./assets/team/thomas-meeks.jpg?sizes=400w+800w"), P = s(O), K = o("./assets/team/tyler-hunt.jpg?sizes=400w+800w"), q = s(K), $ = o("../data/team.js"), ee = s($), te = {
-			"nathaniel-bibler": L.default,
-			"tyler-hunt": q.default,
+		var a = n(["\n  background: ", ";\n  position: relative;\n"], ["\n  background: ", ";\n  position: relative;\n"]), d = n(["\n  bottom: 0;\n  color: ", ";\n  font-weight: bold;\n  left: 0;\n  padding: 1rem;\n  position: absolute;\n  right: 1rem;\n  transition: transform 600ms ", ";\n  z-index: 40;\n  strong {\n    display: block;\n    line-height: 1.3;\n  }\n  span {\n    display: block;\n    font-size: ", ";\n    letter-spacing: 0.2em;\n    line-height: 1.5;\n    opacity: 0.6;\n    text-transform: uppercase;\n  }\n"], ["\n  bottom: 0;\n  color: ", ";\n  font-weight: bold;\n  left: 0;\n  padding: 1rem;\n  position: absolute;\n  right: 1rem;\n  transition: transform 600ms ", ";\n  z-index: 40;\n  strong {\n    display: block;\n    line-height: 1.3;\n  }\n  span {\n    display: block;\n    font-size: ", ";\n    letter-spacing: 0.2em;\n    line-height: 1.5;\n    opacity: 0.6;\n    text-transform: uppercase;\n  }\n"]), l = n(["\n  margin: 8rem 0 4rem;\n  transition: opacity 400ms ease;\n  @media (min-width: 45em) {\n    margin-top: 16rem;\n  }\n"], ["\n  margin: 8rem 0 4rem;\n  transition: opacity 400ms ease;\n  @media (min-width: 45em) {\n    margin-top: 16rem;\n  }\n"]), r = n(["\n  grid-column-gap: 3.125vw;\n"], ["\n  grid-column-gap: 3.125vw;\n"]), i = n(["\n  grid-column: 3 / span 12;\n  margin-bottom: 3.125vw;\n  overflow: hidden;\n  padding-top: 100%;\n  position: relative;\n  text-decoration: none;\n  z-index: 20;\n  &:hover,\n  &:focus {\n    &::after {\n      opacity: 1;\n    }\n    &::before {\n      opacity: 1;\n      transform: scale(1);\n      transition: opacity 600ms ", ", transform 600ms ", ";\n    }\n    > div:first-child {\n      transform: scale(1.05);\n    }\n    > div:last-child {\n      transform: translate(1rem, -1rem);\n    }\n  }\n  &::after {\n    background: linear-gradient(rgba(50, 50, 49, 0), rgba(50, 50, 49, 1));\n    bottom: 0;\n    content: '';\n    height: 6rem;\n    left: 0;\n    opacity: 0.7;\n    position: absolute;\n    right: 0;\n    transition: opacity 300ms ease;\n    will-change: opacity;\n    z-index: 20;\n  }\n  &::before {\n    border: 2px solid ", ";\n    bottom: 0;\n    content: '';\n    left: 0;\n    margin: 1rem;\n    opacity: 0;\n    position: absolute;\n    right: 0;\n    top: 0;\n    transform: scale(1.25);\n    transition: opacity 300ms ease, transform 0ms 300ms;\n    z-index: 30;\n  }\n  > div:first-child {\n    bottom: 0;\n    left: 0;\n    position: absolute;\n    right: 0;\n    top: 0;\n    transition: transform 800ms ", ";\n    will-change: transform;\n  }\n  > div:last-child {\n    will-change: transform;\n  }\n  @media (min-width: 40em) {\n    grid-column-start: auto;\n    grid-column-end: span 6;\n    &:nth-child(odd) {\n      grid-column-start: 3;\n    }\n  }\n  @media (min-width: 77em) {\n    grid-column-end: span 4;\n    padding-top: 0;\n    &:nth-child(odd) {\n      grid-column-start: auto;\n    }\n    &:nth-child(3n + 1) {\n      grid-column-start: 3;\n    }\n    > div:first-child {\n      position: static;\n    }\n  }\n  @media (min-width: 115em) {\n    grid-column-end: span 3;\n    &:nth-child(odd) {\n      grid-column-start: auto;\n    }\n    &:nth-child(3n + 1) {\n      grid-column-start: auto;\n    }\n    &:nth-child(4n + 1) {\n      grid-column-start: 3;\n    }\n  }\n  @supports not (display: grid) {\n    max-width: 20rem;\n  }\n"], ["\n  grid-column: 3 / span 12;\n  margin-bottom: 3.125vw;\n  overflow: hidden;\n  padding-top: 100%;\n  position: relative;\n  text-decoration: none;\n  z-index: 20;\n  &:hover,\n  &:focus {\n    &::after {\n      opacity: 1;\n    }\n    &::before {\n      opacity: 1;\n      transform: scale(1);\n      transition: opacity 600ms ", ", transform 600ms ", ";\n    }\n    > div:first-child {\n      transform: scale(1.05);\n    }\n    > div:last-child {\n      transform: translate(1rem, -1rem);\n    }\n  }\n  &::after {\n    background: linear-gradient(rgba(50, 50, 49, 0), rgba(50, 50, 49, 1));\n    bottom: 0;\n    content: '';\n    height: 6rem;\n    left: 0;\n    opacity: 0.7;\n    position: absolute;\n    right: 0;\n    transition: opacity 300ms ease;\n    will-change: opacity;\n    z-index: 20;\n  }\n  &::before {\n    border: 2px solid ", ";\n    bottom: 0;\n    content: '';\n    left: 0;\n    margin: 1rem;\n    opacity: 0;\n    position: absolute;\n    right: 0;\n    top: 0;\n    transform: scale(1.25);\n    transition: opacity 300ms ease, transform 0ms 300ms;\n    z-index: 30;\n  }\n  > div:first-child {\n    bottom: 0;\n    left: 0;\n    position: absolute;\n    right: 0;\n    top: 0;\n    transition: transform 800ms ", ";\n    will-change: transform;\n  }\n  > div:last-child {\n    will-change: transform;\n  }\n  @media (min-width: 40em) {\n    grid-column-start: auto;\n    grid-column-end: span 6;\n    &:nth-child(odd) {\n      grid-column-start: 3;\n    }\n  }\n  @media (min-width: 77em) {\n    grid-column-end: span 4;\n    padding-top: 0;\n    &:nth-child(odd) {\n      grid-column-start: auto;\n    }\n    &:nth-child(3n + 1) {\n      grid-column-start: 3;\n    }\n    > div:first-child {\n      position: static;\n    }\n  }\n  @media (min-width: 115em) {\n    grid-column-end: span 3;\n    &:nth-child(odd) {\n      grid-column-start: auto;\n    }\n    &:nth-child(3n + 1) {\n      grid-column-start: auto;\n    }\n    &:nth-child(4n + 1) {\n      grid-column-start: 3;\n    }\n  }\n  @supports not (display: grid) {\n    max-width: 20rem;\n  }\n"]), c = o("../node_modules/react/index.js"), m = s(c), u = o("../node_modules/prop-types/index.js"), p = s(u), g = o("../node_modules/react-router-dom/es/index.js"), f = o("../node_modules/react-transition-group/index.js"), h = o("../node_modules/styled-components/dist/styled-components.browser.es.js"), U = s(h), b = o("./components/PositionLink.js"), w = s(b), Q = o("./components/Photo.js"), F = s(Q), j = o("./components/TeamMember.js"), V = s(j), R = o("./components/styled-components/Layout.js"), B = o("./components/styled-components/Text.js"), k = o("./assets/motifs/motif-3.svg"), z = (s(k), o("./assets/team/ayana-campbell-smith.jpg?sizes=400w+800w")), Z = s(z), v = o("./assets/team/ben-stankich.jpg?sizes=400w+800w"), I = s(v), E = o("./assets/team/bernie-mapili.jpg?sizes=400w+800w"), S = s(E), N = o("./assets/team/dray-lacy.jpg?sizes=400w+800w"), y = s(N), C = o("./assets/team/jacob-swanner.jpg?sizes=400w+800w"), W = s(C), x = o("./assets/team/jennifer-borders.jpg?sizes=400w+800w"), D = s(x), T = o("./assets/team/lucas-louca.jpg?sizes=400w+800w"), A = s(T), _ = o("./assets/team/matt-schultz.jpg?sizes=400w+800w"), M = s(_), J = o("./assets/team/lucian-crisan@Lucian-alliance.jpg?sizes=400w+800w"), L = s(J), G = o("./assets/team/nick-walsh.jpg?sizes=400w+800w"), H = s(G), Y = o("./assets/team/olivia-howard.jpg?sizes=400w+800w"), X = s(Y), O = o("./assets/team/thomas-meeks.jpg?sizes=400w+800w"), P = s(O), K = o("./assets/team/radu-crican.jpg?sizes=400w+800w"), q = s(K), $ = o("../data/team.js"), ee = s($), te = {
+			"lucian-crisan@Lucian-alliance": L.default,
+			"radu-crican": q.default,
 			"jacob-swanner": W.default,
-			"mark-kendall": A.default,
+			"lucas-louca": A.default,
 			"jennifer-borders": D.default,
 			"nick-walsh": H.default,
 			"dray-lacy": y.default,
@@ -7340,11 +7270,11 @@ webpackJsonp(["app"], {
 			return function (t, o, s) {
 				return o && e(t.prototype, o), s && e(t, s), t
 			}
-		}(), i = l(["\n  from {\n    opacity: 0;\n    transform: translateY(1rem);\n  }\n"], ["\n  from {\n    opacity: 0;\n    transform: translateY(1rem);\n  }\n"]), c = l(["\n  align-items: center;\n  animation: ", " 800ms ", " 800ms both;\n  background: ", ";\n  border-radius: 50%;\n  box-shadow: 0 0 1.5rem rgba(0, 0, 0, 0.2);\n  color: ", ";\n  display: flex;\n  font-size: ", ";\n  height: 3rem;\n  justify-content: center;\n  position: absolute;\n  right: 0;\n  text-decoration: none;\n  top: 4rem;\n  width: 3rem;\n  z-index: 10;\n  &:hover,\n  &:focus {\n    background: ", ";\n    color: ", ";\n  }\n  svg {\n    width: 50%;\n  }\n  span {\n    font: 0/0 a;\n    color: transparent;\n    text-shadow: none;\n    background-color: transparent;\n    border: 0;\n  }\n  ", "\n"], ["\n  align-items: center;\n  animation: ", " 800ms ", " 800ms both;\n  background: ", ";\n  border-radius: 50%;\n  box-shadow: 0 0 1.5rem rgba(0, 0, 0, 0.2);\n  color: ", ";\n  display: flex;\n  font-size: ", ";\n  height: 3rem;\n  justify-content: center;\n  position: absolute;\n  right: 0;\n  text-decoration: none;\n  top: 4rem;\n  width: 3rem;\n  z-index: 10;\n  &:hover,\n  &:focus {\n    background: ", ";\n    color: ", ";\n  }\n  svg {\n    width: 50%;\n  }\n  span {\n    font: 0/0 a;\n    color: transparent;\n    text-shadow: none;\n    background-color: transparent;\n    border: 0;\n  }\n  ", "\n"]), m = l(["\n    opacity: 0;\n  "], ["\n    opacity: 0;\n  "]), u = l(["\n  from {\n    opacity: 0;\n  }\n"], ["\n  from {\n    opacity: 0;\n  }\n"]), p = l(["\n  to {\n    opacity: 0;\n  }\n"], ["\n  to {\n    opacity: 0;\n  }\n"]), g = l(["\n  animation: ", " 400ms ease 100ms both;\n  background: rgba(255, 255, 255, 0.925);\n  bottom: 0;\n  color: ", ";\n  left: 0;\n  overflow: auto;\n  position: fixed;\n  right: 0;\n  top: 0;\n  will-change: opacity;\n  z-index: 90;\n  ", "\n"], ["\n  animation: ", " 400ms ease 100ms both;\n  background: rgba(255, 255, 255, 0.925);\n  bottom: 0;\n  color: ", ";\n  left: 0;\n  overflow: auto;\n  position: fixed;\n  right: 0;\n  top: 0;\n  will-change: opacity;\n  z-index: 90;\n  ", "\n"]), f = l(["\n    animation: ", " 400ms ease both;\n  "], ["\n    animation: ", " 400ms ease both;\n  "]), h = l(["\n  animation: ", " 400ms ease 700ms both;\n  grid-column: 3 / span 12;\n  padding: 5rem 0;\n  position: relative;\n  will-change: opacity;\n  ", "\n  @media (min-width: 65em) {\n    grid-column: 10 / span 6;\n  }\n"], ["\n  animation: ", " 400ms ease 700ms both;\n  grid-column: 3 / span 12;\n  padding: 5rem 0;\n  position: relative;\n  will-change: opacity;\n  ", "\n  @media (min-width: 65em) {\n    grid-column: 10 / span 6;\n  }\n"]), U = l(["\n  background: rgba(", ");\n  grid-column: 1 / span 16;\n  overflow: hidden;\n  position: relative;\n  transform: translate(0, 0) scale(1);\n  transition: transform 400ms ", ";\n  will-change: transform;\n  ", "\n  ", "\n  @media (min-width: 65em) {\n    grid-column: 1 / span 8;\n  }\n"], ["\n  background: rgba(", ");\n  grid-column: 1 / span 16;\n  overflow: hidden;\n  position: relative;\n  transform: translate(0, 0) scale(1);\n  transition: transform 400ms ", ";\n  will-change: transform;\n  ", "\n  ", "\n  @media (min-width: 65em) {\n    grid-column: 1 / span 8;\n  }\n"]), b = l(["\n    transform: translate(", "px, ", "px) scale(", ");\n    transition-delay: 0s;\n    transition-duration: 0s;\n  "], ["\n    transform: translate(", "px, ", "px) scale(", ");\n    transition-delay: 0s;\n    transition-duration: 0s;\n  "]), w = l(["\n    transform: translate(", "px, ", "px) scale(", ");\n    transition-delay: 0s;\n  "], ["\n    transform: translate(", "px, ", "px) scale(", ");\n    transition-delay: 0s;\n  "]), Q = l(["\n  animation: ", " 400ms ease 700ms both;\n  position: relative;\n  &::after {\n    border: 2px solid ", ";\n    bottom: 0;\n    content: '';\n    left: 0;\n    margin: 1rem;\n    position: absolute;\n    right: 0;\n    top: 0;\n    z-index: 10;\n  }\n  ", "\n  @media (min-width: 45em) {\n    &::after {\n      margin: 2rem;\n    }\n  }\n"], ["\n  animation: ", " 400ms ease 700ms both;\n  position: relative;\n  &::after {\n    border: 2px solid ", ";\n    bottom: 0;\n    content: '';\n    left: 0;\n    margin: 1rem;\n    position: absolute;\n    right: 0;\n    top: 0;\n    z-index: 10;\n  }\n  ", "\n  @media (min-width: 45em) {\n    &::after {\n      margin: 2rem;\n    }\n  }\n"]), F = l(["\n  align-items: start;\n  grid-template-rows: 1fr;\n  min-height: 100vh;\n  @media (min-width: 65em) {\n    align-items: center;\n  }\n"], ["\n  align-items: start;\n  grid-template-rows: 1fr;\n  min-height: 100vh;\n  @media (min-width: 65em) {\n    align-items: center;\n  }\n"]), j = l(["\n  display: flex;\n  margin-top: 2rem;\n"], ["\n  display: flex;\n  margin-top: 2rem;\n"]), V = l(["\n  align-items: center;\n  background: ", ";\n  border-radius: 50%;\n  color: ", ";\n  display: flex;\n  height: 1.75rem;\n  justify-content: center;\n  line-height: 1.75rem;\n  margin-right: 0.75rem;\n  opacity: 0.8;\n  transition: opacity 200ms ", ';\n  width: 1.75rem;\n  &:hover,\n  &:focus {\n    opacity: 1;\n  }\n  &[data-service="dribbble"] {\n    background: #ea4c89;\n  }\n  &[data-service="linkedin"] {\n    background: #0C62A6;\n  }\n  &[data-service="personal"] {\n    background: ', ';\n  }\n  &[data-service="pinterest"] {\n    background: #AD0017;\n  }\n  &[data-service="twitter"] {\n    background: #1d8def;\n  }\n  svg {\n    display: block;\n  }\n'], ["\n  align-items: center;\n  background: ", ";\n  border-radius: 50%;\n  color: ", ";\n  display: flex;\n  height: 1.75rem;\n  justify-content: center;\n  line-height: 1.75rem;\n  margin-right: 0.75rem;\n  opacity: 0.8;\n  transition: opacity 200ms ", ';\n  width: 1.75rem;\n  &:hover,\n  &:focus {\n    opacity: 1;\n  }\n  &[data-service="dribbble"] {\n    background: #ea4c89;\n  }\n  &[data-service="linkedin"] {\n    background: #0C62A6;\n  }\n  &[data-service="personal"] {\n    background: ', ';\n  }\n  &[data-service="pinterest"] {\n    background: #AD0017;\n  }\n  &[data-service="twitter"] {\n    background: #1d8def;\n  }\n  svg {\n    display: block;\n  }\n']), R = o("../node_modules/react/index.js"), B = s(R), k = o("../node_modules/prop-types/index.js"), z = s(k), Z = o("../node_modules/react-helmet/lib/Helmet.js"), v = o("../node_modules/react-router-dom/es/index.js"), I = o("../node_modules/styled-components/dist/styled-components.browser.es.js"), E = s(I), S = o("./lib/ga-event.js"), N = s(S), y = o("./components/Icon.js"), C = s(y), W = o("./components/Photo.js"), x = s(W), D = o("./components/styled-components/Layout.js"), T = o("./components/styled-components/Text.js"), A = o("./assets/team/ayana-campbell-smith-l.jpg?sizes=640w+1280w"), _ = s(A), M = o("./assets/team/ben-stankich-l.jpg?sizes=640w+1280w"), J = s(M), L = o("./assets/team/bernie-mapili-l.jpg?sizes=640w+1280w"), G = s(L), H = o("./assets/team/dray-lacy-l.jpg?sizes=640w+1280w"), Y = s(H), X = o("./assets/team/jacob-swanner-l.jpg?sizes=640w+1280w"), O = s(X), P = o("./assets/team/jennifer-borders-l.jpg?sizes=640w+1280w"), K = s(P), q = o("./assets/team/mark-kendall-l.jpg?sizes=640w+1280w"), $ = s(q), ee = o("./assets/team/matt-schultz-l.jpg?sizes=640w+1280w"), te = s(ee), oe = o("./assets/team/nathaniel-bibler-l.jpg?sizes=640w+1280w"), se = s(oe), ne = o("./assets/team/nick-walsh-l.jpg?sizes=640w+1280w"), ae = s(ne), de = o("./assets/team/olivia-howard-l.jpg?sizes=640w+1280w"), le = s(de), re = o("./assets/team/tyler-hunt-l.jpg?sizes=640w+1280w"), ie = s(re), ce = o("./assets/team/thomas-meeks-l.jpg?sizes=640w+1280w"), me = s(ce), ue = o("../data/team.js"), pe = s(ue), ge = {
-			"nathaniel-bibler": se.default,
-			"tyler-hunt": ie.default,
+		}(), i = l(["\n  from {\n    opacity: 0;\n    transform: translateY(1rem);\n  }\n"], ["\n  from {\n    opacity: 0;\n    transform: translateY(1rem);\n  }\n"]), c = l(["\n  align-items: center;\n  animation: ", " 800ms ", " 800ms both;\n  background: ", ";\n  border-radius: 50%;\n  box-shadow: 0 0 1.5rem rgba(0, 0, 0, 0.2);\n  color: ", ";\n  display: flex;\n  font-size: ", ";\n  height: 3rem;\n  justify-content: center;\n  position: absolute;\n  right: 0;\n  text-decoration: none;\n  top: 4rem;\n  width: 3rem;\n  z-index: 10;\n  &:hover,\n  &:focus {\n    background: ", ";\n    color: ", ";\n  }\n  svg {\n    width: 50%;\n  }\n  span {\n    font: 0/0 a;\n    color: transparent;\n    text-shadow: none;\n    background-color: transparent;\n    border: 0;\n  }\n  ", "\n"], ["\n  align-items: center;\n  animation: ", " 800ms ", " 800ms both;\n  background: ", ";\n  border-radius: 50%;\n  box-shadow: 0 0 1.5rem rgba(0, 0, 0, 0.2);\n  color: ", ";\n  display: flex;\n  font-size: ", ";\n  height: 3rem;\n  justify-content: center;\n  position: absolute;\n  right: 0;\n  text-decoration: none;\n  top: 4rem;\n  width: 3rem;\n  z-index: 10;\n  &:hover,\n  &:focus {\n    background: ", ";\n    color: ", ";\n  }\n  svg {\n    width: 50%;\n  }\n  span {\n    font: 0/0 a;\n    color: transparent;\n    text-shadow: none;\n    background-color: transparent;\n    border: 0;\n  }\n  ", "\n"]), m = l(["\n    opacity: 0;\n  "], ["\n    opacity: 0;\n  "]), u = l(["\n  from {\n    opacity: 0;\n  }\n"], ["\n  from {\n    opacity: 0;\n  }\n"]), p = l(["\n  to {\n    opacity: 0;\n  }\n"], ["\n  to {\n    opacity: 0;\n  }\n"]), g = l(["\n  animation: ", " 400ms ease 100ms both;\n  background: rgba(255, 255, 255, 0.925);\n  bottom: 0;\n  color: ", ";\n  left: 0;\n  overflow: auto;\n  position: fixed;\n  right: 0;\n  top: 0;\n  will-change: opacity;\n  z-index: 90;\n  ", "\n"], ["\n  animation: ", " 400ms ease 100ms both;\n  background: rgba(255, 255, 255, 0.925);\n  bottom: 0;\n  color: ", ";\n  left: 0;\n  overflow: auto;\n  position: fixed;\n  right: 0;\n  top: 0;\n  will-change: opacity;\n  z-index: 90;\n  ", "\n"]), f = l(["\n    animation: ", " 400ms ease both;\n  "], ["\n    animation: ", " 400ms ease both;\n  "]), h = l(["\n  animation: ", " 400ms ease 700ms both;\n  grid-column: 3 / span 12;\n  padding: 5rem 0;\n  position: relative;\n  will-change: opacity;\n  ", "\n  @media (min-width: 65em) {\n    grid-column: 10 / span 6;\n  }\n"], ["\n  animation: ", " 400ms ease 700ms both;\n  grid-column: 3 / span 12;\n  padding: 5rem 0;\n  position: relative;\n  will-change: opacity;\n  ", "\n  @media (min-width: 65em) {\n    grid-column: 10 / span 6;\n  }\n"]), U = l(["\n  background: rgba(", ");\n  grid-column: 1 / span 16;\n  overflow: hidden;\n  position: relative;\n  transform: translate(0, 0) scale(1);\n  transition: transform 400ms ", ";\n  will-change: transform;\n  ", "\n  ", "\n  @media (min-width: 65em) {\n    grid-column: 1 / span 8;\n  }\n"], ["\n  background: rgba(", ");\n  grid-column: 1 / span 16;\n  overflow: hidden;\n  position: relative;\n  transform: translate(0, 0) scale(1);\n  transition: transform 400ms ", ";\n  will-change: transform;\n  ", "\n  ", "\n  @media (min-width: 65em) {\n    grid-column: 1 / span 8;\n  }\n"]), b = l(["\n    transform: translate(", "px, ", "px) scale(", ");\n    transition-delay: 0s;\n    transition-duration: 0s;\n  "], ["\n    transform: translate(", "px, ", "px) scale(", ");\n    transition-delay: 0s;\n    transition-duration: 0s;\n  "]), w = l(["\n    transform: translate(", "px, ", "px) scale(", ");\n    transition-delay: 0s;\n  "], ["\n    transform: translate(", "px, ", "px) scale(", ");\n    transition-delay: 0s;\n  "]), Q = l(["\n  animation: ", " 400ms ease 700ms both;\n  position: relative;\n  &::after {\n    border: 2px solid ", ";\n    bottom: 0;\n    content: '';\n    left: 0;\n    margin: 1rem;\n    position: absolute;\n    right: 0;\n    top: 0;\n    z-index: 10;\n  }\n  ", "\n  @media (min-width: 45em) {\n    &::after {\n      margin: 2rem;\n    }\n  }\n"], ["\n  animation: ", " 400ms ease 700ms both;\n  position: relative;\n  &::after {\n    border: 2px solid ", ";\n    bottom: 0;\n    content: '';\n    left: 0;\n    margin: 1rem;\n    position: absolute;\n    right: 0;\n    top: 0;\n    z-index: 10;\n  }\n  ", "\n  @media (min-width: 45em) {\n    &::after {\n      margin: 2rem;\n    }\n  }\n"]), F = l(["\n  align-items: start;\n  grid-template-rows: 1fr;\n  min-height: 100vh;\n  @media (min-width: 65em) {\n    align-items: center;\n  }\n"], ["\n  align-items: start;\n  grid-template-rows: 1fr;\n  min-height: 100vh;\n  @media (min-width: 65em) {\n    align-items: center;\n  }\n"]), j = l(["\n  display: flex;\n  margin-top: 2rem;\n"], ["\n  display: flex;\n  margin-top: 2rem;\n"]), V = l(["\n  align-items: center;\n  background: ", ";\n  border-radius: 50%;\n  color: ", ";\n  display: flex;\n  height: 1.75rem;\n  justify-content: center;\n  line-height: 1.75rem;\n  margin-right: 0.75rem;\n  opacity: 0.8;\n  transition: opacity 200ms ", ';\n  width: 1.75rem;\n  &:hover,\n  &:focus {\n    opacity: 1;\n  }\n  &[data-service="dribbble"] {\n    background: #ea4c89;\n  }\n  &[data-service="linkedin"] {\n    background: #0C62A6;\n  }\n  &[data-service="personal"] {\n    background: ', ';\n  }\n  &[data-service="pinterest"] {\n    background: #AD0017;\n  }\n  &[data-service="twitter"] {\n    background: #1d8def;\n  }\n  svg {\n    display: block;\n  }\n'], ["\n  align-items: center;\n  background: ", ";\n  border-radius: 50%;\n  color: ", ";\n  display: flex;\n  height: 1.75rem;\n  justify-content: center;\n  line-height: 1.75rem;\n  margin-right: 0.75rem;\n  opacity: 0.8;\n  transition: opacity 200ms ", ';\n  width: 1.75rem;\n  &:hover,\n  &:focus {\n    opacity: 1;\n  }\n  &[data-service="dribbble"] {\n    background: #ea4c89;\n  }\n  &[data-service="linkedin"] {\n    background: #0C62A6;\n  }\n  &[data-service="personal"] {\n    background: ', ';\n  }\n  &[data-service="pinterest"] {\n    background: #AD0017;\n  }\n  &[data-service="twitter"] {\n    background: #1d8def;\n  }\n  svg {\n    display: block;\n  }\n']), R = o("../node_modules/react/index.js"), B = s(R), k = o("../node_modules/prop-types/index.js"), z = s(k), Z = o("../node_modules/react-helmet/lib/Helmet.js"), v = o("../node_modules/react-router-dom/es/index.js"), I = o("../node_modules/styled-components/dist/styled-components.browser.es.js"), E = s(I), S = o("./lib/ga-event.js"), N = s(S), y = o("./components/Icon.js"), C = s(y), W = o("./components/Photo.js"), x = s(W), D = o("./components/styled-components/Layout.js"), T = o("./components/styled-components/Text.js"), A = o("./assets/team/ayana-campbell-smith-l.jpg?sizes=640w+1280w"), _ = s(A), M = o("./assets/team/ben-stankich-l.jpg?sizes=640w+1280w"), J = s(M), L = o("./assets/team/bernie-mapili-l.jpg?sizes=640w+1280w"), G = s(L), H = o("./assets/team/dray-lacy-l.jpg?sizes=640w+1280w"), Y = s(H), X = o("./assets/team/jacob-swanner-l.jpg?sizes=640w+1280w"), O = s(X), P = o("./assets/team/jennifer-borders-l.jpg?sizes=640w+1280w"), K = s(P), q = o("./assets/team/lucas-louca-l.jpg?sizes=640w+1280w"), $ = s(q), ee = o("./assets/team/matt-schultz-l.jpg?sizes=640w+1280w"), te = s(ee), oe = o("./assets/team/lucian-crisan@Lucian-alliance-l.jpg?sizes=640w+1280w"), se = s(oe), ne = o("./assets/team/nick-walsh-l.jpg?sizes=640w+1280w"), ae = s(ne), de = o("./assets/team/olivia-howard-l.jpg?sizes=640w+1280w"), le = s(de), re = o("./assets/team/radu-crican-l.jpg?sizes=640w+1280w"), ie = s(re), ce = o("./assets/team/thomas-meeks-l.jpg?sizes=640w+1280w"), me = s(ce), ue = o("../data/team.js"), pe = s(ue), ge = {
+			"lucian-crisan@Lucian-alliance": se.default,
+			"radu-crican": ie.default,
 			"jacob-swanner": O.default,
-			"mark-kendall": $.default,
+			"lucas-louca": $.default,
 			"jennifer-borders": K.default,
 			"nick-walsh": ae.default,
 			"dray-lacy": Y.default,
