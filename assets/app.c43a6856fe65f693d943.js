@@ -8415,15 +8415,7 @@ webpackJsonp(["app"], {
 							alt: "Envy Labs office detail",
 							default: "640w",
 							imageData: le.default
-						})))), Z.default.createElement(J.default, null)))
-						title: "About Us :: TopCraftBits",
-						description: "Our values, team, story, culture, and place to put all the things that did not quite fit on the other pages.",
-						image: K.default,
-						status: this.props.status
-					},
-					Z.default.createElement(C.default, null, Z.default.createElement(Y.Heading, null, Z.default.createElement("div", null, Z.default.createElement(O.H4, null, "About"),
-					Z.default.createElement(O.H1, null, "Meet Our Team Astrocats"), Z.default.createElement(O.Intro, null, "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seddiam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasdgubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sitamet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo", Z.default.createElement(O.StyledLink, {to: "#"}, "link"), ". Lorem impsum lorem.")))),
-					Z.default.createElement(Y.Content, null, Z.default.createElement(Y.Grid, null, Z.default.createElement(ze, null, Z.default.createElement(O.H2, null, "Why Astrocats Team? Glad You Asked."), Z.default.createElement(O.Intro, null, "We know how hard it is to pick a team. Is Astrocats Team good? (", Z.default.createElement("em", null, "Yup."), ") Is the team easy to work with? (", Z.default.createElement("em", null, "Also yes."), ") Will they deliver solid work at an honest rate? (",              Z.default.createElement("em", null, "Our clients think so!"), ")"))),
+						})))),
 					Z.default.createElement(J.default, null)))
 				}
 			}]), t
