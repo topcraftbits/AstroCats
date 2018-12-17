@@ -8401,7 +8401,7 @@ webpackJsonp(["app"], {
 							default: "640w",
 							imageData: le.default
 						})))),
-					Z.default.createElement(J.default, null)))
+					Z.default.createElement(J.default, null))
 				}
 			}]), t
 		}(Z.default.Component);
