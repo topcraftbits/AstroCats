@@ -8387,8 +8387,10 @@ webpackJsonp(["app"], {
 							Z.default.createElement(O.H1, null, "Meet Our Team Astrocats"), Z.default.createElement(O.Intro, null, "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seddiam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasdgubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sitamet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo ", Z.default.createElement(O.StyledLink, {to: "#"}, "link"), ". Lorem impsum lorem.")))), Z.default.createElement(Y.Content, null, Z.default.createElement(Y.Grid, null, Z.default.createElement(ze, null, Z.default.createElement(O.H2, null, "Why Envy Labs? Glad You Asked."), Z.default.createElement(O.Intro, null, "We know how hard it is to pick a team. Is Envy Labs good? (", Z.default.createElement("em", null, "Yup."), ") Is the team easy to work with? (", Z.default.createElement("em", null, "Also yes."), ") Will they deliver solid work at an honest rate? (", Z.default.createElement("em", null, "Our clients think so!"), ")"))), Z.default.createElement(ke, null, Z.default.createElement(Ze, null, Z.default.createElement("img", {
 							src: pe.default,
 							alt: ""
-						})),
-							Z.default.createElement(Qe, null, Z.default.createElement(O.H2, {invert: !0}, "Home Base"), Z.default.createElement(O.Intro, null, "Envy Labs calls the Sunshine State home (take ", Z.default.createElement("em", null, "that"), ", South Dakota) and hails from the most recognizable Orlando location not overrun with mouse ears: Lake Eola.")), Z.default.createElement(Fe, null, Z.default.createElement(je, null, Z.default.createElement(_.default, {
+						})), Z.default.createElement(we, {
+							background: "white",
+							color: "blackT"
+						}, Z.default.createElement(Qe, null, Z.default.createElement(O.H2, {invert: !0}, "Home Base"), Z.default.createElement(O.Intro, null, "Envy Labs calls the Sunshine State home (take ", Z.default.createElement("em", null, "that"), ", South Dakota) and hails from the most recognizable Orlando location not overrun with mouse ears: Lake Eola.")), Z.default.createElement(Fe, null, Z.default.createElement(je, null, Z.default.createElement(_.default, {
 							alt: "Envy Labs kitchen",
 							default: "1200w",
 							imageData: se.default
@@ -8401,7 +8403,7 @@ webpackJsonp(["app"], {
 							default: "640w",
 							imageData: le.default
 						})))),
-					Z.default.createElement(J.default, null))
+					Z.default.createElement(J.default, null)))
 				}
 			}]), t
 		}(Z.default.Component);
