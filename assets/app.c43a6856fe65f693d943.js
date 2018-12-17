@@ -37,7 +37,7 @@ webpackJsonp(["app"], {
 			"real-thread": {
 				title: "Real Thread",
 				type: "Case Study",
-				description: "Envy Labs helped Real Thread break into a new tier of online retail.",
+				description: "TopCraftBits helped Real Thread break into a new tier of online retail.",
 				slug: "real-thread",
 				cluster: {color1: "#693CB7", color2: "#00BCD4"}
 			},
@@ -72,7 +72,7 @@ webpackJsonp(["app"], {
 			ligonier: {
 				title: "Ligonier",
 				type: "Case Study",
-				description: "Envy Labs designed a data-driven experience where users could explore 3,000 survey participants’ answers.",
+				description: "TopCraftBits designed a data-driven experience where users could explore 3,000 survey participants’ answers.",
 				slug: "ligonier",
 				cluster: {color1: "#BA845B", color2: "#809197"}
 			},
@@ -6136,18 +6136,18 @@ webpackJsonp(["app"], {
 						onLeave: this.unfix
 					}), j.default.createElement(H, null), j.default.createElement(W, {fixed: this.state.fixed}, j.default.createElement(x, null, j.default.createElement(D, null, j.default.createElement(G, null, j.default.createElement(z.Link, {to: "/"}, j.default.createElement(_, {
 						src: C.default,
-						alt: "Envy Labs"
+						alt: "TopCraftBits"
 					}))), j.default.createElement(L, null, j.default.createElement("a", {href: "mailto:hello@topcraftbits.com?subject=Hey%20Envy%20Labs!"}, "hello@topcraftbits.com")), j.default.createElement(L, null, j.default.createElement("a", {href: "tel:8443100257"}, "844.310.0257"))), j.default.createElement(A, {
 						"aria-hidden": "true",
 						role: "presentation"
 					}, j.default.createElement(G, null, j.default.createElement(N.H4, {flush: !0}, "Navigate")), j.default.createElement(M, null, j.default.createElement(z.Link, {to: "/work/"}, "Work"), j.default.createElement("br", null), j.default.createElement(z.Link, {to: "/services/"}, "Services"), j.default.createElement("br", null), j.default.createElement(z.Link, {to: "/about/"}, "About"), j.default.createElement("br", null), j.default.createElement(z.Link, {to: "/contact/"}, "Contact"), j.default.createElement("br", null), j.default.createElement(R.default.OutboundLink, {
-						eventLabel: "Envy Labs Blog",
-						to: "https://blog.envylabs.com",
+						eventLabel: "TopCraftBits Blog",
+						to: "https://blog.topcraftbits.com",
 						rel: "noopener",
 						target: "_blank"
 					}, "Blog"))), j.default.createElement(T, null, j.default.createElement(G, null, j.default.createElement(N.H4, {flush: !0}, "Wanderlust")), j.default.createElement(M, null, j.default.createElement(R.default.OutboundLink, {
-						eventLabel: "Envy Labs on Twitter",
-						to: "https://twitter.com/envylabs",
+						eventLabel: "TopCraftBits on Twitter",
+						to: "https://twitter.com/topcraftbits",
 						"data-service": "twitter",
 						rel: "noopener",
 						target: "_blank"
@@ -6155,8 +6155,8 @@ webpackJsonp(["app"], {
 						id: "twitter",
 						title: "Twitter"
 					}), " Twitter"), j.default.createElement("br", null), j.default.createElement(R.default.OutboundLink, {
-						eventLabel: "Envy Labs on Dribbble",
-						to: "https://dribbble.com/envylabs",
+						eventLabel: "TopCraftBits on Dribbble",
+						to: "https://dribbble.com/topcraftbits",
 						"data-service": "dribbble",
 						rel: "noopener",
 						target: "_blank"
@@ -6164,16 +6164,16 @@ webpackJsonp(["app"], {
 						id: "dribbble",
 						title: "Dribbble"
 					}), " Dribbble"), j.default.createElement("br", null), j.default.createElement(R.default.OutboundLink, {
-						eventLabel: "Envy Labs on GitHub",
-						to: "https://github.com/envylabs",
+						eventLabel: "TopCraftBits on GitHub",
+						to: "https://github.com/topcraftbits",
 						rel: "noopener",
 						target: "_blank"
 					}, j.default.createElement(E.default, {
 						id: "github",
 						title: "GitHub"
 					}), " GitHub"), j.default.createElement("br", null), j.default.createElement(R.default.OutboundLink, {
-						eventLabel: "Envy Labs on Instagram",
-						to: "https://instagram.com/envylabs",
+						eventLabel: "TopCraftBits on Instagram",
+						to: "https://instagram.com/topcraftbits",
 						rel: "noopener",
 						target: "_blank"
 					}, j.default.createElement(E.default, {
@@ -6259,16 +6259,7 @@ webpackJsonp(["app"], {
 				}
 			}, {
 				key: "render", value: function () {
-					return f.default.createElement(j, null, f.default.createElement(R, {to: "/"}, f.default.createElement(B, null, "Envy Labs"), f.default.createElement(V, {
-						invert: this.state.invert,
-						viewBox: "0 0 350.7 69.8",
-						role: "presentation",
-						focusable: "false"
-					}, f.default.createElement("path", {d: "M70.2,29.9C68,14.4,55.8,2.2,40.3,0v29.9H70.2z"}), f.default.createElement("path", {d: "M0,34.9c0,17.8,13.2,32.4,30.3,34.9V0C13.2,2.5,0,17.1,0,34.9z"}), f.default.createElement("circle", {
-						cx: "55.5",
-						cy: "54.2",
-						r: "15.1"
-					}), f.default.createElement("path", {d: "M114,22.4v8.4h14.6v6.9H114v9.3h16.9v7.1h-25V15.4h24.9v7.1H114z"}), f.default.createElement("path", {d: "M263.8,47.1v7.1h-25V15.4h8v31.7H263.8z"}), f.default.createElement("path", {d: "M291.5,37.6v16.6h-7.3V52c-1.5,1.6-3.8,2.8-6.9,2.8c-5.4,0-8.9-2.8-8.9-7.9c0-6,5-7.9,10.7-8.1l4.8-0.3v-1c0-2.7-1.1-4.2-3.5-4.2c-2.6,0-3.7,1.8-3.7,3.5l-7.6-0.3c0-4.7,4.3-9.6,11.2-9.6C287.6,26.8,291.5,30.6,291.5,37.6z M279.9,43.6c-2.3,0.1-3.9,0.9-3.9,2.8c0,1.8,1.3,2.4,3.1,2.4c2.7,0,4.8-1.5,4.8-4.4v-1.1L279.9,43.6z"}), f.default.createElement("path", {d: "M304.4,29.7c1.4-1.6,4.1-2.9,7.5-2.9c7.6,0,13,5.5,13,14c0,8.4-5.3,14-13,14c-3.7,0-6.5-1.5-7.9-3.3v2.8h-7.2V13.9h7.6V29.7z M304.4,40.2v1.2c0,4.4,2.6,6.9,6.3,6.9c3.8,0,6.5-2.6,6.5-7.4s-2.7-7.5-6.5-7.5C307,33.3,304.4,35.9,304.4,40.2z"}), f.default.createElement("path", {d: "M350.3,35.5l-7.5,0.4c-0.1-1.9-1.1-3.3-3.4-3.3c-2,0-3.1,0.8-3.1,2.3c0,1.9,2,2.1,5.2,3c5.3,1.4,9.1,3.1,9.1,7.9c0,5.4-4,8.9-11,8.9c-6.9,0-10.8-3.1-11.4-8.7l7.6-0.4c0.1,2,1.3,3.3,3.9,3.3c2.1,0,3.4-0.9,3.4-2.4c0-1.6-1-2.1-4.9-3.1c-5.7-1.5-9.5-2.6-9.5-8.2c0-5.1,4-8.5,10.7-8.5C346.3,26.8,349.8,30.5,350.3,35.5z"}), f.default.createElement("path", {d: "M162,37.8v16.4h-7.6V39.2c0-3.4-1.8-5.3-4.7-5.3c-3,0-5,2.2-5,5.4v14.9h-7.6V27.3h7.2v2.8c1.2-1.9,3.6-3.3,7.2-3.3C157.7,26.8,162,30.8,162,37.8z"}), f.default.createElement("path", {d: "M175.5,54.2l-11.6-26.8h8.4l6.3,15.8l6.2-15.8h8.4l-11.6,26.8H175.5z"}), f.default.createElement("path", {d: "M215.2,27.3L209,43.1l-6.3-15.8h-8.4l10.3,26.8c0,0.1,0,0.3,0,0.4c-0.2,0.9-0.6,1.6-1.3,2.2c-1.4,1.2-3,1.2-4.7,0.9c-0.6-0.1-1.1-0.3-1.7-0.5c0,2.4,0,4.7,0,7.1c0.3,0.1,0.6,0.2,0.9,0.3c1.4,0.5,2.9,0.6,4.4,0.6c1.7,0,3.4-0.4,4.9-1.4c1-0.7,1.8-1.7,2.5-2.7c1.1-1.6,1.9-3.3,2.6-5.1c0.2-0.6,0.5-1.2,0.7-1.8l10.7-26.8H215.2z"}))), f.default.createElement(Q.default, {invert: this.state.invert}))
+					return f.default.createElement(j, null, f.default.createElement(R, {to: "/"}, f.default.createElement(B, null, "TopCraftBits"), {invert: this.state.invert}))
 				}
 			}]), t
 		}(f.default.Component);
@@ -6662,8 +6653,8 @@ webpackJsonp(["app"], {
 							e.links[3] = t
 						}
 					}, Q.default.createElement(B.NavLink, {to: Z[3].to}, Z[3].name)), Q.default.createElement(E, {invert: this.props.invert}, Q.default.createElement(j.default.OutboundLink, {
-						eventLabel: "Envy Labs Blog",
-						to: "https://blog.envylabs.com",
+						eventLabel: "TopCraftBits Blog",
+						to: "https://blog.topcraftbits.com",
 						rel: "noopener",
 						target: "_blank"
 					}, "Blog"))))
@@ -6739,7 +6730,7 @@ webpackJsonp(["app"], {
 				}
 			}, {
 				key: "render", value: function () {
-					var e = Object.keys(this.props.image.sources), t = "https://envylabs.com" + this.props.image.sources[e[0]];
+					var e = Object.keys(this.props.image.sources), t = "https://topcraftbits.com" + this.props.image.sources[e[0]];
 					return F.default.createElement(S, {
 						parentStatus: this.props.parentStatus,
 						status: this.props.status
@@ -6766,7 +6757,7 @@ webpackJsonp(["app"], {
 						content: "summary_large_image"
 					}), F.default.createElement("meta", {
 						name: "twitter:site",
-						content: "@envylabs"
+						content: "@topcraftbits"
 					}), F.default.createElement("meta", {
 						name: "twitter:title",
 						content: this.props.title
@@ -6782,7 +6773,7 @@ webpackJsonp(["app"], {
 		}(F.default.PureComponent);
 		M.defaultProps = {
 			parentStatus: "entered",
-			title: "Envy Labs :: Data-Driven Web Applications",
+			title: "TopCraftBits :: Data-Driven Web Applications",
 			description: "We’re just as excited about your idea. Say hello!",
 			image: v.default,
 			transitionFill: "#323231",
@@ -7161,17 +7152,7 @@ webpackJsonp(["app"], {
 		var a = n(["\n  background: ", ";\n  position: relative;\n"], ["\n  background: ", ";\n  position: relative;\n"]), d = n(["\n  bottom: 0;\n  color: ", ";\n  font-weight: bold;\n  left: 0;\n  padding: 1rem;\n  position: absolute;\n  right: 1rem;\n  transition: transform 600ms ", ";\n  z-index: 40;\n  strong {\n    display: block;\n    line-height: 1.3;\n  }\n  span {\n    display: block;\n    font-size: ", ";\n    letter-spacing: 0.2em;\n    line-height: 1.5;\n    opacity: 0.6;\n    text-transform: uppercase;\n  }\n"], ["\n  bottom: 0;\n  color: ", ";\n  font-weight: bold;\n  left: 0;\n  padding: 1rem;\n  position: absolute;\n  right: 1rem;\n  transition: transform 600ms ", ";\n  z-index: 40;\n  strong {\n    display: block;\n    line-height: 1.3;\n  }\n  span {\n    display: block;\n    font-size: ", ";\n    letter-spacing: 0.2em;\n    line-height: 1.5;\n    opacity: 0.6;\n    text-transform: uppercase;\n  }\n"]), l = n(["\n  margin: 8rem 0 4rem;\n  transition: opacity 400ms ease;\n  @media (min-width: 45em) {\n    margin-top: 16rem;\n  }\n"], ["\n  margin: 8rem 0 4rem;\n  transition: opacity 400ms ease;\n  @media (min-width: 45em) {\n    margin-top: 16rem;\n  }\n"]), r = n(["\n  grid-column-gap: 3.125vw;\n"], ["\n  grid-column-gap: 3.125vw;\n"]), i = n(["\n  grid-column: 3 / span 12;\n  margin-bottom: 3.125vw;\n  overflow: hidden;\n  padding-top: 100%;\n  position: relative;\n  text-decoration: none;\n  z-index: 20;\n  &:hover,\n  &:focus {\n    &::after {\n      opacity: 1;\n    }\n    &::before {\n      opacity: 1;\n      transform: scale(1);\n      transition: opacity 600ms ", ", transform 600ms ", ";\n    }\n    > div:first-child {\n      transform: scale(1.05);\n    }\n    > div:last-child {\n      transform: translate(1rem, -1rem);\n    }\n  }\n  &::after {\n    background: linear-gradient(rgba(50, 50, 49, 0), rgba(50, 50, 49, 1));\n    bottom: 0;\n    content: '';\n    height: 6rem;\n    left: 0;\n    opacity: 0.7;\n    position: absolute;\n    right: 0;\n    transition: opacity 300ms ease;\n    will-change: opacity;\n    z-index: 20;\n  }\n  &::before {\n    border: 2px solid ", ";\n    bottom: 0;\n    content: '';\n    left: 0;\n    margin: 1rem;\n    opacity: 0;\n    position: absolute;\n    right: 0;\n    top: 0;\n    transform: scale(1.25);\n    transition: opacity 300ms ease, transform 0ms 300ms;\n    z-index: 30;\n  }\n  > div:first-child {\n    bottom: 0;\n    left: 0;\n    position: absolute;\n    right: 0;\n    top: 0;\n    transition: transform 800ms ", ";\n    will-change: transform;\n  }\n  > div:last-child {\n    will-change: transform;\n  }\n  @media (min-width: 40em) {\n    grid-column-start: auto;\n    grid-column-end: span 6;\n    &:nth-child(odd) {\n      grid-column-start: 3;\n    }\n  }\n  @media (min-width: 77em) {\n    grid-column-end: span 4;\n    padding-top: 0;\n    &:nth-child(odd) {\n      grid-column-start: auto;\n    }\n    &:nth-child(3n + 1) {\n      grid-column-start: 3;\n    }\n    > div:first-child {\n      position: static;\n    }\n  }\n  @media (min-width: 115em) {\n    grid-column-end: span 3;\n    &:nth-child(odd) {\n      grid-column-start: auto;\n    }\n    &:nth-child(3n + 1) {\n      grid-column-start: auto;\n    }\n    &:nth-child(4n + 1) {\n      grid-column-start: 3;\n    }\n  }\n  @supports not (display: grid) {\n    max-width: 20rem;\n  }\n"], ["\n  grid-column: 3 / span 12;\n  margin-bottom: 3.125vw;\n  overflow: hidden;\n  padding-top: 100%;\n  position: relative;\n  text-decoration: none;\n  z-index: 20;\n  &:hover,\n  &:focus {\n    &::after {\n      opacity: 1;\n    }\n    &::before {\n      opacity: 1;\n      transform: scale(1);\n      transition: opacity 600ms ", ", transform 600ms ", ";\n    }\n    > div:first-child {\n      transform: scale(1.05);\n    }\n    > div:last-child {\n      transform: translate(1rem, -1rem);\n    }\n  }\n  &::after {\n    background: linear-gradient(rgba(50, 50, 49, 0), rgba(50, 50, 49, 1));\n    bottom: 0;\n    content: '';\n    height: 6rem;\n    left: 0;\n    opacity: 0.7;\n    position: absolute;\n    right: 0;\n    transition: opacity 300ms ease;\n    will-change: opacity;\n    z-index: 20;\n  }\n  &::before {\n    border: 2px solid ", ";\n    bottom: 0;\n    content: '';\n    left: 0;\n    margin: 1rem;\n    opacity: 0;\n    position: absolute;\n    right: 0;\n    top: 0;\n    transform: scale(1.25);\n    transition: opacity 300ms ease, transform 0ms 300ms;\n    z-index: 30;\n  }\n  > div:first-child {\n    bottom: 0;\n    left: 0;\n    position: absolute;\n    right: 0;\n    top: 0;\n    transition: transform 800ms ", ";\n    will-change: transform;\n  }\n  > div:last-child {\n    will-change: transform;\n  }\n  @media (min-width: 40em) {\n    grid-column-start: auto;\n    grid-column-end: span 6;\n    &:nth-child(odd) {\n      grid-column-start: 3;\n    }\n  }\n  @media (min-width: 77em) {\n    grid-column-end: span 4;\n    padding-top: 0;\n    &:nth-child(odd) {\n      grid-column-start: auto;\n    }\n    &:nth-child(3n + 1) {\n      grid-column-start: 3;\n    }\n    > div:first-child {\n      position: static;\n    }\n  }\n  @media (min-width: 115em) {\n    grid-column-end: span 3;\n    &:nth-child(odd) {\n      grid-column-start: auto;\n    }\n    &:nth-child(3n + 1) {\n      grid-column-start: auto;\n    }\n    &:nth-child(4n + 1) {\n      grid-column-start: 3;\n    }\n  }\n  @supports not (display: grid) {\n    max-width: 20rem;\n  }\n"]), c = o("../node_modules/react/index.js"), m = s(c), u = o("../node_modules/prop-types/index.js"), p = s(u), g = o("../node_modules/react-router-dom/es/index.js"), f = o("../node_modules/react-transition-group/index.js"), h = o("../node_modules/styled-components/dist/styled-components.browser.es.js"), U = s(h), b = o("./components/PositionLink.js"), w = s(b), Q = o("./components/Photo.js"), F = s(Q), j = o("./components/TeamMember.js"), V = s(j), R = o("./components/styled-components/Layout.js"), B = o("./components/styled-components/Text.js"), k = o("./assets/motifs/motif-3.svg"), z = (s(k), o("./assets/team/ayana-campbell-smith.jpg?sizes=400w+800w")), Z = s(z), v = o("./assets/team/ben-stankich.jpg?sizes=400w+800w"), I = s(v), E = o("./assets/team/bernie-mapili.jpg?sizes=400w+800w"), S = s(E), N = o("./assets/team/dray-lacy.jpg?sizes=400w+800w"), y = s(N), C = o("./assets/team/jacob-swanner.jpg?sizes=400w+800w"), W = s(C), x = o("./assets/team/jennifer-borders.jpg?sizes=400w+800w"), D = s(x), T = o("./assets/team/lucas-louca.jpg?sizes=400w+800w"), A = s(T), _ = o("./assets/team/matt-schultz.jpg?sizes=400w+800w"), M = s(_), J = o("./assets/team/lucian-crisan@Lucian-alliance.jpg?sizes=400w+800w"), L = s(J), G = o("./assets/team/nick-walsh.jpg?sizes=400w+800w"), H = s(G), Y = o("./assets/team/olivia-howard.jpg?sizes=400w+800w"), X = s(Y), O = o("./assets/team/thomas-meeks.jpg?sizes=400w+800w"), P = s(O), K = o("./assets/team/radu-crican.jpg?sizes=400w+800w"), q = s(K), $ = o("../data/team.js"), ee = s($), te = {
 			"lucian-crisan@Lucian-alliance": L.default,
 			"radu-crican": q.default,
-			"lucas-louca": A.default,
-			"jacob-swanner": W.default,
-			"jennifer-borders": D.default,
-			"nick-walsh": H.default,
-			"dray-lacy": y.default,
-			"bernie-mapili": S.default,
-			"matt-schultz": M.default,
-			"ayana-campbell-smith": Z.default,
-			"olivia-howard": X.default,
-			"ben-stankich": I.default,
-			"thomas-meeks": P.default
+			"lucas-louca": A.default
 		}, oe = function (e) {
 			for (var t = e.length - 1; t > 0; t -= 1) {
 				var o = Math.floor(Math.random() * (t + 1)), s = [e[o], e[t]];
@@ -7347,7 +7328,7 @@ webpackJsonp(["app"], {
 				}
 			}, {
 				key: "render", value: function () {
-					var e = this, t = this.member.name + ", " + this.member.title + " at Envy Labs", o = ge[this.member.slug];
+					var e = this, t = this.member.name + ", " + this.member.title + " at TopCraftBits", o = ge[this.member.slug];
 					return B.default.createElement(we, {status: this.props.status}, B.default.createElement(Be, null, B.default.createElement(je, {
 						background: ge[this.member.slug].placeholder.color.join(", "),
 						left: this.left,
@@ -7385,10 +7366,10 @@ webpackJsonp(["app"], {
 						content: "profile"
 					}), B.default.createElement("meta", {
 						name: "og:image",
-						content: "https://envylabs.com" + o.sources["640w"]
+						content: "https://topcraftbits.com" + o.sources["640w"]
 					}), B.default.createElement("meta", {
 						name: "og:image:secure_url",
-						content: "https://envylabs.com" + o.sources["640w"]
+						content: "https://topcraftbits.com" + o.sources["640w"]
 					}), B.default.createElement("meta", {
 						name: "og:image:width",
 						content: "640"
@@ -7406,7 +7387,7 @@ webpackJsonp(["app"], {
 						content: "summary_large_image"
 					}), B.default.createElement("meta", {
 						name: "twitter:site",
-						content: "@envylabs"
+						content: "@topcraftbits"
 					}), B.default.createElement("meta", {
 						name: "twitter:title",
 						content: this.member.title
@@ -8384,9 +8365,38 @@ webpackJsonp(["app"], {
 						status: this.props.status
 					}, 
 					Z.default.createElement(C.default, null, Z.default.createElement(Y.Heading, null, Z.default.createElement("div", null, Z.default.createElement(O.H4, null, "About"), 
-					Z.default.createElement(O.H1, null, "Meet Our Team Astrocats"), Z.default.createElement(O.Intro, null, "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seddiam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasdgubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sitamet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo", Z.default.createElement(O.StyledLink, {to: "#"}, "link"), ". Lorem impsum lorem.")))), 
-					Z.default.createElement(Y.Content, null, Z.default.createElement(Y.Grid, null, Z.default.createElement(ze, null, Z.default.createElement(O.H2, null, "Why Astrocats Team? Glad You Asked."), Z.default.createElement(O.Intro, null, "We know how hard it is to pick a team. Is Astrocats Team good? (", Z.default.createElement("em", null, "Yup."), ") Is the team easy to work with? (", Z.default.createElement("em", null, "Also yes."), ") Will they deliver solid work at an honest rate? (",              Z.default.createElement("em", null, "Our clients think so!"), ")"))),
-					Z.default.createElement(J.default, null)))
+					Z.default.createElement(O.H1, null, "Meet Our Team Astrocats"), Z.default.createElement(O.Intro, null, "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seddiam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasdgubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sitamet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo", Z.default.createElement(O.StyledLink, {to: "#"}, "link"), ". Lorem impsum lorem.")))), Z.default.createElement(Y.Content, null, Z.default.createElement(Y.Grid, null, Z.default.createElement(ze, null, Z.default.createElement(O.H2, null, "Why Envy Labs? Glad You Asked."), Z.default.createElement(O.Intro, null, "We know how hard it is to pick a team. Is Envy Labs good? (", Z.default.createElement("em", null, "Yup."), ") Is the team easy to work with? (", Z.default.createElement("em", null, "Also yes."), ") Will they deliver solid work at an honest rate? (", Z.default.createElement("em", null, "Our clients think so!"), ")"))), Z.default.createElement(ke, null, Z.default.createElement(Ze, null, Z.default.createElement("img", {
+							src: pe.default,
+							alt: ""
+						})), Z.default.createElement(Be, null, Z.default.createElement(O.H3, null, "The Right Fit"), Z.default.createElement("p", null, "From inception to iteration, we can manage the entire process or lend a hand where it’s needed most. Our ", Z.default.createElement(O.StyledLink, {to: "/services/"}, "services page"), " offers a deeper dive into each of our capabilities.")), Z.default.createElement(Ze, null, Z.default.createElement("img", {
+							src: me.default,
+							alt: ""
+						})), Z.default.createElement(Be, null, Z.default.createElement(O.H3, null, "Direct Contact"), Z.default.createElement("p", null, "Envy Labs is a group of equal contributors who speak openly and honestly with clients. For each phase of a project, members of the team are directly accessible. Iteration is a constant, and we encourage our clients to share ideas and inspiration whenever it strikes."))), Z.default.createElement(Y.Grid, null, Z.default.createElement(ve, null, Z.default.createElement(O.H3, null, "Over-Communication"), Z.default.createElement("p", null, "In software development, few surprises are good surprises. For the project’s duration, every week will include a status update, detailed hour report, and at least one check-in call. We’ll show where our time goes, and — more importantly — what it creates."))), Z.default.createElement(Ie, null, Z.default.createElement(Ee, null, Z.default.createElement(_.default, {
+							alt: "",
+							default: "1200w",
+							imageData: ie.default
+						}))), Z.default.createElement(Ne, null, Z.default.createElement(ye, null, Z.default.createElement("img", {
+							src: fe.default,
+							alt: ""
+						})), Z.default.createElement(Se, null, Z.default.createElement(O.H3, null, "Steering the Ship"), Z.default.createElement("p", null, "We’re nimble, but not at the expense of the plan. While we pair on the details and applying domain expertise, everyone has the full picture in mind — if anything stands to threaten your budget or deadline, we’ll communicate that as soon as we possibly can.")), Z.default.createElement(ye, null, Z.default.createElement("img", {
+							src: Ue.default,
+							alt: ""
+						})), Z.default.createElement(Se, null, Z.default.createElement(O.H3, null, "Togetherness"), Z.default.createElement("p", null, "After every major release, we’ll review our initial goals to determine the successes, where we may have missed the mark, and how to better our relationship for future phases of work (which happens more often than not)."))), Z.default.createElement(x.default, null, Z.default.createElement(G.default, {canGoBack: this.state.canReturnToAbout}), Z.default.createElement(we, {
+							background: "white",
+							color: "blackT"
+						}, Z.default.createElement(Qe, null, Z.default.createElement(O.H2, {invert: !0}, "Home Base"), Z.default.createElement(O.Intro, null, "Envy Labs calls the Sunshine State home (take ", Z.default.createElement("em", null, "that"), ", South Dakota) and hails from the most recognizable Orlando location not overrun with mouse ears: Lake Eola.")), Z.default.createElement(Fe, null, Z.default.createElement(je, null, Z.default.createElement(_.default, {
+							alt: "Envy Labs kitchen",
+							default: "1200w",
+							imageData: se.default
+						}))), Z.default.createElement(be, null, Z.default.createElement("strong", null, "But you don’t have to take my word for it:"), " our space received a ", Z.default.createElement(O.StyledA, {href: "https://www.bizjournals.com/orlando/news/2017/02/23/2017-coolest-office-spaces-made-with-envy.html"}, "Coolest Office Spaces"), " award from ", Z.default.createElement("em", null, "Orlando Business Journal"), "."), Z.default.createElement(Ve, null, Z.default.createElement(_.default, {
+							alt: "Envy Labs seating area",
+							default: "640w",
+							imageData: ae.default
+						})), Z.default.createElement(Re, null, Z.default.createElement(_.default, {
+							alt: "Envy Labs office detail",
+							default: "640w",
+							imageData: le.default
+						})))), Z.default.createElement(J.default, null)))
 				}
 			}]), t
 		}(Z.default.Component);
@@ -8467,14 +8477,14 @@ webpackJsonp(["app"], {
 			return d(t, e), r(t, [{
 				key: "render", value: function () {
 					return V.default.createElement(N.default, {
-						title: "Careers :: Envy Labs",
+						title: "Careers :: TopCraftBits",
 						description: "We’ve saved you a seat. Here are our current openings.",
 						image: v.default,
 						status: this.props.status
 					}, V.default.createElement(T, null, V.default.createElement(L, null, V.default.createElement(y.GridContent, null, V.default.createElement(O, null, "Careers"), V.default.createElement(Y, {flush: !0}, "We’ve Saved a Seat"))), V.default.createElement(E.default, null, V.default.createElement(y.Grid, {color: "blackT"}, V.default.createElement(J, null, V.default.createElement("img", {
 						src: x.default,
 						alt: "Careers"
-					})), V.default.createElement(A, null, V.default.createElement(C.H2, {invert: !0}, "Front End Developer"), V.default.createElement(K, null, "We’re on the lookout for a new Front End Developer. Members of the front end team work directly with our developers, designers, and clients to realize a collective product vision. You’ll be involved from conception to launch, acting as the glue between function and form with client-side technologies."), V.default.createElement(P, {invert: !0}, "The Role"), V.default.createElement(K, null, "Envy Labs is an Orlando-based, employee-owned web consultancy that has been building software for companies like Cisco, Google, GitHub, and Booz Allen Hamilton since 2009. We’re also responsible for founding Code School, a popular learn-to-code subscription product purchased by Pluralsight in 2015. Envy Labs is small by design, and most staff members have a tenure of 8+ years."), V.default.createElement(q, null, V.default.createElement("li", null, "You’ll drive the translation of design systems and wireframes into usable interfaces for web applications."), V.default.createElement("li", null, "You’ll be responsible for meeting milestones, setting expectations, and maintaining the highest level of quality for every project."), V.default.createElement("li", null, "You’ll interact with our design and development teams to ensure a seamless process from initial idea to live product.")), V.default.createElement(K, null, "Ideally, we’re looking for someone to work in our downtown Orlando office, but remote positions will be considered for the right candidates. Relocation assistance is available."), V.default.createElement(P, {invert: !0}, "Requisite Skills"), V.default.createElement(q, null, V.default.createElement("li", null, "Solid grasp on the ins-and-outs of CSS and markup at scale, with bonus points for CSS-in-JS experience and Sass usage."), V.default.createElement("li", null, "Desire to stay on top of CSS specification changes, browser adoption, and try new application styling solutions."), V.default.createElement("li", null, "Experience with JavaScript and comfort working with a team in a modern framework (React, Ember, Vue, etc.)"), V.default.createElement("li", null, "Demonstrable communication skills through things like (but not limited to) blog posts and speaking — as consultants, our clients rely on us to suggest, defend, and check in."), V.default.createElement("li", null, "Experience optimizing for user experience, accessibility, and responsiveness, alongside application of animation principles within an interface."), V.default.createElement("li", null, "Problem solving and a passion for tackling unique requirements.")), V.default.createElement(P, {invert: !0}, "Benefits"), V.default.createElement(K, null, "Compensation is competitive and we offer a full benefits package (health, dental, vision included) with a company retirement plan, paid holidays, and flexible time off policies. Additional perks include conference trips and profit sharing."), V.default.createElement(K, null, "We also encourage all of our employees to build their own industry presence by providing time for community involvement, writing blog posts, speaking at conferences, and contributing to the open source community."), V.default.createElement(P, {invert: !0}, "How to Apply"), V.default.createElement(q, null, V.default.createElement("li", null, "We’d love to see samples of your work — link to your portfolio, CodePen, GitHub, or wherever else you reside online."), V.default.createElement("li", null, "Link to a blog post or article you’ve written in the past few months on a specific front-end topic, technique, or something you’re working through."), V.default.createElement("li", null, "What’s your favorite text editor plugin/extension?")), V.default.createElement(K, null, "All set? Send everything over to: ", V.default.createElement(C.StyledA, {href: "mailto:jobs@topcraftbits.com?subject=Front%20End%20Application"}, "jobs@topcraftbits.com")))))))
+					})), V.default.createElement(A, null, V.default.createElement(C.H2, {invert: !0}, "Front End Developer"), V.default.createElement(K, null, "We’re on the lookout for a new Front End Developer. Members of the front end team work directly with our developers, designers, and clients to realize a collective product vision. You’ll be involved from conception to launch, acting as the glue between function and form with client-side technologies."), V.default.createElement(P, {invert: !0}, "The Role"), V.default.createElement(K, null, "TopCraftBits is an Orlando-based, employee-owned web consultancy that has been building software for companies like Cisco, Google, GitHub, and Booz Allen Hamilton since 2009. We’re also responsible for founding Code School, a popular learn-to-code subscription product purchased by Pluralsight in 2015. TopCraftBits is small by design, and most staff members have a tenure of 8+ years."), V.default.createElement(q, null, V.default.createElement("li", null, "You’ll drive the translation of design systems and wireframes into usable interfaces for web applications."), V.default.createElement("li", null, "You’ll be responsible for meeting milestones, setting expectations, and maintaining the highest level of quality for every project."), V.default.createElement("li", null, "You’ll interact with our design and development teams to ensure a seamless process from initial idea to live product.")), V.default.createElement(K, null, "Ideally, we’re looking for someone to work in our downtown Orlando office, but remote positions will be considered for the right candidates. Relocation assistance is available."), V.default.createElement(P, {invert: !0}, "Requisite Skills"), V.default.createElement(q, null, V.default.createElement("li", null, "Solid grasp on the ins-and-outs of CSS and markup at scale, with bonus points for CSS-in-JS experience and Sass usage."), V.default.createElement("li", null, "Desire to stay on top of CSS specification changes, browser adoption, and try new application styling solutions."), V.default.createElement("li", null, "Experience with JavaScript and comfort working with a team in a modern framework (React, Ember, Vue, etc.)"), V.default.createElement("li", null, "Demonstrable communication skills through things like (but not limited to) blog posts and speaking — as consultants, our clients rely on us to suggest, defend, and check in."), V.default.createElement("li", null, "Experience optimizing for user experience, accessibility, and responsiveness, alongside application of animation principles within an interface."), V.default.createElement("li", null, "Problem solving and a passion for tackling unique requirements.")), V.default.createElement(P, {invert: !0}, "Benefits"), V.default.createElement(K, null, "Compensation is competitive and we offer a full benefits package (health, dental, vision included) with a company retirement plan, paid holidays, and flexible time off policies. Additional perks include conference trips and profit sharing."), V.default.createElement(K, null, "We also encourage all of our employees to build their own industry presence by providing time for community involvement, writing blog posts, speaking at conferences, and contributing to the open source community."), V.default.createElement(P, {invert: !0}, "How to Apply"), V.default.createElement(q, null, V.default.createElement("li", null, "We’d love to see samples of your work — link to your portfolio, CodePen, GitHub, or wherever else you reside online."), V.default.createElement("li", null, "Link to a blog post or article you’ve written in the past few months on a specific front-end topic, technique, or something you’re working through."), V.default.createElement("li", null, "What’s your favorite text editor plugin/extension?")), V.default.createElement(K, null, "All set? Send everything over to: ", V.default.createElement(C.StyledA, {href: "mailto:jobs@topcraftbits.com?subject=Front%20End%20Application"}, "jobs@topcraftbits.com")))))))
 				}
 			}]), t
 		}(V.default.PureComponent);
@@ -8557,7 +8567,7 @@ webpackJsonp(["app"], {
 			return d(t, e), r(t, [{
 				key: "render", value: function () {
 					return j.default.createElement(S.default, {
-						title: "Contact Us :: Envy Labs",
+						title: "Contact Us :: TopCraftBits",
 						description: "What are you users hoping to accomplish? We’d love to chat about your vision.",
 						image: Z.default,
 						status: this.props.status
@@ -8750,7 +8760,7 @@ webpackJsonp(["app"], {
 					}, Z.default.createElement(E.Helmet, null, Z.default.createElement("meta", {
 						name: "google-site-verification",
 						content: "MqW-xzt0-pkaMbsRNY9_uY-fYb1bR2tWt4Flt9dC1Ek"
-					})), Z.default.createElement(x.default, null, Z.default.createElement(Y.Heading, null, Z.default.createElement("div", null, Z.default.createElement(O.H4, null, "Discover Envy Labs"), Z.default.createElement(O.H1, null, "Insightful Software"), Z.default.createElement(Se, null, "Envy Labs builds data-driven web applications with a focus on interactive training and visualization.")))), Z.default.createElement(Y.Content, null, Z.default.createElement(T.default, null, Z.default.createElement(Ie, {color: "blackT"}, Z.default.createElement(ve, null, Z.default.createElement(O.H2, {invert: !0}, "A Positive Outlier"), Z.default.createElement(O.Intro, null, "Envy Labs is 13 strategists, designers, and developers skilled at pairing data and training with software. Clients value our objectivity and the perspective gained through our own successful products.")), Z.default.createElement(Ee, null, Z.default.createElement(J.default, {
+					})), Z.default.createElement(x.default, null, Z.default.createElement(Y.Heading, null, Z.default.createElement("div", null, Z.default.createElement(O.H4, null, "Discover TopCraftBits"), Z.default.createElement(O.H1, null, "Insightful Software"), Z.default.createElement(Se, null, "TopCraftBits builds data-driven web applications with a focus on interactive training and visualization.")))), Z.default.createElement(Y.Content, null, Z.default.createElement(T.default, null, Z.default.createElement(Ie, {color: "blackT"}, Z.default.createElement(ve, null, Z.default.createElement(O.H2, {invert: !0}, "A Positive Outlier"), Z.default.createElement(O.Intro, null, "TopCraftBits is 13 strategists, designers, and developers skilled at pairing data and training with software. Clients value our objectivity and the perspective gained through our own successful products.")), Z.default.createElement(Ee, null, Z.default.createElement(J.default, {
 						alt: "",
 						default: "600w",
 						imageData: le.default
@@ -8785,7 +8795,7 @@ webpackJsonp(["app"], {
 						alt: "",
 						default: "600w",
 						imageData: ae.default
-					})), Z.default.createElement(ke, null, Z.default.createElement(O.H2, {invert: !0}, "Just Like Family"), Z.default.createElement(O.Intro, null, "Since 2009, leading developers and designers have called Envy Labs home. Head over to the ", Z.default.createElement(O.StyledLink, {to: "/about/"}, "about page"), " for a look at the smiling faces behind our work and the grin-worthy process we employ.")))), Z.default.createElement(G.default, null)))
+					})), Z.default.createElement(ke, null, Z.default.createElement(O.H2, {invert: !0}, "Just Like Family"), Z.default.createElement(O.Intro, null, "Since 2009, leading developers and designers have called TopCraftBits home. Head over to the ", Z.default.createElement(O.StyledLink, {to: "/about/"}, "about page"), " for a look at the smiling faces behind our work and the grin-worthy process we employ.")))), Z.default.createElement(G.default, null)))
 				}
 			}]), t
 		}(Z.default.PureComponent);
@@ -8879,8 +8889,8 @@ webpackJsonp(["app"], {
 			return l(t, e), i(t, [{
 				key: "render", value: function () {
 					return y.default.createElement(A.default, {
-						title: "Services :: Envy Labs",
-						description: "Data management, visualization, technical training, and software design and development services from Envy Labs.",
+						title: "Services :: TopCraftBits",
+						description: "Data management, visualization, technical training, and software design and development services from TopCraftBits.",
 						image: q.default,
 						status: this.props.status
 					}, y.default.createElement(H.default, null, y.default.createElement(X.Heading, null, y.default.createElement("div", null, y.default.createElement(P.H4, null, "Services"), y.default.createElement(P.H1, null, "The Hero’s Journey"), y.default.createElement(P.Intro, null, "If facing a call to adventure, toiling through challenges, or working on the return, we’re the ", y.default.createElement("em", null, "Mentor"), " needed to face ", y.default.createElement(Ge, {href: "https://en.wikipedia.org/wiki/Hero%27s_journey"}, "The Cave"), ". While our work page sings tales of past adventures, our services outline the archetypes of a story that’s yet to be told.")))), y.default.createElement(X.Content, null, y.default.createElement(Ye, null, y.default.createElement(Xe, null, y.default.createElement(P.H2, null, "Data Management"), y.default.createElement(P.Intro, null, "G.I. Joe taught us that ", y.default.createElement("em", null, "knowing is half the battle"), "; in the theater of big data, storage and retrieval are the other half — especially on the web.")), y.default.createElement(Pe, null, y.default.createElement(Ke, null, y.default.createElement(M.default, {
@@ -8926,7 +8936,7 @@ webpackJsonp(["app"], {
 					})), y.default.createElement(dt, null, y.default.createElement(P.H3, null, "Business Decisions"), y.default.createElement("p", null, "Clients quickly come to rely on our objectivity. We’ll discuss budgets, timelines, and technical choices as they relate to users’ goals, not our bottom line.")), y.default.createElement(it, null, y.default.createElement("img", {
 						src: ge.default,
 						alt: ""
-					})), y.default.createElement(dt, null, y.default.createElement(P.H3, null, "How to Software"), y.default.createElement("p", null, "Clients who’ve never engaged in a software project or weathered a bad experience turn to Envy Labs for our transparency and expertise."))), y.default.createElement(qe, null, y.default.createElement(X.Grid, null, y.default.createElement(tt, null, y.default.createElement(P.H2, null, "Design and Development"), y.default.createElement(P.Intro, null, "Our software development experience goes beyond a sum of years spent: we’ve had a hand in training many of today’s web developers, and always seek to push the bar of quality higher."))), y.default.createElement(et, null, y.default.createElement(nt, null, y.default.createElement(at, null, y.default.createElement(M.default, {
+					})), y.default.createElement(dt, null, y.default.createElement(P.H3, null, "How to Software"), y.default.createElement("p", null, "Clients who’ve never engaged in a software project or weathered a bad experience turn to TopCraftBits for our transparency and expertise."))), y.default.createElement(qe, null, y.default.createElement(X.Grid, null, y.default.createElement(tt, null, y.default.createElement(P.H2, null, "Design and Development"), y.default.createElement(P.Intro, null, "Our software development experience goes beyond a sum of years spent: we’ve had a hand in training many of today’s web developers, and always seek to push the bar of quality higher."))), y.default.createElement(et, null, y.default.createElement(nt, null, y.default.createElement(at, null, y.default.createElement(M.default, {
 						alt: "",
 						default: "1200w",
 						imageData: re.default
@@ -9005,7 +9015,7 @@ webpackJsonp(["app"], {
 			return l(t, e), r(t, [{
 				key: "render", value: function () {
 					return c.default.createElement(h.default, {
-						title: "Cisco Training Case Study :: Envy Labs",
+						title: "Cisco Training Case Study :: TopCraftBits",
 						description: se.description,
 						image: ee.default,
 						status: this.props.status,
@@ -9024,7 +9034,7 @@ webpackJsonp(["app"], {
 						default: "800w",
 						imageData: S.default,
 						autoload: !0
-					}))), c.default.createElement(j.GoalsGrid, null, c.default.createElement(j.GoalsHeader, null, c.default.createElement(R.H2, {invert: !0}, "Project Goals")), c.default.createElement(j.GoalsContent, null, c.default.createElement("div", null, c.default.createElement(R.H3, {invert: !0}, "Like a Train Needs a Track"), c.default.createElement("p", null, "Cisco had all the content at their disposal, but lacked the three components of a good training platform: content delivery, user progress tracking, and assessments graded in real time. Cisco looked to Envy Labs to complete this picture.")), c.default.createElement("div", null, c.default.createElement(R.H3, {invert: !0}, "Near, Far, Wherever You Are"), c.default.createElement("p", null, c.default.createElement(R.StyledLink, {to: "/work/code-school/"}, "Code School"), " introduced a new way to learn technology by serving a real world coding environment in a browser. When the Cisco team saw Code School, they wanted the same approach so their IT professionals could learn on real Cisco devices remotely from anywhere on Earth.")))), c.default.createElement(j.SystemGrid, null, c.default.createElement(j.SystemContent, null, c.default.createElement(R.H4, null, "Design"), c.default.createElement(R.H2, {invert: !0}, "Walk This Way"), c.default.createElement("p", null, "Course designers always have a meticulous plan for presenting course content in a specific order, but that doesn’t always translate to users. Depending on the platform design, that can either seem like a rewarding journey through knowledge, or a linear barrage of different concepts one after another. To achieve the former, we explored different options before landing on a contextual sidebar that reacted to the user’s current location within the course.")), c.default.createElement(j.SystemMedia1, null, c.default.createElement(b.default, {
+					}))), c.default.createElement(j.GoalsGrid, null, c.default.createElement(j.GoalsHeader, null, c.default.createElement(R.H2, {invert: !0}, "Project Goals")), c.default.createElement(j.GoalsContent, null, c.default.createElement("div", null, c.default.createElement(R.H3, {invert: !0}, "Like a Train Needs a Track"), c.default.createElement("p", null, "Cisco had all the content at their disposal, but lacked the three components of a good training platform: content delivery, user progress tracking, and assessments graded in real time. Cisco looked to TopCraftBits to complete this picture.")), c.default.createElement("div", null, c.default.createElement(R.H3, {invert: !0}, "Near, Far, Wherever You Are"), c.default.createElement("p", null, c.default.createElement(R.StyledLink, {to: "/work/code-school/"}, "Code School"), " introduced a new way to learn technology by serving a real world coding environment in a browser. When the Cisco team saw Code School, they wanted the same approach so their IT professionals could learn on real Cisco devices remotely from anywhere on Earth.")))), c.default.createElement(j.SystemGrid, null, c.default.createElement(j.SystemContent, null, c.default.createElement(R.H4, null, "Design"), c.default.createElement(R.H2, {invert: !0}, "Walk This Way"), c.default.createElement("p", null, "Course designers always have a meticulous plan for presenting course content in a specific order, but that doesn’t always translate to users. Depending on the platform design, that can either seem like a rewarding journey through knowledge, or a linear barrage of different concepts one after another. To achieve the former, we explored different options before landing on a contextual sidebar that reacted to the user’s current location within the course.")), c.default.createElement(j.SystemMedia1, null, c.default.createElement(b.default, {
 						alt: "Navigation concept A",
 						default: "800w",
 						imageData: W.default
@@ -9129,7 +9139,7 @@ webpackJsonp(["app"], {
 			return l(t, e), r(t, [{
 				key: "render", value: function () {
 					return c.default.createElement(h.default, {
-						title: "Code School Case Study :: Envy Labs",
+						title: "Code School Case Study :: TopCraftBits",
 						description: ie.description,
 						image: de.default,
 						status: this.props.status,
@@ -9214,7 +9224,7 @@ webpackJsonp(["app"], {
 						alt: "Code School + Pluralsight",
 						default: "800w",
 						imageData: oe.default
-					})), c.default.createElement(Q.ResultsContent, null, c.default.createElement(j.H4, null, "Deliver"), c.default.createElement(j.H2, {invert: !0}, "The Results"), c.default.createElement(j.H3, {invert: !0}, "Graduation"), c.default.createElement("p", null, "In the spring of 2015, Code School ", c.default.createElement(j.StyledA, {href: "https://techcrunch.com/2015/01/26/online-learning-service-pluralsight-acquires-code-school-for-36-million/"}, "sold to Pluralsight"), " for $36 million. No outside investment was taken prior to the purchase."), c.default.createElement(j.H3, {invert: !0}, "Curves Like Hockey Sticks"), c.default.createElement("p", null, "Despite its beginnings as a side project, the product had outgrown the consultancy. By the time Code School spun out from Envy Labs to end 2013, it boasted more than 15,000 subscribers and 400,000 users."), c.default.createElement(j.H3, {invert: !0}, "Totally Planned That"), c.default.createElement("p", null, "Nearly every applicant we interview credits Code School for part of their education. In an unexpected turn of events, we helped train our own future employees.")))))
+					})), c.default.createElement(Q.ResultsContent, null, c.default.createElement(j.H4, null, "Deliver"), c.default.createElement(j.H2, {invert: !0}, "The Results"), c.default.createElement(j.H3, {invert: !0}, "Graduation"), c.default.createElement("p", null, "In the spring of 2015, Code School ", c.default.createElement(j.StyledA, {href: "https://techcrunch.com/2015/01/26/online-learning-service-pluralsight-acquires-code-school-for-36-million/"}, "sold to Pluralsight"), " for $36 million. No outside investment was taken prior to the purchase."), c.default.createElement(j.H3, {invert: !0}, "Curves Like Hockey Sticks"), c.default.createElement("p", null, "Despite its beginnings as a side project, the product had outgrown the consultancy. By the time Code School spun out from TopCraftBits to end 2013, it boasted more than 15,000 subscribers and 400,000 users."), c.default.createElement(j.H3, {invert: !0}, "Totally Planned That"), c.default.createElement("p", null, "Nearly every applicant we interview credits Code School for part of their education. In an unexpected turn of events, we helped train our own future employees.")))))
 				}
 			}]), t
 		}(c.default.PureComponent);
@@ -9281,7 +9291,7 @@ webpackJsonp(["app"], {
 			return l(t, e), r(t, [{
 				key: "render", value: function () {
 					return m.default.createElement(w.default, {
-						title: "EduTyping Case Study :: Envy Labs",
+						title: "EduTyping Case Study :: TopCraftBits",
 						description: ce.description,
 						image: le.default,
 						status: this.props.status,
@@ -9300,8 +9310,8 @@ webpackJsonp(["app"], {
 						default: "800w",
 						imageData: C.default,
 						autoload: !0
-					}))), m.default.createElement(B.GoalsGrid, null, m.default.createElement(B.GoalsHeader, null, m.default.createElement(z.H2, {invert: !0}, "Project Goals")), m.default.createElement(B.GoalsContent, null, m.default.createElement("div", null, m.default.createElement(z.H3, {invert: !0}, "Brand New Bag"), m.default.createElement("p", null, "EduTyping, a learn-to-type online platform for schools, was looking to break into new school districts and audiences, but outdated design and UX gaps were two of the many hurdles in their way. They needed design to better work for them.")), m.default.createElement("div", null, m.default.createElement(z.H3, {invert: !0}, "Overdue for Spring Cleaning"), m.default.createElement("p", null, "The platform had added features over time, incurring technical debt and visual clutter in the process that was limiting future plans. Envy Labs would work with their team in re-mapping the platform in a more intuitive way.")))), m.default.createElement(B.StickyGrid, null, m.default.createElement(B.StickyContent, null, m.default.createElement(z.H4, null, "Discover"), m.default.createElement(z.H2, {invert: !0}, "Watching The Prequels"), m.default.createElement("p", null, "As with any project, we started by mapping out the client’s existing platform, identifying the full feature set as well as any user pain points.")), m.default.createElement(B.StickyMedia, null, m.default.createElement(F.default, {
-						alt: "Old EduTyping interface, pre-Envy Labs",
+					}))), m.default.createElement(B.GoalsGrid, null, m.default.createElement(B.GoalsHeader, null, m.default.createElement(z.H2, {invert: !0}, "Project Goals")), m.default.createElement(B.GoalsContent, null, m.default.createElement("div", null, m.default.createElement(z.H3, {invert: !0}, "Brand New Bag"), m.default.createElement("p", null, "EduTyping, a learn-to-type online platform for schools, was looking to break into new school districts and audiences, but outdated design and UX gaps were two of the many hurdles in their way. They needed design to better work for them.")), m.default.createElement("div", null, m.default.createElement(z.H3, {invert: !0}, "Overdue for Spring Cleaning"), m.default.createElement("p", null, "The platform had added features over time, incurring technical debt and visual clutter in the process that was limiting future plans. TopCraftBits would work with their team in re-mapping the platform in a more intuitive way.")))), m.default.createElement(B.StickyGrid, null, m.default.createElement(B.StickyContent, null, m.default.createElement(z.H4, null, "Discover"), m.default.createElement(z.H2, {invert: !0}, "Watching The Prequels"), m.default.createElement("p", null, "As with any project, we started by mapping out the client’s existing platform, identifying the full feature set as well as any user pain points.")), m.default.createElement(B.StickyMedia, null, m.default.createElement(F.default, {
+						alt: "Old EduTyping interface, pre-TopCraftBits",
 						default: "800w",
 						imageData: _.default
 					}))), m.default.createElement(B.SystemGrid, null, m.default.createElement(B.SystemContent, null, m.default.createElement(z.H3, {invert: !0}, "Hello, Fellow Kids"), m.default.createElement("p", null, "Design ends at your users. Designing for elementary students requires an enhanced filter for noise and distraction, leaving only the most crucial elements on each page.")), m.default.createElement(B.SystemMedia1, null, m.default.createElement(F.default, {
@@ -9422,7 +9432,7 @@ webpackJsonp(["app"], {
 			return l(t, e), r(t, [{
 				key: "render", value: function () {
 					return m.default.createElement(w.default, {
-						title: "Explore Data Science Case Study :: Envy Labs",
+						title: "Explore Data Science Case Study :: TopCraftBits",
 						description: be.description,
 						image: fe.default,
 						status: this.props.status,
@@ -9451,7 +9461,7 @@ webpackJsonp(["app"], {
 						alt: "Space theme concept",
 						default: "800w",
 						imageData: x.default
-					}))), m.default.createElement(z.StickyGrid, null, m.default.createElement(z.StickyContent, null, m.default.createElement(v.H3, {invert: !0}, "Same Thing We Do Every Night, Pinky"), m.default.createElement("p", null, "For about as long as Envy Labs had been around, we’ve been scheming to build better educational interfaces (such as ", m.default.createElement(v.StyledLink, {to: "/work/code-school/"}, "Code School"), "). Explore Data Science proved to be the perfect opportunity to employ a number of new ideas for world domination.")), m.default.createElement(z.StickyMedia, null, m.default.createElement(F.default, {
+					}))), m.default.createElement(z.StickyGrid, null, m.default.createElement(z.StickyContent, null, m.default.createElement(v.H3, {invert: !0}, "Same Thing We Do Every Night, Pinky"), m.default.createElement("p", null, "For about as long as TopCraftBits had been around, we’ve been scheming to build better educational interfaces (such as ", m.default.createElement(v.StyledLink, {to: "/work/code-school/"}, "Code School"), "). Explore Data Science proved to be the perfect opportunity to employ a number of new ideas for world domination.")), m.default.createElement(z.StickyMedia, null, m.default.createElement(F.default, {
 						alt: "Explore Data Science sketches",
 						default: "800w",
 						imageData: K.default
@@ -9565,12 +9575,12 @@ webpackJsonp(["app"], {
 			return l(t, e), i(t, [{
 				key: "render", value: function () {
 					return g.default.createElement(k.default, {
-						title: "Work :: Envy Labs",
-						description: "Envy Labs is located at the busy intersection of happy clients and successful products.",
+						title: "Work :: TopCraftBits",
+						description: "TopCraftBits is located at the busy intersection of happy clients and successful products.",
 						image: de.default,
 						status: this.props.status,
 						parentStatus: this.props.parentStatus
-					}, g.default.createElement(I.default, null, g.default.createElement(oe.Heading, null, g.default.createElement("div", null, g.default.createElement(ne.H4, null, "Work"), g.default.createElement(ne.H1, null, "Clients & Ventures"), g.default.createElement(ne.Intro, null, "Envy Labs is located at the busy intersection of happy clients and successful products. We were advised not to build dead center of a major thoroughfare, but eventually the honking becomes background noise, and, darn it, the location is amazing and there are no HOA fees.")))), g.default.createElement(oe.Content, null, g.default.createElement(j.default, {
+					}, g.default.createElement(I.default, null, g.default.createElement(oe.Heading, null, g.default.createElement("div", null, g.default.createElement(ne.H4, null, "Work"), g.default.createElement(ne.H1, null, "Clients & Ventures"), g.default.createElement(ne.Intro, null, "TopCraftBits is located at the busy intersection of happy clients and successful products. We were advised not to build dead center of a major thoroughfare, but eventually the honking becomes background noise, and, darn it, the location is amazing and there are no HOA fees.")))), g.default.createElement(oe.Content, null, g.default.createElement(j.default, {
 						data: Qe.default.shipyard,
 						default: "600w",
 						imageData: he.default
@@ -9730,7 +9740,7 @@ webpackJsonp(["app"], {
 			return l(t, e), r(t, [{
 				key: "render", value: function () {
 					return m.default.createElement(w.default, {
-						title: "Ivy by Envy Labs",
+						title: "Ivy by TopCraftBits",
 						description: ce.description,
 						image: le.default,
 						status: this.props.status,
@@ -9864,7 +9874,7 @@ webpackJsonp(["app"], {
 			return l(t, e), r(t, [{
 				key: "render", value: function () {
 					return m.default.createElement(w.default, {
-						title: "Ligonier’s State of Theology Case Study :: Envy Labs",
+						title: "Ligonier’s State of Theology Case Study :: TopCraftBits",
 						description: ee.description,
 						image: K.default,
 						status: this.props.status,
@@ -9883,7 +9893,7 @@ webpackJsonp(["app"], {
 						default: "800w",
 						imageData: C.default,
 						autoload: !0
-					}))), m.default.createElement(B.GoalsGrid, null, m.default.createElement(B.GoalsHeader, null, m.default.createElement(z.H2, {invert: !0}, "Project Goals")), m.default.createElement(B.GoalsContent, null, m.default.createElement("div", null, m.default.createElement(z.H3, {invert: !0}, "Let It Shine"), m.default.createElement("p", null, "Ligonier contracted ", m.default.createElement("em", null, "LifeWay Research"), " to administer a survey investigating modern religious views that involved 3,000 participants and took 2 years to conduct — a lot of work to simply throw in a PDF that few will read. Building an interactive site would make the data more accessible and shareable.")), m.default.createElement("div", null, m.default.createElement(z.H3, {invert: !0}, "Hypostasis"), m.default.createElement("p", null, "It’s an artform making data interesting, but fortunately that’s something we’re accustomed to at Envy Labs. Striking the balance between visceral intrigue and research integrity can be tough, but it’s a non-negotiable.")), m.default.createElement("div", null, m.default.createElement(z.H3, {invert: !0}, "Layman Approved"), m.default.createElement("p", null, "Truth in data visualization means alerting viewers to significant correlations quickly, but viewers could have found those themselves if they knew where to look. This data viewer should put the tools in users’ hands to reaffirm what’s stated, and let them draw new conclusions from the same dataset.")))), m.default.createElement(B.StickyGrid, null, m.default.createElement(B.StickyContent, null, m.default.createElement(z.H4, null, "Discover"), m.default.createElement(z.H2, {invert: !0}, "A Time To Search"), m.default.createElement("p", null, "Good data visualization finds a balance between active and passive data navigation. Should users simply be handed the most interesting correlations, or should they discover for themselves? For this project, we opted to split the project in half: starting with a ", m.default.createElement("strong", null, "narrative essay"), " where users could passively read through Ligonier’s key talking points, and ending with a ", m.default.createElement("strong", null, "data explorer"), " where users can navigate and subset the data however they choose.")), m.default.createElement(B.StickyMedia, null, m.default.createElement(F.default, {
+					}))), m.default.createElement(B.GoalsGrid, null, m.default.createElement(B.GoalsHeader, null, m.default.createElement(z.H2, {invert: !0}, "Project Goals")), m.default.createElement(B.GoalsContent, null, m.default.createElement("div", null, m.default.createElement(z.H3, {invert: !0}, "Let It Shine"), m.default.createElement("p", null, "Ligonier contracted ", m.default.createElement("em", null, "LifeWay Research"), " to administer a survey investigating modern religious views that involved 3,000 participants and took 2 years to conduct — a lot of work to simply throw in a PDF that few will read. Building an interactive site would make the data more accessible and shareable.")), m.default.createElement("div", null, m.default.createElement(z.H3, {invert: !0}, "Hypostasis"), m.default.createElement("p", null, "It’s an artform making data interesting, but fortunately that’s something we’re accustomed to at TopCraftBits. Striking the balance between visceral intrigue and research integrity can be tough, but it’s a non-negotiable.")), m.default.createElement("div", null, m.default.createElement(z.H3, {invert: !0}, "Layman Approved"), m.default.createElement("p", null, "Truth in data visualization means alerting viewers to significant correlations quickly, but viewers could have found those themselves if they knew where to look. This data viewer should put the tools in users’ hands to reaffirm what’s stated, and let them draw new conclusions from the same dataset.")))), m.default.createElement(B.StickyGrid, null, m.default.createElement(B.StickyContent, null, m.default.createElement(z.H4, null, "Discover"), m.default.createElement(z.H2, {invert: !0}, "A Time To Search"), m.default.createElement("p", null, "Good data visualization finds a balance between active and passive data navigation. Should users simply be handed the most interesting correlations, or should they discover for themselves? For this project, we opted to split the project in half: starting with a ", m.default.createElement("strong", null, "narrative essay"), " where users could passively read through Ligonier’s key talking points, and ending with a ", m.default.createElement("strong", null, "data explorer"), " where users can navigate and subset the data however they choose.")), m.default.createElement(B.StickyMedia, null, m.default.createElement(F.default, {
 						alt: "UI Wireframes",
 						default: "800w",
 						imageData: v.default
@@ -9980,7 +9990,7 @@ webpackJsonp(["app"], {
 			return l(t, e), r(t, [{
 				key: "render", value: function () {
 					return m.default.createElement(w.default, {
-						title: "MapMeum Case Study :: Envy Labs",
+						title: "MapMeum Case Study :: TopCraftBits",
 						description: ge.description,
 						image: me.default,
 						status: this.props.status,
@@ -10116,7 +10126,7 @@ webpackJsonp(["app"], {
 			return l(t, e), i(t, [{
 				key: "render", value: function () {
 					return g.default.createElement(j.default, {
-						title: "Orlando Creators by Envy Labs & Macbeth Studio",
+						title: "Orlando Creators by TopCraftBits & Macbeth Studio",
 						description: pe.description,
 						image: ce.default,
 						status: this.props.status,
@@ -10135,8 +10145,8 @@ webpackJsonp(["app"], {
 						default: "800w",
 						imageData: W.default,
 						autoload: !0
-					}))), g.default.createElement(k.GoalsGrid, null, g.default.createElement(k.GoalsHeader, null, g.default.createElement(Z.H2, {invert: !0}, "Project Goals")), g.default.createElement(k.GoalsContent, null, g.default.createElement("div", null, g.default.createElement(Z.H3, {invert: !0}, "If You Don’t Know, Now You Know"), g.default.createElement("p", null, "The creative community in Orlando is a small powerhouse. Though not known as a creative mecca like New York or San Francisco, there still are a disproportionate number of designers, illustrators, and photographers we’d put up against anybody else in the country. We needed to showcase as many as we could.")), g.default.createElement("div", null, g.default.createElement(Z.H3, {invert: !0}, "Expanding Horizons"), g.default.createElement("p", null, "An in-house project like Orlando Creators offered the perfect opportunity for Envy Labs Design Team members Drew and Ayana to scratch an itch for animation, video production, and art direction recent client projects hadn’t needed.")))), g.default.createElement(k.StickyGrid, null, g.default.createElement(k.StickyContent, null, g.default.createElement(Z.H4, null, "Discover"), g.default.createElement(Z.H2, {invert: !0}, "Storyboarding Stories"), g.default.createElement("p", null, "A number of ideas were tossed around for this passion project but one thing was certain: we wanted whatever we created to serve as a love letter to our city. In the end, it was decided that using our talents to uplift others would be a win for all parties involved.")), g.default.createElement(k.StickyMedia, null, g.default.createElement(R.default, {
-						alt: "Envy Labs internal project sketch–notes by Ayana Campbell Smith",
+					}))), g.default.createElement(k.GoalsGrid, null, g.default.createElement(k.GoalsHeader, null, g.default.createElement(Z.H2, {invert: !0}, "Project Goals")), g.default.createElement(k.GoalsContent, null, g.default.createElement("div", null, g.default.createElement(Z.H3, {invert: !0}, "If You Don’t Know, Now You Know"), g.default.createElement("p", null, "The creative community in Orlando is a small powerhouse. Though not known as a creative mecca like New York or San Francisco, there still are a disproportionate number of designers, illustrators, and photographers we’d put up against anybody else in the country. We needed to showcase as many as we could.")), g.default.createElement("div", null, g.default.createElement(Z.H3, {invert: !0}, "Expanding Horizons"), g.default.createElement("p", null, "An in-house project like Orlando Creators offered the perfect opportunity for TopCraftBits Design Team members Drew and Ayana to scratch an itch for animation, video production, and art direction recent client projects hadn’t needed.")))), g.default.createElement(k.StickyGrid, null, g.default.createElement(k.StickyContent, null, g.default.createElement(Z.H4, null, "Discover"), g.default.createElement(Z.H2, {invert: !0}, "Storyboarding Stories"), g.default.createElement("p", null, "A number of ideas were tossed around for this passion project but one thing was certain: we wanted whatever we created to serve as a love letter to our city. In the end, it was decided that using our talents to uplift others would be a win for all parties involved.")), g.default.createElement(k.StickyMedia, null, g.default.createElement(R.default, {
+						alt: "TopCraftBits internal project sketch–notes by Ayana Campbell Smith",
 						default: "800w",
 						imageData: S.default
 					}))), g.default.createElement(k.DoubleGrid, null, g.default.createElement(k.DoubleContent, {wide: !0}, g.default.createElement(Z.H3, {invert: !0}, "Hometown Heroes"), g.default.createElement("p", null, "Orlando Creators isn’t the first website to showcase local talent, but it was a first for Orlando, and it was long overdue. We highlighted several creatives that were known for their work, but few had ever been on video, and had never been assembled together into one showcase.")), g.default.createElement(k.DoubleMedia1, {wide: !0}, g.default.createElement(R.default, {
@@ -10148,7 +10158,7 @@ webpackJsonp(["app"], {
 						default: "800w",
 						imageData: ne.default
 					}))), g.default.createElement(k.StickyGrid, null, g.default.createElement(k.StickyContent, null, g.default.createElement(Z.H3, {invert: !0}, "Partners in Crime"), g.default.createElement("p", null, "Throughout the planning process, we kept a running list of potential project partners that may want to join in on the effort. Once the project idea was settled on, we tapped our friends at ", g.default.createElement(Z.StyledA, {href: "http://macbethstudio.com/"}, "Macbeth Studio"), " to see if they’d be interested in joining in on the fun. We knew their videographer ", g.default.createElement(Z.StyledA, {href: "https://vimeo.com/morganwalker"}, "Morgan Walker"), " would be a perfect fit for helping to bring our vision to life. They happily agreed, signaling the start of a beautiful partnership.")), g.default.createElement(k.StickyMedia, null, g.default.createElement(R.default, {
-						alt: "Envy Labs & Macbeth Studio logos",
+						alt: "TopCraftBits & Macbeth Studio logos",
 						default: "800w",
 						imageData: P.default
 					}))), g.default.createElement(he, null, g.default.createElement(k.DoubleGrid, null, g.default.createElement(k.DoubleContent, null, g.default.createElement(Z.H4, null, "Discover"), g.default.createElement(Z.H2, null, "Talkin’ It Up"), g.default.createElement("p", null, "There are two things Orlando Creators does, and does well: condensed nuggets of bite-sized wisdom, and conversation. We had some great conversations with local creators and left every interview impacted the words, thoughts, and experiences every person brought to the studio.")), g.default.createElement(k.DoubleMedia1, null, g.default.createElement(R.default, {
@@ -10256,7 +10266,7 @@ webpackJsonp(["app"], {
 			return l(t, e), r(t, [{
 				key: "render", value: function () {
 					return c.default.createElement(h.default, {
-						title: "Real Thread Case Study :: Envy Labs",
+						title: "Real Thread Case Study :: TopCraftBits",
 						description: ae.description,
 						image: ee.default,
 						status: this.props.status,
@@ -10275,7 +10285,7 @@ webpackJsonp(["app"], {
 						default: "800w",
 						imageData: k.default,
 						autoload: !0
-					}))), c.default.createElement(j.GoalsGrid, null, c.default.createElement(j.GoalsHeader, null, c.default.createElement(R.H2, {invert: !0}, "Project Goals")), c.default.createElement(j.GoalsContent, null, c.default.createElement("div", null, c.default.createElement(R.H3, {invert: !0}, "They Did the Math"), c.default.createElement("p", null, "Real Thread spent thousands of hours per year building estimates by hand, and it was starting to hurt a little. A system could save their team from tedious calculation as well as give users the power to adjust options and see pricing in real-time.")), c.default.createElement("div", null, c.default.createElement(R.H3, {invert: !0}, "Getting a Second Wind"), c.default.createElement("p", null, "Competitors’ sites had drag-and-drop shirt builders that were advancing year over year while Real Thread fell further and further behind. Envy Labs could build that and help Real Thread close the distance, no sweat.")), c.default.createElement("div", null, c.default.createElement(R.H3, {invert: !0}, "Use The ’Force"), c.default.createElement("p", null, "Real Thread relied on Salesforce for many aspects of their business, from customer outreach to quoting to supplies. Letting the website tap into their existing systems would be a huge win if it meant Real Thread wouldn’t have to manage a new thing.")))), c.default.createElement(j.DoubleGrid, null, c.default.createElement(j.DoubleContent, null, c.default.createElement(R.H4, null, "Discover"), c.default.createElement(R.H2, {invert: !0}, "The World’s Greatest Tag Team"), c.default.createElement("p", null, "Real Thread had already started the design process with ", c.default.createElement(R.StyledA, {href: "https://dribbble.com/marshallwilde"}, "Drew Smith"), " (who handled design for the project), but needed Envy Labs to complete the interactive picture.")), c.default.createElement(j.DoubleMedia1, null, c.default.createElement(b.default, {
+					}))), c.default.createElement(j.GoalsGrid, null, c.default.createElement(j.GoalsHeader, null, c.default.createElement(R.H2, {invert: !0}, "Project Goals")), c.default.createElement(j.GoalsContent, null, c.default.createElement("div", null, c.default.createElement(R.H3, {invert: !0}, "They Did the Math"), c.default.createElement("p", null, "Real Thread spent thousands of hours per year building estimates by hand, and it was starting to hurt a little. A system could save their team from tedious calculation as well as give users the power to adjust options and see pricing in real-time.")), c.default.createElement("div", null, c.default.createElement(R.H3, {invert: !0}, "Getting a Second Wind"), c.default.createElement("p", null, "Competitors’ sites had drag-and-drop shirt builders that were advancing year over year while Real Thread fell further and further behind. TopCraftBits could build that and help Real Thread close the distance, no sweat.")), c.default.createElement("div", null, c.default.createElement(R.H3, {invert: !0}, "Use The ’Force"), c.default.createElement("p", null, "Real Thread relied on Salesforce for many aspects of their business, from customer outreach to quoting to supplies. Letting the website tap into their existing systems would be a huge win if it meant Real Thread wouldn’t have to manage a new thing.")))), c.default.createElement(j.DoubleGrid, null, c.default.createElement(j.DoubleContent, null, c.default.createElement(R.H4, null, "Discover"), c.default.createElement(R.H2, {invert: !0}, "The World’s Greatest Tag Team"), c.default.createElement("p", null, "Real Thread had already started the design process with ", c.default.createElement(R.StyledA, {href: "https://dribbble.com/marshallwilde"}, "Drew Smith"), " (who handled design for the project), but needed TopCraftBits to complete the interactive picture.")), c.default.createElement(j.DoubleMedia1, null, c.default.createElement(b.default, {
 						alt: "Real Thread home page concept by Drew Smith",
 						default: "800w",
 						imageData: Z.default
@@ -10290,16 +10300,16 @@ webpackJsonp(["app"], {
 						alt: "Real Thread type example by Mackey Saturday",
 						default: "800w",
 						imageData: y.default
-					}))), c.default.createElement(j.SystemGrid, null, c.default.createElement(j.SystemContent, null, c.default.createElement(R.H3, {invert: !0}, "UX Help – 5¢"), c.default.createElement("p", null, "Envy Labs provided UX consultation, working with Drew Smith to take the shirt builder experience to the next level both visually and interactively.")), c.default.createElement(j.SystemMedia1, null, c.default.createElement(b.default, {
-						alt: "Envy Labs Real Thread wireframe flow example 1",
+					}))), c.default.createElement(j.SystemGrid, null, c.default.createElement(j.SystemContent, null, c.default.createElement(R.H3, {invert: !0}, "UX Help – 5¢"), c.default.createElement("p", null, "TopCraftBits provided UX consultation, working with Drew Smith to take the shirt builder experience to the next level both visually and interactively.")), c.default.createElement(j.SystemMedia1, null, c.default.createElement(b.default, {
+						alt: "TopCraftBits Real Thread wireframe flow example 1",
 						default: "800w",
 						imageData: A.default
 					})), c.default.createElement(j.SystemMedia2, null, c.default.createElement(b.default, {
-						alt: "Envy Labs Real Thread wireframe flow example 2",
+						alt: "TopCraftBits Real Thread wireframe flow example 2",
 						default: "800w",
 						imageData: M.default
 					})), c.default.createElement(j.SystemMedia3, null, c.default.createElement(b.default, {
-						alt: "Envy Labs Real Thread wireframe flow example 3",
+						alt: "TopCraftBits Real Thread wireframe flow example 3",
 						default: "800w",
 						imageData: L.default
 					}))), c.default.createElement(j.StunnerGrid, null, c.default.createElement(j.StunnerContent, null, c.default.createElement(R.H4, null, "Design + Develop"), c.default.createElement(R.H2, {invert: !0}, "In Sync with Salesforce"), c.default.createElement("p", null, "Real Thread’s entire product catalog is now fully synced and up-to-date via Heroku Connect. Users can browse everything Real Thread offers, and Real Thread keeps it updated it in Salesforce — the same place they manage their inventory and business operations. Convenient for everybody.")), c.default.createElement(j.StunnerMedia, null, c.default.createElement(Q.default, {
@@ -10308,7 +10318,7 @@ webpackJsonp(["app"], {
 					}))), c.default.createElement(j.StunnerGrid, null, c.default.createElement(j.StunnerContent, null, c.default.createElement(R.H3, {invert: !0}, "Everyone’s a Critic"), c.default.createElement("p", null, "The old process of Real Thread’s generating mockups, clients’ making adjustments, over and over again, could take days or even weeks. But more frustrating was clients’ trying to communicate what they wanted without being able to design it for themselves. Real Thread’s new builder allows clients to design the shirt themselves. We also worked with Real Thread to optimize and serve thousands of high-res mockups ", c.default.createElement("strong", null, "5.5x faster"), " than their old site and at higher resolution.")), c.default.createElement(j.StunnerMedia, null, c.default.createElement(Q.default, {
 						ratio: .5625,
 						src: P.default
-					}))), c.default.createElement(j.StickyGrid, null, c.default.createElement(j.StickyContent, null, c.default.createElement(R.H3, {invert: !0}, "Where’s My Stuff?"), c.default.createElement("p", null, "Envy Labs hooked up Real Thread’s order approval page — complete with high-res mockups — to their live pricing structure managed in Salesforce. Customers can request free revisions, chat with the Real Thread staff, and also refine their quantity & options and see the total cost update in real-time. All before they’ve paid a single penny.")), c.default.createElement(j.StickyMedia, null, c.default.createElement(Q.default, {
+					}))), c.default.createElement(j.StickyGrid, null, c.default.createElement(j.StickyContent, null, c.default.createElement(R.H3, {invert: !0}, "Where’s My Stuff?"), c.default.createElement("p", null, "TopCraftBits hooked up Real Thread’s order approval page — complete with high-res mockups — to their live pricing structure managed in Salesforce. Customers can request free revisions, chat with the Real Thread staff, and also refine their quantity & options and see the total cost update in real-time. All before they’ve paid a single penny.")), c.default.createElement(j.StickyMedia, null, c.default.createElement(Q.default, {
 						ratio: .5625,
 						src: X.default
 					}))), c.default.createElement(j.ResultsGrid, null, c.default.createElement(j.ResultsMedia, null, c.default.createElement(b.default, {
@@ -10382,7 +10392,7 @@ webpackJsonp(["app"], {
 			return l(t, e), r(t, [{
 				key: "render", value: function () {
 					return m.default.createElement(w.default, {
-						title: "RedVector Case Study :: Envy Labs",
+						title: "RedVector Case Study :: TopCraftBits",
 						description: ge.description,
 						image: me.default,
 						status: this.props.status,
@@ -10522,7 +10532,7 @@ webpackJsonp(["app"], {
 			return l(t, e), i(t, [{
 				key: "render", value: function () {
 					return p.default.createElement(F.default, {
-						title: "Shipyard :: Envy Labs",
+						title: "Shipyard :: TopCraftBits",
 						description: ne.description,
 						image: te.default,
 						status: this.props.status,
@@ -10650,7 +10660,7 @@ webpackJsonp(["app"], {
 			return l(t, e), i(t, [{
 				key: "render", value: function () {
 					return p.default.createElement(F.default, {
-						title: "Tech Rocket Case Study :: Envy Labs",
+						title: "Tech Rocket Case Study :: TopCraftBits",
 						description: re.description,
 						image: ae.default,
 						status: this.props.status,
@@ -10667,7 +10677,7 @@ webpackJsonp(["app"], {
 					}, p.default.createElement(z.LeadGrid, null, p.default.createElement(z.LeadMedia, null, p.default.createElement(B.default, {
 						ratio: .6666,
 						src: K.default
-					}))), p.default.createElement(z.GoalsGrid, null, p.default.createElement(z.GoalsHeader, null, p.default.createElement(v.H2, {invert: !0}, "Project Goals")), p.default.createElement(z.GoalsContent, null, p.default.createElement("div", null, p.default.createElement(v.H3, {invert: !0}, "Eternal Summer"), p.default.createElement("p", null, "iD Tech’s camps were legendary for getting kids excited about tech, but they were limited to a few weeks every summer and select locations. Adding a branded always-on web platform meant more kids could learn on their busy schedules.")), p.default.createElement("div", null, p.default.createElement(v.H3, {invert: !0}, "Can’t Touch This"), p.default.createElement("p", null, "iD Tech was producing web content, but it was non-interactive video. In order to publish fully interactive web courses, Envy Labs was well-equipped to help.")), p.default.createElement("div", null, p.default.createElement(v.H3, {invert: !0}, "Cashflow Positive"), p.default.createElement("p", null, "iD’s revenue came in a pretty substantial bell curve that peaked mid-year. Opening up a year-round revenue stream could help the company break through some growth barriers.")))), p.default.createElement(z.StickyGrid, null, p.default.createElement(z.StickyContent, null, p.default.createElement(v.H4, null, "Discover"), p.default.createElement(v.H2, {invert: !0}, "We’re Going On an Adventure"), p.default.createElement("p", null, "We began research and initial wireframes for Tech Rocket back in 2014. Taking lessons we learned from ", p.default.createElement(v.StyledLink, {to: "/work/code-school/"}, "Code School"), ", we dialed back the age demographic to appeal to a younger audience. We collected lessons and insights over the following years to add features and steady refinement.")), p.default.createElement(z.StickyMedia, null, p.default.createElement(V.default, {
+					}))), p.default.createElement(z.GoalsGrid, null, p.default.createElement(z.GoalsHeader, null, p.default.createElement(v.H2, {invert: !0}, "Project Goals")), p.default.createElement(z.GoalsContent, null, p.default.createElement("div", null, p.default.createElement(v.H3, {invert: !0}, "Eternal Summer"), p.default.createElement("p", null, "iD Tech’s camps were legendary for getting kids excited about tech, but they were limited to a few weeks every summer and select locations. Adding a branded always-on web platform meant more kids could learn on their busy schedules.")), p.default.createElement("div", null, p.default.createElement(v.H3, {invert: !0}, "Can’t Touch This"), p.default.createElement("p", null, "iD Tech was producing web content, but it was non-interactive video. In order to publish fully interactive web courses, TopCraftBits was well-equipped to help.")), p.default.createElement("div", null, p.default.createElement(v.H3, {invert: !0}, "Cashflow Positive"), p.default.createElement("p", null, "iD’s revenue came in a pretty substantial bell curve that peaked mid-year. Opening up a year-round revenue stream could help the company break through some growth barriers.")))), p.default.createElement(z.StickyGrid, null, p.default.createElement(z.StickyContent, null, p.default.createElement(v.H4, null, "Discover"), p.default.createElement(v.H2, {invert: !0}, "We’re Going On an Adventure"), p.default.createElement("p", null, "We began research and initial wireframes for Tech Rocket back in 2014. Taking lessons we learned from ", p.default.createElement(v.StyledLink, {to: "/work/code-school/"}, "Code School"), ", we dialed back the age demographic to appeal to a younger audience. We collected lessons and insights over the following years to add features and steady refinement.")), p.default.createElement(z.StickyMedia, null, p.default.createElement(V.default, {
 						alt: "Tech Rocket 2013 version",
 						default: "800w",
 						imageData: _.default
