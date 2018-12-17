@@ -3438,7 +3438,7 @@ webpackJsonp(["app"], {
 		}
 	},
 	"./assets/icons.svg": function (e, t, o) {
-		e.exports = o.p + "../images/svg/d2225e075729efcb6feb272e2c5337d4.svg"
+		e.exports = o.p + "AstroCats/assets/images/svg/d2225e075729efcb6feb272e2c5337d4.svg"
 	},
 	"./assets/motifs/header.svg": function (e, t, o) {
 		e.exports = o.p + "530532db4239a05562fca8995471abd3.svg"
