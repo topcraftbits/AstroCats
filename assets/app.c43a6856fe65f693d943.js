@@ -6599,7 +6599,7 @@ webpackJsonp(["app"], {
 				}
 			}, {
 				key: "componentWillReceiveProps", value: function (e) {
-					this.props.location.pathname.split("/")[1] !== e.location.pathname.split("/")[1] && this.updateActive(e), this.checkbox.checked = !1
+					this.props.location.pathname.split("/")[1] !== e.location.pathname.split("/")[2] && this.updateActive(e), this.checkbox.checked = !1
 				}
 			}, {
 				key: "componentWillUnmount", value: function () {
