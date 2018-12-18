@@ -6643,17 +6643,18 @@ webpackJsonp(["app"], {
 						lineOffset: this.state.lineOffset,
 						lineScale: this.state.lineScale
 					}),
-					// 	Q.default.createElement(E, {
-					// 	invert: this.props.invert, innerRef: function (t) {
-					// 		e.links[0] = t
-					// 	}
-					// }, Q.default.createElement(B.NavLink, {to: Z[0].to}, Z[0].name)), Q.default.createElement(E, {
-					// 	invert: this.props.invert,
-					// 	innerRef: function (t) {
-					// 		e.links[1] = t
-					// 	}
-					// },
-							Q.default.createElement(B.NavLink, {to: Z[1].to}, Z[1].name)), Q.default.createElement(E, {
+						Q.default.createElement(E, {
+						invert: this.props.invert, innerRef: function (t) {
+							e.links[0] = t
+						}
+					 }
+						), Q.default.createElement(E, {
+						invert: this.props.invert,
+						innerRef: function (t) {
+							e.links[1] = t
+						}
+					},
+						), Q.default.createElement(E, {
 						invert: this.props.invert,
 						innerRef: function (t) {
 							e.links[2] = t
