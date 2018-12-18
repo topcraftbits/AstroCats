@@ -5475,23 +5475,23 @@ webpackJsonp(["app"], {
 						return i.default.createElement(F.default, {status: t})
 					}
 				}), i.default.createElement(u.Route, {
-					path: "/work/", render: function () {
+					path: "/AstroCats/work/", render: function () {
 						return i.default.createElement(V.default, {status: t})
 					}
 				}), i.default.createElement(u.Route, {
-					path: "/about/", render: function () {
+					path: "/AstroCats/about/", render: function () {
 						return i.default.createElement(B.default, {status: t})
 					}
 				}), i.default.createElement(u.Route, {
-					path: "/services/", render: function () {
+					path: "/AstroCats/services/", render: function () {
 						return i.default.createElement(z.default, {status: t})
 					}
 				}), i.default.createElement(u.Route, {
-					path: "/contact/", render: function () {
+					path: "/AstroCats/contact/", render: function () {
 						return i.default.createElement(v.default, {status: t})
 					}
 				}), i.default.createElement(u.Route, {
-					path: "/careers/", render: function () {
+					path: "/AstroCats/careers/", render: function () {
 						return i.default.createElement(E.default, {status: t})
 					}
 				}), i.default.createElement(u.Route, {
@@ -5685,7 +5685,7 @@ webpackJsonp(["app"], {
 				key: "render", value: function () {
 					var e = this;
 					return Z.default.createElement(H, {
-						href: "/work/" + this.props.data.slug,
+						href: "/AstroCats/work/" + this.props.data.slug,
 						reverse: this.props.reverse,
 						startRef: this.photo
 					}, Z.default.createElement(_, null, Z.default.createElement(q, {
@@ -5811,7 +5811,7 @@ webpackJsonp(["app"], {
 				key: "render", value: function () {
 					var e = this;
 					return B.default.createElement(G, {
-						href: "/work/" + this.props.data.slug,
+						href: "/AstroCats/work/" + this.props.data.slug,
 						startRef: this.photo
 					}, B.default.createElement(A, null, B.default.createElement(K, {"data-hover": "type"}, B.default.createElement(q, {flush: !0}, "Up Next")), B.default.createElement(_, null, B.default.createElement(x.H3, {invert: !0}, this.props.data.title), B.default.createElement("p", null, this.props.data.description)), B.default.createElement(M, null, B.default.createElement(v.default, {onEnter: this.handleVisibility}), B.default.createElement(H, null, B.default.createElement(X, {
 						"data-hover": "color1",
@@ -5918,7 +5918,7 @@ webpackJsonp(["app"], {
 				}
 			}, {
 				key: "render", value: function () {
-					return f.default.createElement(j, {to: "/work/" + this.props.data.slug}, f.default.createElement(V, null, f.default.createElement(k, {
+					return f.default.createElement(j, {to: "/AstroCats/work/" + this.props.data.slug}, f.default.createElement(V, null, f.default.createElement(k, {
 						"data-part": "swatch",
 						style: {background: this.props.data.cluster.color1}
 					}), f.default.createElement(R, {"data-part": "cover"}, f.default.createElement(F.H4, null, this.props.data.type), f.default.createElement(B, null, this.props.data.title))))
@@ -6008,7 +6008,7 @@ webpackJsonp(["app"], {
 				key: "render", value: function () {
 					var e = this;
 					return Q.default.createElement(y, {
-						href: "/work/" + this.props.data.slug,
+						href: "/AstroCats/work/" + this.props.data.slug,
 						startRef: this.photo
 					}, Q.default.createElement(R.default, {onEnter: this.handleVisibility}), Q.default.createElement(C, null, this.props.alt && Q.default.createElement(x, {
 							"data-hover": "color1",
@@ -6140,7 +6140,7 @@ webpackJsonp(["app"], {
 					}))), j.default.createElement(L, null, j.default.createElement("a", {href: "mailto:hello@topcraftbits.com?subject=Hey%20Envy%20Labs!"}, "hello@topcraftbits.com")), j.default.createElement(L, null, j.default.createElement("a", {href: "tel:8443100257"}, "844.310.0257"))), j.default.createElement(A, {
 						"aria-hidden": "true",
 						role: "presentation"
-					}, j.default.createElement(G, null, j.default.createElement(N.H4, {flush: !0}, "Navigate")), j.default.createElement(M, null, j.default.createElement(z.Link, {to: "/work/"}, "Work"), j.default.createElement("br", null), j.default.createElement(z.Link, {to: "/services/"}, "Services"), j.default.createElement("br", null), j.default.createElement(z.Link, {to: "/about/"}, "About"), j.default.createElement("br", null), j.default.createElement(z.Link, {to: "/contact/"}, "Contact"), j.default.createElement("br", null), j.default.createElement(R.default.OutboundLink, {
+					}, j.default.createElement(G, null, j.default.createElement(N.H4, {flush: !0}, "Navigate")), j.default.createElement(M, null, j.default.createElement(z.Link, {to: "/AstroCats/work/"}, "Work"), j.default.createElement("br", null), j.default.createElement(z.Link, {to: "/AstroCats/services/"}, "Services"), j.default.createElement("br", null), j.default.createElement(z.Link, {to: "/AstroCats/about/"}, "About"), j.default.createElement("br", null), j.default.createElement(z.Link, {to: "/AstroCats/contact/"}, "Contact"), j.default.createElement("br", null), j.default.createElement(R.default.OutboundLink, {
 						eventLabel: "TopCraftBits Blog",
 						to: "https://blog.topcraftbits.com",
 						rel: "noopener",
@@ -6538,11 +6538,11 @@ webpackJsonp(["app"], {
 		}(), i = l(["\n  @media (min-width: 35em) {\n    &:hover a {\n      opacity: 0.6;\n    }\n  }\n"], ["\n  @media (min-width: 35em) {\n    &:hover a {\n      opacity: 0.6;\n    }\n  }\n"]), c = l(["\n  background: ", ";\n  bottom: 0;\n  display: none;\n  height: 3px;\n  left: 100vw;\n  margin-left: -3px;\n  position: absolute;\n  transition: all 400ms ", ";\n  width: 6px;\n  @media (min-width: 35em) {\n    display: block;\n  }\n"], ["\n  background: ", ";\n  bottom: 0;\n  display: none;\n  height: 3px;\n  left: 100vw;\n  margin-left: -3px;\n  position: absolute;\n  transition: all 400ms ", ";\n  width: 6px;\n  @media (min-width: 35em) {\n    display: block;\n  }\n"]), m = l(["\n  a {\n    border-bottom: 2px solid ", ";\n    color: ", ";\n    display: block;\n    font-family: ", ";\n    line-height: 3.5rem;\n    padding: 0 1rem;\n    text-align: right;\n    text-decoration: none;\n    transition: opacity 400ms ", ";\n    will-change: opacity;\n    &.active {\n      color: ", ";\n    }\n  }\n  ", "\n  @media (min-width: 35em) {\n    margin-left: 2rem;\n    a {\n      border: 0;\n      display: inline-block;\n      line-height: inherit;\n      font-size: ", ";\n      padding: 1.25rem 0;\n      &:hover {\n        opacity: 1;\n      }\n      &.active {\n        color: ", ";\n      }\n    }\n  }\n"], ["\n  a {\n    border-bottom: 2px solid ", ";\n    color: ", ";\n    display: block;\n    font-family: ", ";\n    line-height: 3.5rem;\n    padding: 0 1rem;\n    text-align: right;\n    text-decoration: none;\n    transition: opacity 400ms ", ";\n    will-change: opacity;\n    &.active {\n      color: ", ";\n    }\n  }\n  ", "\n  @media (min-width: 35em) {\n    margin-left: 2rem;\n    a {\n      border: 0;\n      display: inline-block;\n      line-height: inherit;\n      font-size: ", ";\n      padding: 1.25rem 0;\n      &:hover {\n        opacity: 1;\n      }\n      &.active {\n        color: ", ";\n      }\n    }\n  }\n"]), u = l(["\n    a {\n      border-color: ", ";\n      color: ", " !important;\n    }\n  "], ["\n    a {\n      border-color: ", ";\n      color: ", " !important;\n    }\n  "]), p = l(["\n  from {\n    opacity: 0;\n    transform: translateY(1rem);\n  }\n"], ["\n  from {\n    opacity: 0;\n    transform: translateY(1rem);\n  }\n"]), g = l(["\n  animation: ", " 400ms ", ";\n  background: ", ";\n  bottom: 0;\n  display: none;\n  left: 0;\n  position: fixed;\n  right: 0;\n  top: 3.5rem;\n  z-index: 90;\n  ", "\n  @media (min-width: 35em) {\n    animation: none;\n    background: transparent;\n    display: inline-block !important;\n    position: static;\n  }\n"], ["\n  animation: ", " 400ms ", ";\n  background: ", ";\n  bottom: 0;\n  display: none;\n  left: 0;\n  position: fixed;\n  right: 0;\n  top: 3.5rem;\n  z-index: 90;\n  ", "\n  @media (min-width: 35em) {\n    animation: none;\n    background: transparent;\n    display: inline-block !important;\n    position: static;\n  }\n"]), f = l(["\n    background: ", ";\n  "], ["\n    background: ", ";\n  "]), h = l(["\n  color: ", ";\n  cursor: pointer;\n  display: inline-block;\n  font-family: ", ";\n  line-height: 3.5rem;\n  span:last-child {\n    display: none;\n  }\n  ", "\n  @media (min-width: 35em) {\n    display: none;\n  }\n"], ["\n  color: ", ";\n  cursor: pointer;\n  display: inline-block;\n  font-family: ", ";\n  line-height: 3.5rem;\n  span:last-child {\n    display: none;\n  }\n  ", "\n  @media (min-width: 35em) {\n    display: none;\n  }\n"]), U = l(["\n    color: ", ";\n  "], ["\n    color: ", ";\n  "]), b = l(["\n  display: none;\n  &:checked {\n    + label {\n      span {\n        display: inline-block;\n        &:first-child {\n          display: none;\n        }\n      }\n    }\n    ~ div {\n      display: block;\n    }\n  }\n"], ["\n  display: none;\n  &:checked {\n    + label {\n      span {\n        display: inline-block;\n        &:first-child {\n          display: none;\n        }\n      }\n    }\n    ~ div {\n      display: block;\n    }\n  }\n"]), w = o("../node_modules/react/index.js"), Q = s(w), F = o("../node_modules/react-ga/dist/react-ga.js"), j = s(F), V = o("../node_modules/prop-types/index.js"), R = s(V), B = o("../node_modules/react-router-dom/es/index.js"), k = o("../node_modules/styled-components/dist/styled-components.browser.es.js"), z = s(k), Z = [{
 			id: 0,
 			name: "Work",
-			to: "/work/"
-		}, {id: 1, name: "Services", to: "/services/"}, {id: 2, name: "About", to: "/about/"}, {
+			to: "/AstroCats/work/"
+		}, {id: 1, name: "Services", to: "/AstroCats/services/"}, {id: 2, name: "About", to: "/AstroCats/about/"}, {
 			id: 3,
 			name: "Contact",
-			to: "/contact/"
+			to: "/AstroCats/contact/"
 		}], v = z.default.nav(i), I = z.default.span.attrs({
 			style: function (e) {
 				return {transform: "translateX(" + e.lineOffset + "px)\n                scale(" + e.lineScale[0] + ", " + e.lineScale[1] + ")"}
@@ -7141,7 +7141,7 @@ webpackJsonp(["app"], {
 					}), h.default.createElement(b.default, {
 						onEnter: this.handleEnter,
 						onLeave: this.handleLeave
-					}), h.default.createElement(Z, null, h.default.createElement(V.Grid, null, h.default.createElement(V.GridContent, null, h.default.createElement(R.H4, null, "Contact"), h.default.createElement(z, null, "We’re just as excited about your idea."), h.default.createElement(j.default, {to: "/contact/"}, h.default.createElement("span", null, "Say Hello"))))))
+					}), h.default.createElement(Z, null, h.default.createElement(V.Grid, null, h.default.createElement(V.GridContent, null, h.default.createElement(R.H4, null, "Contact"), h.default.createElement(z, null, "We’re just as excited about your idea."), h.default.createElement(j.default, {to: "/AstroCats/contact/"}, h.default.createElement("span", null, "Say Hello"))))))
 				}
 			}]), t
 		}(h.default.PureComponent);
@@ -7199,7 +7199,7 @@ webpackJsonp(["app"], {
 				return m.default.createElement(le, {
 					key: t.id,
 					"data-slug": t.slug,
-					href: "/about/" + t.slug,
+					href: "/AstroCats/about/" + t.slug,
 					active: e.location.pathname.split("/")[2] === t.slug
 				}, m.default.createElement(F.default, {
 					alt: t.name,
@@ -7363,7 +7363,7 @@ webpackJsonp(["app"], {
 						imageData: ge[this.member.slug],
 						autoload: !0
 					}))), B.default.createElement(Fe, {status: this.props.status}, B.default.createElement(he, {
-						href: "/about/",
+						href: "/AstroCats/about/",
 						onClick: function (t) {
 							return e.goBack(t)
 						},
@@ -8368,12 +8368,12 @@ webpackJsonp(["app"], {
 			function t(e) {
 				a(this, t);
 				var o = d(this, (t.__proto__ || Object.getPrototypeOf(t)).call(this, e));
-				return o.state = {canReturnToAbout: "/about/" === e.location.pathname}, o
+				return o.state = {canReturnToAbout: "/AstroCats/about/" === e.location.pathname}, o
 			}
 			
 			return l(t, e), i(t, [{
 				key: "componentWillUpdate", value: function (e) {
-					"/about/" === e.location.pathname && e.location.pathname !== this.props.location.pathname && this.setState({canReturnToAbout: !0})
+					"/AstroCats/about/" === e.location.pathname && e.location.pathname !== this.props.location.pathname && this.setState({canReturnToAbout: !0})
 				}
 			}, {
 				key: "render", value: function () {
@@ -8387,7 +8387,7 @@ webpackJsonp(["app"], {
 							Z.default.createElement(O.H1, null, "Meet Our Team Astrocats"), Z.default.createElement(O.Intro, null, "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seddiam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasdgubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sitamet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo ", Z.default.createElement(O.StyledLink, {to: "#"}, "link"), ". Lorem impsum lorem.")))), Z.default.createElement(Y.Content, null, Z.default.createElement(Y.Grid, null, Z.default.createElement(ze, null, Z.default.createElement(O.H2, null, "Why Envy Labs? Glad You Asked."), Z.default.createElement(O.Intro, null, "We know how hard it is to pick a team. Is Envy Labs good? (", Z.default.createElement("em", null, "Yup."), ") Is the team easy to work with? (", Z.default.createElement("em", null, "Also yes."), ") Will they deliver solid work at an honest rate? (", Z.default.createElement("em", null, "Our clients think so!"), ")"))), Z.default.createElement(ke, null, Z.default.createElement(Ze, null, Z.default.createElement("img", {
 							src: pe.default,
 							alt: ""
-						})), Z.default.createElement(Be, null, Z.default.createElement(O.H3, null, "The Right Fit"), Z.default.createElement("p", null, "From inception to iteration, we can manage the entire process or lend a hand where it’s needed most. Our ", Z.default.createElement(O.StyledLink, {to: "/services/"}, "services page"), " offers a deeper dive into each of our capabilities.")), Z.default.createElement(Ze, null, Z.default.createElement("img", {
+						})), Z.default.createElement(Be, null, Z.default.createElement(O.H3, null, "The Right Fit"), Z.default.createElement("p", null, "From inception to iteration, we can manage the entire process or lend a hand where it’s needed most. Our ", Z.default.createElement(O.StyledLink, {to: "/AstroCats/services/"}, "services page"), " offers a deeper dive into each of our capabilities.")), Z.default.createElement(Ze, null, Z.default.createElement("img", {
 							src: me.default,
 							alt: ""
 						})), Z.default.createElement(Be, null, Z.default.createElement(O.H3, null, "Direct Contact"), Z.default.createElement("p", null, "Envy Labs is a group of equal contributors who speak openly and honestly with clients. For each phase of a project, members of the team are directly accessible. Iteration is a constant, and we encourage our clients to share ideas and inspiration whenever it strikes."))), Z.default.createElement(Y.Grid, null, Z.default.createElement(ve, null, Z.default.createElement(O.H3, null, "Over-Communication"), Z.default.createElement("p", null, "In software development, few surprises are good surprises. For the project’s duration, every week will include a status update, detailed hour report, and at least one check-in call. We’ll show where our time goes, and — more importantly — what it creates."))), Z.default.createElement(Ie, null, Z.default.createElement(Ee, null, Z.default.createElement(_.default, {
@@ -8784,7 +8784,7 @@ webpackJsonp(["app"], {
 						alt: "",
 						default: "600w",
 						imageData: le.default
-					})))), Z.default.createElement(Te, null, Z.default.createElement(Ae, null, Z.default.createElement(O.H2, null, "Showing Our Work"), Z.default.createElement(O.Intro, null, "The proof is in the pudding. While there isn’t a way to eat our interfaces (yet), you can sample a large offering of non-perishable case studies on our ", Z.default.createElement(O.StyledLink, {to: "/work/"}, "work page"), ".")), Z.default.createElement(_e, null, Z.default.createElement(C.default, {
+					})))), Z.default.createElement(Te, null, Z.default.createElement(Ae, null, Z.default.createElement(O.H2, null, "Showing Our Work"), Z.default.createElement(O.Intro, null, "The proof is in the pudding. While there isn’t a way to eat our interfaces (yet), you can sample a large offering of non-perishable case studies on our ", Z.default.createElement(O.StyledLink, {to: "/AstroCats/work/"}, "work page"), ".")), Z.default.createElement(_e, null, Z.default.createElement(C.default, {
 						data: Be.default.cisco,
 						default: "600w",
 						imageData: me.default
@@ -8796,7 +8796,7 @@ webpackJsonp(["app"], {
 						alt: "",
 						default: "1200w",
 						imageData: ie.default
-					}))), Z.default.createElement(ye, null, Z.default.createElement(Ce, null, Z.default.createElement(O.H2, null, "Proven Services"), Z.default.createElement(O.Intro, null, "From concept to launch party, we provide expert insight into content delivery. Visit the ", Z.default.createElement(O.StyledLink, {to: "/services/"}, "services page"), " for a detailed view of our planning and implementation offerings.")), Z.default.createElement(We, null, Z.default.createElement("img", {
+					}))), Z.default.createElement(ye, null, Z.default.createElement(Ce, null, Z.default.createElement(O.H2, null, "Proven Services"), Z.default.createElement(O.Intro, null, "From concept to launch party, we provide expert insight into content delivery. Visit the ", Z.default.createElement(O.StyledLink, {to: "/AstroCats/services/"}, "services page"), " for a detailed view of our planning and implementation offerings.")), Z.default.createElement(We, null, Z.default.createElement("img", {
 						src: fe.default,
 						alt: ""
 					})), Z.default.createElement(Ne, null, Z.default.createElement(O.H3, null, "Data Management"), Z.default.createElement("p", null, "G.I. Joe taught us that ", Z.default.createElement("em", null, "knowing is half the battle"), "; in the theater of big data, storage and retrieval are the other half — especially on the web.")), Z.default.createElement(We, null, Z.default.createElement("img", {
@@ -8815,7 +8815,7 @@ webpackJsonp(["app"], {
 						alt: "",
 						default: "600w",
 						imageData: ae.default
-					})), Z.default.createElement(ke, null, Z.default.createElement(O.H2, {invert: !0}, "Just Like Family"), Z.default.createElement(O.Intro, null, "Since 2009, leading developers and designers have called TopCraftBits home. Head over to the ", Z.default.createElement(O.StyledLink, {to: "/about/"}, "about page"), " for a look at the smiling faces behind our work and the grin-worthy process we employ.")))), Z.default.createElement(G.default, null)))
+					})), Z.default.createElement(ke, null, Z.default.createElement(O.H2, {invert: !0}, "Just Like Family"), Z.default.createElement(O.Intro, null, "Since 2009, leading developers and designers have calfled TopCraftBits home. Head over to the ", Z.default.createElement(O.StyledLink, {to: "/AstroCats/about/"}, "about page"), " for a look at the smiling faces behind our work and the grin-worthy process we employ.")))), Z.default.createElement(G.default, null)))
 				}
 			}]), t
 		}(Z.default.PureComponent);
