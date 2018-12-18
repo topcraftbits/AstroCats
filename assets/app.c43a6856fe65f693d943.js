@@ -672,7 +672,7 @@ webpackJsonp(["app"], {
 		e.exports = o.p + "355ab6b0b1d004d00a772e1c3e5e1fdb.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/lucian-crisan@Lucian-alliance.jpg?size=400w": function (e, t, o) {
-		e.exports = o.p + "/assets/images/avatars/4c57923d4034a8b54a6b1d52b4b144f2.jpg"
+		e.exports = o.p + "/AstroCats/assets/images/avatars/4c57923d4034a8b54a6b1d52b4b144f2.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/nick-walsh.jpg?size=400w": function (e, t, o) {
 		e.exports = o.p + "62e7a7e274fc98c2e358b91770743ccc.jpg"
@@ -684,7 +684,7 @@ webpackJsonp(["app"], {
 		e.exports = o.p + "98f6f48f683e0045191564bad97ac6e4.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/radu-crican.jpg?size=400w": function (e, t, o) {
-		e.exports = o.p + "/assets/images/avatars/e10450ce0782c89b1178f351172396bf.png"
+		e.exports = o.p + "/AstroCats/assets/images/avatars/e10450ce0782c89b1178f351172396bf.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=600!./assets/home/about.jpg?size=600w": function (e, t, o) {
 		e.exports = o.p + "59657743ab7953fc3a6d1d7e6478a455.jpg"
@@ -735,7 +735,7 @@ webpackJsonp(["app"], {
 		e.exports = o.p + "7d9f4c126668729772e5e5e39e9b2192.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/lucas-louca-l.jpg?size=640w": function (e, t, o) {
-		e.exports = o.p + "/assets/images/avatars/9fc9fae6b7fff2681ba804c6f845ca76.png"
+		e.exports = o.p + "/AstroCats/assets/images/avatars/9fc9fae6b7fff2681ba804c6f845ca76.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/matt-schultz-l.jpg?size=640w": function (e, t, o) {
 		e.exports = o.p + "050e6be68e31768b7bd7e0545ae6ef06.jpg"
