@@ -683,7 +683,7 @@ webpackJsonp(["app"], {
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/thomas-meeks.jpg?size=400w": function (e, t, o) {
 		e.exports = o.p + "98f6f48f683e0045191564bad97ac6e4.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/images/avatars/radu-crican.jpg?size=400w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/radu-crican.jpg?size=400w": function (e, t, o) {
 		e.exports = o.p + "/assets/images/avatars/e10450ce0782c89b1178f351172396bf.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=600!./assets/home/about.jpg?size=600w": function (e, t, o) {
