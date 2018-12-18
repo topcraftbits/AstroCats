@@ -225,13 +225,13 @@ webpackJsonp(["app"], {
 		e.exports = o.p + "536cc8add007f02e32bbff32f2dc8a02.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/lucas-louca-l.jpg?size=1280w": function (e, t, o) {
-		e.exports = o.p + "6d875da48496f19be0d9f1a741a9c2dd.jpg"
+		e.exports = o.p + "AstroCats/assets/images/avatars/lucas.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/matt-schultz-l.jpg?size=1280w": function (e, t, o) {
 		e.exports = o.p + "811c419219d5dd186fa755c508da8561.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/lucian-crisan@Lucian-alliance-l.jpg?size=1280w": function (e, t, o) {
-		e.exports = o.p + "6881a1f312ed13b13f5b546b27b87db4.jpg"
+		e.exports = o.p + "AstroCats/assets/images/avatars/lucian.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/nick-walsh-l.jpg?size=1280w": function (e, t, o) {
 		e.exports = o.p + "1b78f7a792c76cae4189e0e09685353d.jpg"
@@ -243,7 +243,7 @@ webpackJsonp(["app"], {
 		e.exports = o.p + "ae62c108a090c250fa452aea2040ad7a.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1280!./assets/team/radu-crican-l.jpg?size=1280w": function (e, t, o) {
-		e.exports = o.p + "639338c2e6eb2e3e2c8dae9daf77f90b.jpg"
+		e.exports = o.p + "AstroCats/assets/images/avatars/radu.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/cisco/cisco-1-1-a.jpg?size=1600w": function (e, t, o) {
 		e.exports = o.p + "d63bad1502c7bc7ef0f6380790d4f2ee.jpg"
@@ -672,7 +672,7 @@ webpackJsonp(["app"], {
 		e.exports = o.p + "355ab6b0b1d004d00a772e1c3e5e1fdb.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/lucian-crisan@Lucian-alliance.jpg?size=400w": function (e, t, o) {
-		e.exports = o.p + "AstroCats/assets/images/avatars/4c57923d4034a8b54a6b1d52b4b144f2.jpg"
+		e.exports = o.p + "AstroCats/assets/images/avatars/lucian.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/nick-walsh.jpg?size=400w": function (e, t, o) {
 		e.exports = o.p + "62e7a7e274fc98c2e358b91770743ccc.jpg"
@@ -684,7 +684,7 @@ webpackJsonp(["app"], {
 		e.exports = o.p + "98f6f48f683e0045191564bad97ac6e4.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/radu-crican.jpg?size=400w": function (e, t, o) {
-		e.exports = o.p + "AstroCats/assets/images/avatars/e10450ce0782c89b1178f351172396bf.png"
+		e.exports = o.p + "AstroCats/assets/images/avatars/radu.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=600!./assets/home/about.jpg?size=600w": function (e, t, o) {
 		e.exports = o.p + "59657743ab7953fc3a6d1d7e6478a455.jpg"
@@ -735,13 +735,13 @@ webpackJsonp(["app"], {
 		e.exports = o.p + "7d9f4c126668729772e5e5e39e9b2192.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/lucas-louca-l.jpg?size=640w": function (e, t, o) {
-		e.exports = o.p + "AstroCats/assets/images/avatars/9fc9fae6b7fff2681ba804c6f845ca76.png"
+		e.exports = o.p + "AstroCats/assets/images/avatars/lucas.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/matt-schultz-l.jpg?size=640w": function (e, t, o) {
 		e.exports = o.p + "050e6be68e31768b7bd7e0545ae6ef06.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/lucian-crisan@Lucian-alliance-l.jpg?size=640w": function (e, t, o) {
-		e.exports = o.p + "caa2a68f355c97f869433a313f5e2124.png"
+		e.exports = o.p + "AstroCats/assets/images/avatars/lucian.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/nick-walsh-l.jpg?size=640w": function (e, t, o) {
 		e.exports = o.p + "f29c468d07aab379ff6fbaac1231eebc.jpg"
@@ -753,7 +753,7 @@ webpackJsonp(["app"], {
 		e.exports = o.p + "b6bf3cd3453498f39e28984cfed04c69.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/radu-crican-l.jpg?size=640w": function (e, t, o) {
-		e.exports = o.p + "7f92563c77da8fc27f64f84ad280d976.jpg"
+		e.exports = o.p + "AstroCats/assets/images/avatars/radu.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/ayana-campbell-smith.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "f8873bc26b45d05bac22f52c99597bc5.jpg"
@@ -774,13 +774,13 @@ webpackJsonp(["app"], {
 		e.exports = o.p + "e5acf31d41ac799ed94fe7179c156d50.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/lucas-louca.jpg?size=800w": function (e, t, o) {
-		e.exports = o.p + "AstroCats/assets/images/avatars/dd9de3f31b377798e9da2f6bdeec4b51.png"
+		e.exports = o.p + "AstroCats/assets/images/avatars/lucas.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/matt-schultz.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "f471b6596a5ceff0d7c37881e3ab9dc6.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/lucian-crisan@Lucian-alliance.jpg?size=800w": function (e, t, o) {
-		e.exports = o.p + "AstroCats/assets/images/avatars/7b3e539469d5b32c3f28bac8786a828f.png"
+		e.exports = o.p + "AstroCats/assets/images/avatars/lucian.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/nick-walsh.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "22c58f2517650abe9e6e414b26bda6e1.jpg"
@@ -792,7 +792,7 @@ webpackJsonp(["app"], {
 		e.exports = o.p + "d5cce0724a07be8ebbe9475869ed9d46.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/radu-crican.jpg?size=800w": function (e, t, o) {
-		e.exports = o.p + "AstroCats/assets/images/avatars/175b4bfc8e583b81d6a4af344acb6cec.png"
+		e.exports = o.p + "AstroCats/assets/images/avatars/radu.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/cisco/cisco-1-1-a.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "4f60519ff9e1a880cbed3eddb6019d88.jpg"
