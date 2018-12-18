@@ -19,7 +19,7 @@ webpackJsonp(["app"], {
 			id: 3,
 			name: "Lucas Louca",
 			slug: "lucas-louca",
-			title: "Lead Developer",
+			title: "Sr Developer",
 			bio: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
 			social: [["twitter", "https://twitter.com/lucaslouca"], ["github", "https://github.com/lucaslouca"]]
 		}]
@@ -683,8 +683,8 @@ webpackJsonp(["app"], {
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/thomas-meeks.jpg?size=400w": function (e, t, o) {
 		e.exports = o.p + "98f6f48f683e0045191564bad97ac6e4.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/team/radu-crican.jpg?size=400w": function (e, t, o) {
-		e.exports = o.p + "e10450ce0782c89b1178f351172396bf.jpg"
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=400!./assets/images/avatars/e10450ce0782c89b1178f351172396bf.png?size=400w": function (e, t, o) {
+		e.exports = o.p + "e10450ce0782c89b1178f351172396bf.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=600!./assets/home/about.jpg?size=600w": function (e, t, o) {
 		e.exports = o.p + "59657743ab7953fc3a6d1d7e6478a455.jpg"
@@ -735,13 +735,13 @@ webpackJsonp(["app"], {
 		e.exports = o.p + "7d9f4c126668729772e5e5e39e9b2192.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/lucas-louca-l.jpg?size=640w": function (e, t, o) {
-		e.exports = o.p + "9fc9fae6b7fff2681ba804c6f845ca76.jpg"
+		e.exports = o.p + "9fc9fae6b7fff2681ba804c6f845ca76.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/matt-schultz-l.jpg?size=640w": function (e, t, o) {
 		e.exports = o.p + "050e6be68e31768b7bd7e0545ae6ef06.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/lucian-crisan@Lucian-alliance-l.jpg?size=640w": function (e, t, o) {
-		e.exports = o.p + "caa2a68f355c97f869433a313f5e2124.jpg"
+		e.exports = o.p + "caa2a68f355c97f869433a313f5e2124.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=640!./assets/team/nick-walsh-l.jpg?size=640w": function (e, t, o) {
 		e.exports = o.p + "f29c468d07aab379ff6fbaac1231eebc.jpg"
