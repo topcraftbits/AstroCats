@@ -5472,7 +5472,7 @@ webpackJsonp(["app"], {
 					path: "/AstroCats/",
 					exact: !0,
 					render: function () {
-						return i.default.createElement(F.default, {status: t})
+						return i.default.createElement(B.default, {status: t})
 					}
 				}), i.default.createElement(u.Route, {
 					path: "/AstroCats/work/", render: function () {
