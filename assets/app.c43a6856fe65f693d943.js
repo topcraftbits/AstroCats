@@ -5469,7 +5469,7 @@ webpackJsonp(["app"], {
 				role: "main"
 			}, i.default.createElement(p.Transition, {key: e.location.pathname.split("/")[1], timeout: 400}, function (t) {
 				return i.default.createElement(u.Switch, {location: e.location}, i.default.createElement(u.Route, {
-					path: "/",
+					path: "/AstroCats/",
 					exact: !0,
 					render: function () {
 						return i.default.createElement(F.default, {status: t})
@@ -7211,7 +7211,7 @@ webpackJsonp(["app"], {
 				timeout: 400
 			}, function (t) {
 				return m.default.createElement(g.Switch, {location: e.location}, m.default.createElement(g.Route, {
-					path: "/about/:member",
+					path: "/AstroCats/about/:member",
 					render: function () {
 						return m.default.createElement(V.default, {canGoBack: e.canGoBack, status: t})
 					}
@@ -9616,6 +9616,7 @@ webpackJsonp(["app"], {
 				key: e.location.pathname,
 				timeout: 400
 			}, function (t) {
+				//TO DO:remove
 				return g.default.createElement(U.Switch, {location: e.location}, g.default.createElement(U.Route, {
 					path: "/work/redvector",
 					render: function () {
