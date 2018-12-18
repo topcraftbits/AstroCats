@@ -7200,7 +7200,7 @@ webpackJsonp(["app"], {
 					key: t.id,
 					"data-slug": t.slug,
 					href: "/AstroCats/about/" + t.slug,
-					active: e.location.pathname.split("/")[2] === t.slug
+					active: e.location.pathname.split("/")[3] === t.slug
 				}, m.default.createElement(F.default, {
 					alt: t.name,
 					default: "400w",
