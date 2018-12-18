@@ -98,9 +98,9 @@ webpackJsonp(["app"], {
 				cluster: {color1: "#2999D9", color2: "#D13718"}
 			},
 			"code-school": {
-				title: "Code School",
+				title: "TopCraftBits",
 				type: "Product",
-				description: "We bootstrapped Code School as a means for simplifying training delivery, and in the process it became a leading learn-to-code platform.",
+				description: "We bootstrapped TopCraftBits as a means for simplifying training delivery, and in the process it became a leading learn-to-code platform.",
 				slug: "code-school",
 				cluster: {color1: "#B0B1A1", color2: "#1E798A"}
 			},
@@ -8482,7 +8482,7 @@ webpackJsonp(["app"], {
 					}, V.default.createElement(T, null, V.default.createElement(L, null, V.default.createElement(y.GridContent, null, V.default.createElement(O, null, "Careers"), V.default.createElement(Y, {flush: !0}, "We’ve Saved a Seat"))), V.default.createElement(E.default, null, V.default.createElement(y.Grid, {color: "blackT"}, V.default.createElement(J, null, V.default.createElement("img", {
 						src: x.default,
 						alt: "Careers"
-					})), V.default.createElement(A, null, V.default.createElement(C.H2, {invert: !0}, "Front End Developer"), V.default.createElement(K, null, "We’re on the lookout for a new Front End Developer. Members of the front end team work directly with our developers, designers, and clients to realize a collective product vision. You’ll be involved from conception to launch, acting as the glue between function and form with client-side technologies."), V.default.createElement(P, {invert: !0}, "The Role"), V.default.createElement(K, null, "TopCraftBits is an Orlando-based, employee-owned web consultancy that has been building software for companies like Cisco, Google, GitHub, and Booz Allen Hamilton since 2009. We’re also responsible for founding Code School, a popular learn-to-code subscription product purchased by Pluralsight in 2015. TopCraftBits is small by design, and most staff members have a tenure of 8+ years."), V.default.createElement(q, null, V.default.createElement("li", null, "You’ll drive the translation of design systems and wireframes into usable interfaces for web applications."), V.default.createElement("li", null, "You’ll be responsible for meeting milestones, setting expectations, and maintaining the highest level of quality for every project."), V.default.createElement("li", null, "You’ll interact with our design and development teams to ensure a seamless process from initial idea to live product.")), V.default.createElement(K, null, "Ideally, we’re looking for someone to work in our downtown Orlando office, but remote positions will be considered for the right candidates. Relocation assistance is available."), V.default.createElement(P, {invert: !0}, "Requisite Skills"), V.default.createElement(q, null, V.default.createElement("li", null, "Solid grasp on the ins-and-outs of CSS and markup at scale, with bonus points for CSS-in-JS experience and Sass usage."), V.default.createElement("li", null, "Desire to stay on top of CSS specification changes, browser adoption, and try new application styling solutions."), V.default.createElement("li", null, "Experience with JavaScript and comfort working with a team in a modern framework (React, Ember, Vue, etc.)"), V.default.createElement("li", null, "Demonstrable communication skills through things like (but not limited to) blog posts and speaking — as consultants, our clients rely on us to suggest, defend, and check in."), V.default.createElement("li", null, "Experience optimizing for user experience, accessibility, and responsiveness, alongside application of animation principles within an interface."), V.default.createElement("li", null, "Problem solving and a passion for tackling unique requirements.")), V.default.createElement(P, {invert: !0}, "Benefits"), V.default.createElement(K, null, "Compensation is competitive and we offer a full benefits package (health, dental, vision included) with a company retirement plan, paid holidays, and flexible time off policies. Additional perks include conference trips and profit sharing."), V.default.createElement(K, null, "We also encourage all of our employees to build their own industry presence by providing time for community involvement, writing blog posts, speaking at conferences, and contributing to the open source community."), V.default.createElement(P, {invert: !0}, "How to Apply"), V.default.createElement(q, null, V.default.createElement("li", null, "We’d love to see samples of your work — link to your portfolio, CodePen, GitHub, or wherever else you reside online."), V.default.createElement("li", null, "Link to a blog post or article you’ve written in the past few months on a specific front-end topic, technique, or something you’re working through."), V.default.createElement("li", null, "What’s your favorite text editor plugin/extension?")), V.default.createElement(K, null, "All set? Send everything over to: ", V.default.createElement(C.StyledA, {href: "mailto:jobs@topcraftbits.com?subject=Front%20End%20Application"}, "jobs@topcraftbits.com")))))))
+					})), V.default.createElement(A, null, V.default.createElement(C.H2, {invert: !0}, "Front End Developer"), V.default.createElement(K, null, "We’re on the lookout for a new Front End Developer. Members of the front end team work directly with our developers, designers, and clients to realize a collective product vision. You’ll be involved from conception to launch, acting as the glue between function and form with client-side technologies."), V.default.createElement(P, {invert: !0}, "The Role"), V.default.createElement(K, null, "TopCraftBits is an Orlando-based, employee-owned web consultancy that has been building software for companies like Cisco, Google, GitHub, and Booz Allen Hamilton since 2009. We’re also responsible for founding TopCraftBits, a popular learn-to-code subscription product purchased by Pluralsight in 2015. TopCraftBits is small by design, and most staff members have a tenure of 8+ years."), V.default.createElement(q, null, V.default.createElement("li", null, "You’ll drive the translation of design systems and wireframes into usable interfaces for web applications."), V.default.createElement("li", null, "You’ll be responsible for meeting milestones, setting expectations, and maintaining the highest level of quality for every project."), V.default.createElement("li", null, "You’ll interact with our design and development teams to ensure a seamless process from initial idea to live product.")), V.default.createElement(K, null, "Ideally, we’re looking for someone to work in our downtown Orlando office, but remote positions will be considered for the right candidates. Relocation assistance is available."), V.default.createElement(P, {invert: !0}, "Requisite Skills"), V.default.createElement(q, null, V.default.createElement("li", null, "Solid grasp on the ins-and-outs of CSS and markup at scale, with bonus points for CSS-in-JS experience and Sass usage."), V.default.createElement("li", null, "Desire to stay on top of CSS specification changes, browser adoption, and try new application styling solutions."), V.default.createElement("li", null, "Experience with JavaScript and comfort working with a team in a modern framework (React, Ember, Vue, etc.)"), V.default.createElement("li", null, "Demonstrable communication skills through things like (but not limited to) blog posts and speaking — as consultants, our clients rely on us to suggest, defend, and check in."), V.default.createElement("li", null, "Experience optimizing for user experience, accessibility, and responsiveness, alongside application of animation principles within an interface."), V.default.createElement("li", null, "Problem solving and a passion for tackling unique requirements.")), V.default.createElement(P, {invert: !0}, "Benefits"), V.default.createElement(K, null, "Compensation is competitive and we offer a full benefits package (health, dental, vision included) with a company retirement plan, paid holidays, and flexible time off policies. Additional perks include conference trips and profit sharing."), V.default.createElement(K, null, "We also encourage all of our employees to build their own industry presence by providing time for community involvement, writing blog posts, speaking at conferences, and contributing to the open source community."), V.default.createElement(P, {invert: !0}, "How to Apply"), V.default.createElement(q, null, V.default.createElement("li", null, "We’d love to see samples of your work — link to your portfolio, CodePen, GitHub, or wherever else you reside online."), V.default.createElement("li", null, "Link to a blog post or article you’ve written in the past few months on a specific front-end topic, technique, or something you’re working through."), V.default.createElement("li", null, "What’s your favorite text editor plugin/extension?")), V.default.createElement(K, null, "All set? Send everything over to: ", V.default.createElement(C.StyledA, {href: "mailto:jobs@topcraftbits.com?subject=Front%20End%20Application"}, "jobs@topcraftbits.com")))))))
 				}
 			}]), t
 		}(V.default.PureComponent);
@@ -8755,10 +8755,7 @@ webpackJsonp(["app"], {
 					return Z.default.createElement(_.default, {
 						status: this.props.status,
 						image: K.default
-					}, Z.default.createElement(E.Helmet, null, Z.default.createElement("meta", {
-						name: "google-site-verification",
-						content: "MqW-xzt0-pkaMbsRNY9_uY-fYb1bR2tWt4Flt9dC1Ek"
-					})), Z.default.createElement(x.default, null, Z.default.createElement(Y.Heading, null, Z.default.createElement("div", null, Z.default.createElement(O.H4, null, "Discover TopCraftBits"), Z.default.createElement(O.H1, null, "Insightful Software"), Z.default.createElement(Se, null, "TopCraftBits builds data-driven web applications with a focus on interactive training and visualization.")))), Z.default.createElement(Y.Content, null, Z.default.createElement(T.default, null, Z.default.createElement(Ie, {color: "blackT"}, Z.default.createElement(ve, null, Z.default.createElement(O.H2, {invert: !0}, "A Positive Outlier"), Z.default.createElement(O.Intro, null, "TopCraftBits is 13 strategists, designers, and developers skilled at pairing data and training with software. Clients value our objectivity and the perspective gained through our own successful products.")), Z.default.createElement(Ee, null, Z.default.createElement(J.default, {
+					}, Z.default.createElement(x.default, null, Z.default.createElement(Y.Heading, null, Z.default.createElement("div", null, Z.default.createElement(O.H4, null, "Discover TopCraftBits"), Z.default.createElement(O.H1, null, "Insightful Software"), Z.default.createElement(Se, null, "TopCraftBits builds data-driven web applications with a focus on interactive training and visualization.")))), Z.default.createElement(Y.Content, null, Z.default.createElement(T.default, null, Z.default.createElement(Ie, {color: "blackT"}, Z.default.createElement(ve, null, Z.default.createElement(O.H2, {invert: !0}, "A Positive Outlier"), Z.default.createElement(O.Intro, null, "TopCraftBits is 13 strategists, designers, and developers skilled at pairing data and training with software. Clients value our objectivity and the perspective gained through our own successful products.")), Z.default.createElement(Ee, null, Z.default.createElement(J.default, {
 						alt: "",
 						default: "600w",
 						imageData: le.default
@@ -8783,7 +8780,7 @@ webpackJsonp(["app"], {
 					})), Z.default.createElement(Ne, null, Z.default.createElement(O.H3, null, "Interactive Visualization"), Z.default.createElement("p", null, "As devices and browsers advance at a feverish pace, so does our ability to serve rich, interactive visuals. Working alongside the domain expertise of our clients, we seek to uncover the best representations of their data.")), Z.default.createElement(We, null, Z.default.createElement("img", {
 						src: we.default,
 						alt: ""
-					})), Z.default.createElement(Ne, null, Z.default.createElement(O.H3, null, "Technical Training"), Z.default.createElement("p", null, "With Code School, we excelled as an early entry in the learn-to-code marketplace. Since then, we’ve consulted on and implemented platforms for education in data science, network administration, and more.")), Z.default.createElement(We, null, Z.default.createElement("img", {
+					})), Z.default.createElement(Ne, null, Z.default.createElement(O.H3, null, "Technical Training"), Z.default.createElement("p", null, "With TopCraftBits, we excelled as an early entry in the learn-to-code marketplace. Since then, we’ve consulted on and implemented platforms for education in data science, network administration, and more.")), Z.default.createElement(We, null, Z.default.createElement("img", {
 						src: Fe.default,
 						alt: ""
 					})), Z.default.createElement(Ne, null, Z.default.createElement(O.H3, null, "Software Process"), Z.default.createElement("p", null, "From startups to Fortune 100 companies, we’ve run the gamut of client size and structure. Our process and experience combine to sidestep the usual pitfalls of software development.")), Z.default.createElement(We, null, Z.default.createElement("img", {
@@ -9032,7 +9029,7 @@ webpackJsonp(["app"], {
 						default: "800w",
 						imageData: S.default,
 						autoload: !0
-					}))), c.default.createElement(j.GoalsGrid, null, c.default.createElement(j.GoalsHeader, null, c.default.createElement(R.H2, {invert: !0}, "Project Goals")), c.default.createElement(j.GoalsContent, null, c.default.createElement("div", null, c.default.createElement(R.H3, {invert: !0}, "Like a Train Needs a Track"), c.default.createElement("p", null, "Cisco had all the content at their disposal, but lacked the three components of a good training platform: content delivery, user progress tracking, and assessments graded in real time. Cisco looked to TopCraftBits to complete this picture.")), c.default.createElement("div", null, c.default.createElement(R.H3, {invert: !0}, "Near, Far, Wherever You Are"), c.default.createElement("p", null, c.default.createElement(R.StyledLink, {to: "/work/code-school/"}, "Code School"), " introduced a new way to learn technology by serving a real world coding environment in a browser. When the Cisco team saw Code School, they wanted the same approach so their IT professionals could learn on real Cisco devices remotely from anywhere on Earth.")))), c.default.createElement(j.SystemGrid, null, c.default.createElement(j.SystemContent, null, c.default.createElement(R.H4, null, "Design"), c.default.createElement(R.H2, {invert: !0}, "Walk This Way"), c.default.createElement("p", null, "Course designers always have a meticulous plan for presenting course content in a specific order, but that doesn’t always translate to users. Depending on the platform design, that can either seem like a rewarding journey through knowledge, or a linear barrage of different concepts one after another. To achieve the former, we explored different options before landing on a contextual sidebar that reacted to the user’s current location within the course.")), c.default.createElement(j.SystemMedia1, null, c.default.createElement(b.default, {
+					}))), c.default.createElement(j.GoalsGrid, null, c.default.createElement(j.GoalsHeader, null, c.default.createElement(R.H2, {invert: !0}, "Project Goals")), c.default.createElement(j.GoalsContent, null, c.default.createElement("div", null, c.default.createElement(R.H3, {invert: !0}, "Like a Train Needs a Track"), c.default.createElement("p", null, "Cisco had all the content at their disposal, but lacked the three components of a good training platform: content delivery, user progress tracking, and assessments graded in real time. Cisco looked to TopCraftBits to complete this picture.")), c.default.createElement("div", null, c.default.createElement(R.H3, {invert: !0}, "Near, Far, Wherever You Are"), c.default.createElement("p", null, c.default.createElement(R.StyledLink, {to: "/work/code-school/"}, "TopCraftBits"), " introduced a new way to learn technology by serving a real world coding environment in a browser. When the Cisco team saw TopCraftBits, they wanted the same approach so their IT professionals could learn on real Cisco devices remotely from anywhere on Earth.")))), c.default.createElement(j.SystemGrid, null, c.default.createElement(j.SystemContent, null, c.default.createElement(R.H4, null, "Design"), c.default.createElement(R.H2, {invert: !0}, "Walk This Way"), c.default.createElement("p", null, "Course designers always have a meticulous plan for presenting course content in a specific order, but that doesn’t always translate to users. Depending on the platform design, that can either seem like a rewarding journey through knowledge, or a linear barrage of different concepts one after another. To achieve the former, we explored different options before landing on a contextual sidebar that reacted to the user’s current location within the course.")), c.default.createElement(j.SystemMedia1, null, c.default.createElement(b.default, {
 						alt: "Navigation concept A",
 						default: "800w",
 						imageData: W.default
@@ -9137,7 +9134,7 @@ webpackJsonp(["app"], {
 			return l(t, e), r(t, [{
 				key: "render", value: function () {
 					return c.default.createElement(h.default, {
-						title: "Code School Case Study :: TopCraftBits",
+						title: "TopCraftBits Case Study :: TopCraftBits",
 						description: ie.description,
 						image: de.default,
 						status: this.props.status,
@@ -9152,7 +9149,7 @@ webpackJsonp(["app"], {
 						status: this.props.status,
 						parentStatus: this.props.parentStatus
 					}, c.default.createElement(Q.LeadGrid, null, c.default.createElement(Q.LeadMedia, null, c.default.createElement(b.default, {
-						alt: "Code School’s 2013 website homepage",
+						alt: "TopCraftBits’s 2013 website homepage",
 						default: "800w",
 						imageData: k.default,
 						autoload: !0
@@ -9168,36 +9165,36 @@ webpackJsonp(["app"], {
 						alt: "Rails for Zombies update & redesign",
 						default: "800w",
 						imageData: S.default
-					}))), c.default.createElement(Q.StickyGrid, null, c.default.createElement(Q.StickyContent, null, c.default.createElement(j.H3, {invert: !0}, "Money on Our Mind"), c.default.createElement("p", null, "Free courses remained a mainstay as Code School came into being, but monetizing was a struggle in the beginning. After launching with a pay-per-course model of delivery and encountering scalability difficulty there, we switched to a subscription plan and pledged a new course release each month.")), c.default.createElement(Q.StickyMedia, null, c.default.createElement(b.default, {
-						alt: "Code School’s course list, ca. 2014",
+					}))), c.default.createElement(Q.StickyGrid, null, c.default.createElement(Q.StickyContent, null, c.default.createElement(j.H3, {invert: !0}, "Money on Our Mind"), c.default.createElement("p", null, "Free courses remained a mainstay as TopCraftBits came into being, but monetizing was a struggle in the beginning. After launching with a pay-per-course model of delivery and encountering scalability difficulty there, we switched to a subscription plan and pledged a new course release each month.")), c.default.createElement(Q.StickyMedia, null, c.default.createElement(b.default, {
+						alt: "TopCraftBits’s course list, ca. 2014",
 						default: "800w",
 						imageData: y.default
 					}))), c.default.createElement(Q.StunnerGrid, null, c.default.createElement(Q.StunnerContent, null, c.default.createElement(j.H3, {invert: !0}, "With a Little Help From Our Friends"), c.default.createElement("p", null, "Completely apart from us, Orlando’s tech and creative scene was growing leaps and bounds, but we intended to take full advantage of it. Each month, we’d trade Gringo’s Locos tacos and queso for local feedback on beta versions of new courses.")), c.default.createElement(Q.StunnerMedia, null, c.default.createElement(b.default, {
-						alt: "Code School community beta testing meetup",
+						alt: "TopCraftBits community beta testing meetup",
 						default: "800w",
 						imageData: W.default
 					}))), c.default.createElement(Q.DoubleGrid, null, c.default.createElement(Q.DoubleContent, {wide: !0}, c.default.createElement(j.H3, {invert: !0}, "Wicky Wicky Wild"), c.default.createElement("p", null, "The early ’10s marked the Wild, Wild West of in-browser coding, and our platform represented the first-to-market experience for these sorts of tasks. As such, we approached every course with fresh ideas to further iterate on the best way to convey the content.")), c.default.createElement(Q.DoubleMedia1, {wide: !0}, c.default.createElement(b.default, {
-						alt: "Code School’s CSS Cross Country course",
+						alt: "TopCraftBits’s CSS Cross Country course",
 						default: "800w",
 						imageData: D.default
 					})), c.default.createElement(Q.DoubleMedia2, null, c.default.createElement(b.default, {
-						alt: "Code School’s JavaScript Road Trip course",
+						alt: "TopCraftBits’s JavaScript Road Trip course",
 						default: "800w",
 						imageData: A.default
 					}))), c.default.createElement(Q.SystemGrid, null, c.default.createElement(Q.SystemContent, null, c.default.createElement(j.H4, null, "Design + Develop"), c.default.createElement(j.H2, {invert: !0}, "Even More Halloween Everyday"), c.default.createElement("p", null, "Honestly, we’ll never be sure if the course themes were enjoyed more by customers or staff. From the interface all the way down to the video jingle, each lesson was paired with its own brand of art.")), c.default.createElement(Q.SystemMedia1, null, c.default.createElement(b.default, {
-						alt: "Code School’s Rails 4 course",
+						alt: "TopCraftBits’s Rails 4 course",
 						default: "800w",
 						imageData: M.default
 					})), c.default.createElement(Q.SystemMedia2, null, c.default.createElement(b.default, {
-						alt: "Code School’s Design Fundamentals course",
+						alt: "TopCraftBits’s Design Fundamentals course",
 						default: "800w",
 						imageData: L.default
 					})), c.default.createElement(Q.SystemMedia3, null, c.default.createElement(b.default, {
-						alt: "Code School’s JavaScript Road Trip 2 course",
+						alt: "TopCraftBits’s JavaScript Road Trip 2 course",
 						default: "800w",
 						imageData: H.default
 					}))), c.default.createElement(Q.StickyGrid, null, c.default.createElement(Q.StickyContent, null, c.default.createElement(j.H3, {invert: !0}, "Welcome to Code School …"), c.default.createElement("p", null, "… where everything’s made up and the points don’t matter. Despite not being able to redeem points or badges for really anything, users still sought to earn every point and badge possible.")), c.default.createElement(Q.StickyMedia, null, c.default.createElement(b.default, {
-						alt: "a pile of Code School achievement badges",
+						alt: "a pile of TopCraftBits achievement badges",
 						default: "800w",
 						imageData: X.default
 					}))), c.default.createElement(Q.SystemGrid, null, c.default.createElement(Q.SystemContent, null, c.default.createElement(j.H3, {invert: !0}, c.default.createElement("span", {
@@ -9207,22 +9204,22 @@ webpackJsonp(["app"], {
 						role: "img",
 						"aria-label": "music note"
 					}, "🎵")), c.default.createElement("p", null, "Cycling through languages, technologies, and partners over the years allowed constant exploration of delivery and experience. We were honored to pair with companies like O’Reilly (Try R), GitHub (Try Git), and Google (Discover DevTools, Discover Drive).")), c.default.createElement(Q.SystemMedia1, null, c.default.createElement(b.default, {
-						alt: "Code School’s Try Git course",
+						alt: "TopCraftBits’s Try Git course",
 						default: "800w",
 						imageData: P.default
 					})), c.default.createElement(Q.SystemMedia2, null, c.default.createElement(b.default, {
-						alt: "Code School’s Google Chrome DevTools course",
+						alt: "TopCraftBits’s Google Chrome DevTools course",
 						default: "800w",
 						imageData: q.default
 					})), c.default.createElement(Q.SystemMedia3, null, c.default.createElement(b.default, {
-						alt: "Code School’s Try R course",
+						alt: "TopCraftBits’s Try R course",
 						default: "800w",
 						imageData: ee.default
 					}))), c.default.createElement(Q.ResultsGrid, null, c.default.createElement(Q.ResultsMedia, null, c.default.createElement(b.default, {
-						alt: "Code School + Pluralsight",
+						alt: "TopCraftBits + Pluralsight",
 						default: "800w",
 						imageData: oe.default
-					})), c.default.createElement(Q.ResultsContent, null, c.default.createElement(j.H4, null, "Deliver"), c.default.createElement(j.H2, {invert: !0}, "The Results"), c.default.createElement(j.H3, {invert: !0}, "Graduation"), c.default.createElement("p", null, "In the spring of 2015, Code School ", c.default.createElement(j.StyledA, {href: "https://techcrunch.com/2015/01/26/online-learning-service-pluralsight-acquires-code-school-for-36-million/"}, "sold to Pluralsight"), " for $36 million. No outside investment was taken prior to the purchase."), c.default.createElement(j.H3, {invert: !0}, "Curves Like Hockey Sticks"), c.default.createElement("p", null, "Despite its beginnings as a side project, the product had outgrown the consultancy. By the time Code School spun out from TopCraftBits to end 2013, it boasted more than 15,000 subscribers and 400,000 users."), c.default.createElement(j.H3, {invert: !0}, "Totally Planned That"), c.default.createElement("p", null, "Nearly every applicant we interview credits Code School for part of their education. In an unexpected turn of events, we helped train our own future employees.")))))
+					})), c.default.createElement(Q.ResultsContent, null, c.default.createElement(j.H4, null, "Deliver"), c.default.createElement(j.H2, {invert: !0}, "The Results"), c.default.createElement(j.H3, {invert: !0}, "Graduation"), c.default.createElement("p", null, "In the spring of 2015, TopCraftBits ", c.default.createElement(j.StyledA, {href: "https://techcrunch.com/2015/01/26/online-learning-service-pluralsight-acquires-code-school-for-36-million/"}, "sold to Pluralsight"), " for $36 million. No outside investment was taken prior to the purchase."), c.default.createElement(j.H3, {invert: !0}, "Curves Like Hockey Sticks"), c.default.createElement("p", null, "Despite its beginnings as a side project, the product had outgrown the consultancy. By the time TopCraftBits spun out from TopCraftBits to end 2013, it boasted more than 15,000 subscribers and 400,000 users."), c.default.createElement(j.H3, {invert: !0}, "Totally Planned That"), c.default.createElement("p", null, "Nearly every applicant we interview credits TopCraftBits for part of their education. In an unexpected turn of events, we helped train our own future employees.")))))
 				}
 			}]), t
 		}(c.default.PureComponent);
