@@ -774,13 +774,13 @@ webpackJsonp(["app"], {
 		e.exports = o.p + "e5acf31d41ac799ed94fe7179c156d50.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/lucas-louca.jpg?size=800w": function (e, t, o) {
-		e.exports = o.p + "/AstroCats/assets/images/avatars/dd9de3f31b377798e9da2f6bdeec4b51.png"
+		e.exports = o.p + "AstroCats/assets/images/avatars/dd9de3f31b377798e9da2f6bdeec4b51.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/matt-schultz.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "f471b6596a5ceff0d7c37881e3ab9dc6.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/lucian-crisan@Lucian-alliance.jpg?size=800w": function (e, t, o) {
-		e.exports = o.p + "/AstroCats/assets/images/avatars/7b3e539469d5b32c3f28bac8786a828f.png"
+		e.exports = o.p + "AstroCats/assets/images/avatars/7b3e539469d5b32c3f28bac8786a828f.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/nick-walsh.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "22c58f2517650abe9e6e414b26bda6e1.jpg"
@@ -792,7 +792,7 @@ webpackJsonp(["app"], {
 		e.exports = o.p + "d5cce0724a07be8ebbe9475869ed9d46.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/team/radu-crican.jpg?size=800w": function (e, t, o) {
-		e.exports = o.p + "/AstroCats/assets/images/avatars/175b4bfc8e583b81d6a4af344acb6cec.png"
+		e.exports = o.p + "AstroCats/assets/images/avatars/175b4bfc8e583b81d6a4af344acb6cec.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/cisco/cisco-1-1-a.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "4f60519ff9e1a880cbed3eddb6019d88.jpg"
