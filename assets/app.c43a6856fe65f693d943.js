@@ -6,7 +6,7 @@ webpackJsonp(["app"], {
 			name: "Lucian Crisan",
 			slug: "lucian-crisan@Lucian-alliance",
 			title: "Dragon Chi Developer",
-			bio: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+			bio: '<p>I am an astrocat fullstack software engineer, expert &amp; hands-on on ReactJS and ability to design &amp; develop SPA using components. Ensure technical feasibility of UI/UX designs, proficient understanding of cross-browser compatibility and proficient understanding of object oriented client-side scripting using ES6 and JavaScript frameworks. Working with server-side CSS pre-processors such as Sass, Less, and server-side templating languages such as Jade(pug), JSX, handlebars.js. Able to modify, crop, optimize size pictures in Photoshop and Gimp.</p><p>Having and experience of over 10 years in the software engineering I am<br />able to communicate effectively at all levels and able to work on own initiative or within a group environment. Dedicated to maintaining high quality standards.</p><p>My main focus is on Single Page Application, Progresive Web Aplication, REST.APIs. Microservices know-how.</p>',
 			social: [["twitter", "https://twitter.com/crisanlucid"], ["github", "https://github.com/crisanlucid"], ["linkedin", "https://linkedin.com/in/crisanlucid"], ["personal", "https://codepen.io/crisanlucid/"]]
 		}, {
 			id: 2,
@@ -6659,12 +6659,12 @@ webpackJsonp(["app"], {
 						innerRef: function (t) {
 							e.links[2] = t
 						}
-					}, Q.default.createElement(B.NavLink, {activeClassName: 'is-active', to: Z[2].to}, Z[2].name)), Q.default.createElement(E, {
+					}, Q.default.createElement(B.NavLink, {to: Z[2].to}, Z[2].name)), Q.default.createElement(E, {
 						invert: this.props.invert,
 						innerRef: function (t) {
 							e.links[3] = t
 						}
-					}, Q.default.createElement(B.NavLink, {to: Z[3].to}, Z[3].name)), Q.default.createElement(E, {invert: this.props.invert}, Q.default.createElement(j.default.OutboundLink, {
+					}, Q.default.createElement(B.NavLink, {activeClassName: 'active', to: Z[3].to}, Z[3].name)), Q.default.createElement(E, {invert: this.props.invert}, Q.default.createElement(j.default.OutboundLink, {
 						eventLabel: "TopCraftBits Blog",
 						to: "https://blog.topcraftbits.com",
 						rel: "noopener",
