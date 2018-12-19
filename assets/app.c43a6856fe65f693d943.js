@@ -6659,7 +6659,7 @@ webpackJsonp(["app"], {
 						innerRef: function (t) {
 							e.links[2] = t
 						}
-					}, Q.default.createElement(B.NavLink, {to: Z[2].to}, Z[2].name)), Q.default.createElement(E, {
+					}, Q.default.createElement(B.NavLink, {activeClassName: 'is-active', to: Z[2].to}, Z[2].name)), Q.default.createElement(E, {
 						invert: this.props.invert,
 						innerRef: function (t) {
 							e.links[3] = t
