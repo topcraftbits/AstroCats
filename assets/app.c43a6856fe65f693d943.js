@@ -8575,7 +8575,7 @@ webpackJsonp(["app"], {
 					}, j.default.createElement(T, null, j.default.createElement(L, null, j.default.createElement(N.GridContent, null, j.default.createElement(O, null, "Contact"), j.default.createElement(Y, {flush: !0}, "Let’s Talk Vision"))), j.default.createElement(I.default, null, j.default.createElement(N.Grid, {color: "blackT"}, j.default.createElement(J, null, j.default.createElement("img", {
 						src: W.default,
 						alt: ""
-					})), j.default.createElement(A, null, j.default.createElement(y.H4, null, "Email"), j.default.createElement(P, null, j.default.createElement(y.StyledA, {href: "mailto:hello@topcraftbits.com?subject=Hey%20Envy%20Labs!"}, "hello@topcraftbits.com")), j.default.createElement(y.H4, null, "Phone"), j.default.createElement(P, null, j.default.createElement(y.StyledA, {href: "tel:898989989"}, "899.898.8999")), j.default.createElement(y.H4, null, "Address"), j.default.createElement(x, null, "111 Munich ", j.default.createElement("span", null, "Munchen 1575,"), j.default.createElement("br", null), "Germany"))))))
+					})), j.default.createElement(A, null, j.default.createElement(y.H4, null, "Email"), j.default.createElement(P, null, j.default.createElement(y.StyledA, {href: "mailto:hello@topcraftbits.com?subject=Hey%20Envy%20Labs!"}, "hello@topcraftbits.com")), j.default.createElement(y.H4, null, "Phone"), j.default.createElement(P, null, j.default.createElement(y.StyledA, {href: "tel:898989989"}, "899.898.8999")), j.default.createElement(y.H4, null, "Address"), j.default.createElement(x, null, "Marcel-Breuer-Straße 15 ", j.default.createElement("span", null, "80807 München,"), j.default.createElement("br", null), "Germany"))))))
 				}
 			}]), t
 		}(j.default.PureComponent);
