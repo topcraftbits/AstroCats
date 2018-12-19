@@ -7374,7 +7374,7 @@ webpackJsonp(["app"], {
 					}, B.default.createElement(C.default, {
 						id: "close",
 						title: "Close"
-					}), B.default.createElement("span", null, "Back")), B.default.createElement(T.H4, null, this.member.title), B.default.createElement(T.H2, {invert: !0}, this.member.name), B.default.createElement("div", null, { dangerouslySetInnerHTML: { __html: this.member.bio } }), B.default.createElement(ke, null, this.member.social.map(function (e) {
+					}), B.default.createElement("span", null, "Back")), B.default.createElement(T.H4, null, this.member.title), B.default.createElement(T.H2, {invert: !0}, this.member.name), B.default.createElement("div", { dangerouslySetInnerHTML: { __html: this.member.bio } }), B.default.createElement(ke, null, this.member.social.map(function (e) {
 						return B.default.createElement(ze, {
 							key: e[0],
 							href: e[1],
