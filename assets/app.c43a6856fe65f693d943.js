@@ -6136,7 +6136,7 @@ webpackJsonp(["app"], {
 						onLeave: this.unfix
 					}), j.default.createElement(H, null), j.default.createElement(W, {fixed: this.state.fixed}, j.default.createElement(x, null, j.default.createElement(D, null, j.default.createElement(G, null, j.default.createElement(z.Link, {to: "/"}, j.default.createElement(_, {
 						src: C.default,
-						alt: "TopCraftBits"
+						alt: ""
 					}))), j.default.createElement(L, null, j.default.createElement("a", {href: "mailto:hello@topcraftbits.com?subject=Hey%20TopCraftBits!"}, "hello@topcraftbits.com")), j.default.createElement(L, null, j.default.createElement("a", {href: "tel:8443100257"}, "844.310.0257"))), j.default.createElement(A, {
 						"aria-hidden": "true",
 						role: "presentation"
