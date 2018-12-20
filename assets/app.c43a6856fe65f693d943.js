@@ -97,11 +97,11 @@ webpackJsonp(["app"], {
 				slug: "cisco",
 				cluster: {color1: "#2999D9", color2: "#D13718"}
 			},
-			"code-school": {
+			"astro-cats": {
 				title: "TopCraftBits",
 				type: "Product",
 				description: "We bootstrapped TopCraftBits as a means for simplifying training delivery, and in the process it became a leading learn-to-code platform.",
-				slug: "code-school",
+				slug: "astro-cats",
 				cluster: {color1: "#B0B1A1", color2: "#1E798A"}
 			},
 			"orlando-creators": {
@@ -278,55 +278,55 @@ webpackJsonp(["app"], {
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/cisco/cisco-results.jpg?size=1600w": function (e, t, o) {
 		e.exports = o.p + "15cd6b9f83bb7b6c4064c91d88e141e3.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-1-a.png?size=1600w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-1-a.png?size=1600w": function (e, t, o) {
 		e.exports = o.p + "a403ca6531cb427496b6958e741be24c.png"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-1-b.jpg?size=1600w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-1-b.jpg?size=1600w": function (e, t, o) {
 		e.exports = o.p + "ea61e7bed5e8ae861a7c1cf8b49ae3a5.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-1-c.jpg?size=1600w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-1-c.jpg?size=1600w": function (e, t, o) {
 		e.exports = o.p + "663a1da07297e0cb37ff72985377c55a.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-2.jpg?size=1600w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-2.jpg?size=1600w": function (e, t, o) {
 		e.exports = o.p + "b687f0cf7b76e7f2ce35e427c3c3e578.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-3.jpg?size=1600w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-3.jpg?size=1600w": function (e, t, o) {
 		e.exports = o.p + "941e6d51f9597e5d8bf5f157d818adfa.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-4-a.jpg?size=1600w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-4-a.jpg?size=1600w": function (e, t, o) {
 		e.exports = o.p + "62da508c3dea1aecba984b806fb344ac.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-4-b.jpg?size=1600w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-4-b.jpg?size=1600w": function (e, t, o) {
 		e.exports = o.p + "287e486303fc6db60b544e8c4f309747.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-1-a.jpg?size=1600w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-1-a.jpg?size=1600w": function (e, t, o) {
 		e.exports = o.p + "c9657d95fc0538ac0ede1757c727adea.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-1-b.jpg?size=1600w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-1-b.jpg?size=1600w": function (e, t, o) {
 		e.exports = o.p + "241b273df8bf2f21f1de0b13397662ec.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-1-c.jpg?size=1600w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-1-c.jpg?size=1600w": function (e, t, o) {
 		e.exports = o.p + "60203ffffdf29d629367890e4601d486.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-2.jpg?size=1600w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-2.jpg?size=1600w": function (e, t, o) {
 		e.exports = o.p + "ed3dea0113b520cc9ce01c5644a9aca0.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-3-a.jpg?size=1600w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-3-a.jpg?size=1600w": function (e, t, o) {
 		e.exports = o.p + "04a2720d0aea9e85c974f0b2f991e7cf.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-3-b.jpg?size=1600w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-3-b.jpg?size=1600w": function (e, t, o) {
 		e.exports = o.p + "792d6d940b3d6bf03a95f7fdbcd2f3eb.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-3-c.jpg?size=1600w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-3-c.jpg?size=1600w": function (e, t, o) {
 		e.exports = o.p + "00a15d902371cb801075bbaebd8c2d6e.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/example-cover.png?size=1600w": function (e, t, o) {
 		e.exports = o.p + "1c346c360baccc40c71913fee8d06144.png"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-final.jpg?size=1600w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-final.jpg?size=1600w": function (e, t, o) {
 		e.exports = o.p + "e8eb22ac8dfd0a55971b14c9b096bedb.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-results.png?size=1600w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-results.png?size=1600w": function (e, t, o) {
 		e.exports = o.p + "df5e2fe80479e3ccdafdc9df33645a31.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/edutyping/edutyping-1-1.jpg?size=1600w": function (e, t, o) {
@@ -827,55 +827,55 @@ webpackJsonp(["app"], {
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/cisco/cisco-results.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "4d0f245c6a7c18033ebd48f7f834069e.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-1-a.png?size=800w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-1-a.png?size=800w": function (e, t, o) {
 		e.exports = o.p + "69247297bdc9fa27e18556e2c33f04a2.png"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-1-b.jpg?size=800w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-1-b.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "8172f3379471c103984320d61e63906b.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-1-c.jpg?size=800w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-1-c.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "9983501c053aa033d3b912bb99e0e8d1.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-2.jpg?size=800w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-2.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "a96a0e00ee93414747c6db94a0e02e44.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-3.jpg?size=800w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-3.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "3512d0082323d3065267693da02bf70b.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-4-a.jpg?size=800w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-4-a.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "eb702ca3371959754a33b8a0fe5e0bca.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-4-b.jpg?size=800w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-4-b.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "19743689dd91295cdc15afce1f166fe2.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-1-a.jpg?size=800w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-1-a.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "aa7767cf3cc5922832e65fdd2ed3dda1.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-1-b.jpg?size=800w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-1-b.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "31b742cd377e9e3c2c4a37d288cde5d0.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-1-c.jpg?size=800w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-1-c.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "118504bbea69e02707f9f75f446e578a.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-2.jpg?size=800w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-2.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "f5e814d7aa4c48980e2ea44e1496ca42.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-3-a.jpg?size=800w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-3-a.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "c14032d9e19bd2793783c6f48b230c7c.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-3-b.jpg?size=800w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-3-b.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "b3725a242d840cc279b5b54627e238a0.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-3-c.jpg?size=800w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-3-c.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "a02d669cdd9992afa58f42a2c3400cee.jpg"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/example-cover.png?size=800w": function (e, t, o) {
 		e.exports = o.p + "c5298be3c7ce0afe047c36f331a98ca4.png"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-final.jpg?size=800w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-final.jpg?size=800w": function (e, t, o) {
 		e.exports = o.p + "2b8927765f6615eff4096c947a64aff1.jpg"
 	},
-	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-results.png?size=800w": function (e, t, o) {
+	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-results.png?size=800w": function (e, t, o) {
 		e.exports = o.p + "8dbf46a73ca4b0173c67bc2c1402c535.png"
 	},
 	"../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/edutyping/edutyping-1-1.jpg?size=800w": function (e, t, o) {
@@ -2411,119 +2411,119 @@ webpackJsonp(["app"], {
 			ratio: 1.3333333333333333
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-1-1-a.png": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-1-1-a.png": function (e, t) {
 		e.exports = {
 			color: [228, 226, 205, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMjAiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL3BuZztiYXNlNjQsaVZCT1J3MEtHZ29BQUFBTlNVaEVVZ0FBQUJRQUFBQVVDQUlBQUFBQzY0cGFBQUFBQ1hCSVdYTUFBQXNTQUFBTEVnSFMzWDc4QUFBQ3JVbEVRVlE0eTQxVTZVOFRRUlRmUk1YRVJDQlJvVnd0Y3BTQzVkRG92eWdxQ3FpZi9HbzBNVkE1SWhFRFNvZ0l0TFFGYXd3ZUxWZGJRcnZuN0wyenM3UHJheHNSRTZTKy9IYnk5czI3Zm05bmxxR21hUXNpUVRMaFJac1Q4RkhSbHBEM3QxQktTVVZzeDdhcGpTbkdEcVV1WSsxbDJSY1JZV0dabjVrdnZwb3VQSHZPemI2anhIRTl6eTBMQkdPTU5VMVRGRVZGS2hJTm5qZDRUcmNzd2pqVXNiSGx1cFI2RkhSWXFVT2dFbGpLY0UzVEZBUkJraVRZY0NHaFY3RlRTTXBvbXNGeENpR2VRLy8waWJITGNib2tHYURydXA3SlpQS0hod2doYU53MHJYTC9CQW94RHVINDRrdEZuRERVS1ZPYktxMGxaUm9iazZhK0FMMUR6Nklvc2l5YlRxY0xoUUxrOHNxTUlBTkRDSXZRcENSTnlQSnJUWjJTVVVTV0lwb3k3WkFaYkMyQm0yMFR3OUNCTTgvenNpeFhobWZEM0NobGtLMHNwZGNYdDFkWGp4SXhsQ3BCU3FYd2owMzhiZHZZcVF6c3BMaS9wY1JaeDhMWC9UZmZEOTd1Q0l1N2FIRVB2VDlRUCtUTjVieTVkS1RIS29QNWx6REVadm5DcE1oR0ZHRVdJUE16V0ozejhMeUw1eHpyWTZVQ1BVMUt3ZkNvbW9sazdiaEJVT0Nid1BBQnh4MmVYdGswalMrcHpXUThtdHBLQXJhUzhVUWltdnFjVE1TamlYZ3N2Z0gyemQxTWVpZjk4eVRBQWxOak5tSnJ0OElkZ3ozK29WQmdNT1FmREFXR1RxSzNIU3dEd2JaamdHZTRxK1ZPZjlkaFBzZXNyMy9xNjJ3TytxK0YyaHQ3QWcxVkFXN2RiVmNIZ3Y1OExzdEVvNnY5d2JiZTY3NGJuYzE5SFUxVkFXNFFmN08zUFo4dkI0ZTdXK0VkTmlCRlZZQWIxQWRHcGNxeDJCb1FBeHJBcDcrN3RTckFEWXJmRG5lV09LK3NMTGRjdWRSWWU5NVhYK09ydStDcnF6a2JUZlVYR3k2ZkN6VFdaZy8ybVZ3dSsyUnNaUHpSdmNlajk4Y2ZEbytQREk5VncraUR1MC9IUm1TRUdNZHhDS0ZubklTempxZGhHQ3hiaEJzRFB3cGNGcmd5L3dPbzl3dS9zRWFDUGk1Y1FnQUFBQUJKUlU1RXJrSmdnZz09IiBmaWx0ZXI9InVybCgjeCkiLz4KICAgICAgICA8L3N2Zz4=",
 			ratio: 1
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-1-1-b.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-1-1-b.jpg": function (e, t) {
 		e.exports = {
 			color: [216, 199, 177, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMjAiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQVVBQlFEQVNJQUFoRUJBeEVCLzhRQUdnQUJBQUlEQVFBQUFBQUFBQUFBQUFBQUFBWUhBZ01FQ1AvRUFDVVFBQUVEQkFFRUFnTUFBQUFBQUFBQUFBRUNBd1FBQlFZUlFRY1NJVEZoY1JNaVVmL0VBQmdCQUFJREFBQUFBQUFBQUFBQUFBQUFBQUlFQUFFRC84UUFHaEVBQXdFQkFRRUFBQUFBQUFBQUFBQUFBQUVSQWhJaE1mL2FBQXdEQVFBQ0VRTVJBRDhBOUJzRmdoQ1ZzdGxSSHNwcmxteEdGcGZlWlZJYmU3RkJJUzRleEoxcmZiNjN6OTFSZVc5YVo5aHllNld0cXh3WDI0anhaUzR0NVlLdGNrRHhXM0N1dEU3SWNwdGxuZXNVRmh1YTkrSXZJZmNLa0RST3dENFBybWtwcm40TVZVc2ZITFpMZ1FGTlAzSjV4UmNLdGhId0J6cytTQ2ZzMHFRY1VwVHRtMFJGN2pnZUozR2MvTW40L0NmbHZySzNYVkZlMXEvcDByVlkyenAvaTFzdWpGeHQxbWp4cFRDdTlwU0ZLL1JXdGJHejgwcFUzdlVYcFdVcVNxbEtVSVIvLzlrPSIgZmlsdGVyPSJ1cmwoI3gpIi8+CiAgICAgICAgPC9zdmc+",
 			ratio: 1
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-1-1-c.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-1-1-c.jpg": function (e, t) {
 		e.exports = {
 			color: [39, 38, 22, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMjAiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQVVBQlFEQVNJQUFoRUJBeEVCLzhRQUdRQUJBUUFEQVFBQUFBQUFBQUFBQUFBQUFBY0RCQVlJLzhRQUpoQUFBUU1EQXdRQ0F3QUFBQUFBQUFBQUFnQUJBd1VSRWdRR0lRY1RNVUVpY1NPaHN2L0VBQmNCQUFNQkFBQUFBQUFBQUFBQUFBQUFBQUFDQXdIL3hBQVlFUUVCQVFFQkFBQUFBQUFBQUFBQUFBQUFBUklERWYvYUFBd0RBUUFDRVFNUkFEOEFpVlNwbFNHT0NQT1BSWWd6TUFrWHJpOTJXMXQvYXRlcTR6ZG11UXd0RTdObExtOTc4K1dGMWkwdGFrcmJGTEtBQThWZ2JDL04rVlhPaWNZU2Fhc1pnSmZPTHkxL1JLRm5rYkhMeGJGcXJhYUdNZGZ0cVZvaGNlNUxvcGlNN2s1WElzT1g1dDlNeUs3TkZHeldZQnQ5SWwwTXg0ODJjOTRaeDlaTS93Q2xkdWg3L2lyWStta2kva2tSVTZDS2dpSW9tZi9aIiBmaWx0ZXI9InVybCgjeCkiLz4KICAgICAgICA8L3N2Zz4=",
 			ratio: 1
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-1-2.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-1-2.jpg": function (e, t) {
 		e.exports = {
 			color: [224, 222, 213, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgNDAiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQW9BQlFEQVNJQUFoRUJBeEVCLzhRQUdnQUJBQUlEQVFBQUFBQUFBQUFBQUFBQUFBTUZBUUlFQi8vRUFDNFFBQUVEQWdRRkF3SUhBQUFBQUFBQUFBRUNBeEVBSVFRRkVqRWlNa0ZSY1JOaGdSU1JKRFJDVXNIaDhQL0VBQllCQVFFQkFBQUFBQUFBQUFBQUFBQUFBQUVDQS8vRUFCY1JBUUVCQVFBQUFBQUFBQUFBQUFBQUFBQUJFU0gvMmdBTUF3RUFBaEVERVFBL0FQZk1xTS9VYXhpZnpEZ0hxcVZQTjBrOHZhTFZCbCtLZWZ6ck5tRng2REsyZzJZSUExSWszbU4rMWJaQTZYaGlsTFV0V2pHUEk0MG1SQzl1UVcrL2s3MUxoR0Z0NXJtVHhDVkplV2pTQ0FZaE1mdG43ay9HMVk3RlNaRmhzcFZodjBQdFNzbWRhb2dDZHZqelNvUEZma3RqaXVKQ1ZmVk8yU0JjYXZhb3N2eENuczd6VmgwQlNXVnRBQXFUTjBTYldJK2ZpbVFxVTBqRmdxNXNhK1l1ZjErNnovSGdiVnRnbHFUbTJaZ051TmdMYkFXb2NLK0crbmk2Ykd3djMzclJLeVZ6cTBnZ2RJbnQ0cFFjeTVnbWJtTjZWQ3RpdHlOVG9HTDlVT0Q4VzhCclNybDEyaVVpM2kzWW11dkQ0Vnh2R1lsNVRyaFM2cE1JS3JKQUVXSFNmOUcxS1VoMGxKS2laMzl2N3BTbEIxLy8yUT09IiBmaWx0ZXI9InVybCgjeCkiLz4KICAgICAgICA8L3N2Zz4=",
 			ratio: .49851632047477745
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-1-3.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-1-3.jpg": function (e, t) {
 		e.exports = {
 			color: [119, 114, 107, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMTEiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQUxBQlFEQVNJQUFoRUJBeEVCLzhRQUdRQUFBZ01CQUFBQUFBQUFBQUFBQUFBQUFBUUJCUVlILzhRQUpoQUFBZ0lCQXdNREJRQUFBQUFBQUFBQUFRSURCQkVBQlNFR0VqRVRZWEVVRlVHUnN2L0VBQlVCQVFFQUFBQUFBQUFBQUFBQUFBQUFBQU1DLzhRQUhSRUJBQUVFQXdFQUFBQUFBQUFBQUFBQUFRQUNFVUh3QXlFeGtmL2FBQXdEQVFBQ0VRTVJBRDhBbmNlb1B1U2JHbDcxSkxWYWsvYkFNS3NzUWxWUjNZOGZrNTQ0R21PbHJ0YmRlbXQwbStpWlpGZVQwWkRHcE1TcDJuenhuSXp5Unpuanhybk5WVnZWcGJ0c0NTMHNWZ0NRK1FDaUEvMGZqOWFkb2JqYzJWUnRtMTJaYTlGNmFTdENHeUdkd3daam5PVGdBZXdIR05HMEIzYUtVaUR1SlY5VDlUUTA5MWVLdHVXNFNROW9aVEpDcU1BZWNlL3pvMWw5MjZ5MzJDMEs4ZDRlbENpeHhob0kyN1ZBNEdTdWRHcE9OTWI4aU5aZjJmL1oiIGZpbHRlcj0idXJsKCN4KSIvPgogICAgICAgIDwvc3ZnPg==",
 			ratio: 1.7777777777777777
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-1-4-a.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-1-4-a.jpg": function (e, t) {
 		e.exports = {
 			color: [222, 225, 228, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMTUiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQVBBQlFEQVNJQUFoRUJBeEVCLzhRQUdBQUFBd0VCQUFBQUFBQUFBQUFBQUFBQUFBUUdCUWYveEFBcEVBQURBQUlCQVFRTEFBQUFBQUFBQUFBQkFnTUFCQVVSQmhJVUlSVWlNVEpCVVdGeGdhR3gvOFFBRlFFQkFRQUFBQUFBQUFBQUFBQUFBQUFBQUFML3hBQWFFUUFDQXdFQkFBQUFBQUFBQUFBQUFBQUFBUUlUVVFOQi85b0FEQU1CQUFJUkF4RUFQd0R2STFRM2FCNGR6WWxRd0RoR3FHa1BQcDdBUEkvWEhPUzRuZmJTcFBqZkNwdEZmVnJZa3FwK3dHYXQ1MlRkYTA0R29LZ0FLd0IvZU5hNzBvaE5ZdEp1dnVsZ2Y1bDJQU0Z6ajZpSjAvVGVyTm9jbHdMN2w1dDNmRTZsa1NkUjh3ckhxRDhQeGhsM2hpeVdpdUdILzlrPSIgZmlsdGVyPSJ1cmwoI3gpIi8+CiAgICAgICAgPC9zdmc+",
 			ratio: 1.3333333333333333
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-1-4-b.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-1-4-b.jpg": function (e, t) {
 		e.exports = {
 			color: [124, 129, 121, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMTUiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQVBBQlFEQVNJQUFoRUJBeEVCLzhRQUZ3QUJBUUVCQUFBQUFBQUFBQUFBQUFBQUFBY0VCdi9FQUNJUUFBRURBd1FEQVFBQUFBQUFBQUFBQUFFQ0F3UUFCUkVHRWlGUk1USnlrZi9FQUJZQkFRRUJBQUFBQUFBQUFBQUFBQUFBQUFRQ0EvL0VBQndSQUFFRUF3RUFBQUFBQUFBQUFBQUFBQUVBQWdNUkJCTlJJZi9hQUF3REFRQUNFUU1SQUQ4QTdVazQ0QXoyVFV0MXZjNWNYVTh0dVBJZGJSaEJ3RmNlb3FodFhOcFM5cmlWSkhhZWFsdXUxaDNVOHBhUVFDRVl6OGlvM3h5ZU5Ob2VPYmNzYUx6Y1NEbVk3NTdGS1JiTlBkam9kYll5MjROeVR2VHlQMmxabVNQb1Q5YitGZi9aIiBmaWx0ZXI9InVybCgjeCkiLz4KICAgICAgICA8L3N2Zz4=",
 			ratio: 1.3333333333333333
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-2-1-a.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-2-1-a.jpg": function (e, t) {
 		e.exports = {
 			color: [49, 34, 15, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMjAiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQVVBQlFEQVNJQUFoRUJBeEVCLzhRQUdBQUJBUUVCQVFBQUFBQUFBQUFBQUFBQUFBUURBZ2YveEFBbEVBQUNBZ0lCQXdRREFRQUFBQUFBQUFBQkFnTVJBQVFoQlJKeEV6RkJVUVpob2NIL3hBQVhBUUFEQVFBQUFBQUFBQUFBQUFBQUFBQUJBZ01FLzhRQUhCRUJBQUlDQXdFQUFBQUFBQUFBQUFBQUFRQUNBeEVTSVZHUi85b0FEQU1CQUFJUkF4RUFQd0R4TG8yZzhtb0cySUVaTmdLNm1TVXF4SUp0dlkyRFo0OGM1QnVhTHh6TUU2ZHQycDRKajRJKy9HUmpxUUhUWW9abWw3SXpRS3Z5QmZ0WDFsL1N2eW1aWXBZcHdTcHIwN05rQWZIak1Wc2R4NUJMbHpXcGpzSVI2U21BMnFVUUFWcmttangrOFppM1ZYbFBlUVRkMGJKK2NaUXErUWN0empWMjluV2hXT0NjcEhYZFhZcDVQa1pSTDFiZGluVkVtRk1PVDZhOC93QXhqRnRTcTlrSm15Qm9zL1pXN3ZzaEpKaUdmdHEreFIvbU1ZeUlhakt2YlAvWiIgZmlsdGVyPSJ1cmwoI3gpIi8+CiAgICAgICAgPC9zdmc+",
 			ratio: 1
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-2-1-b.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-2-1-b.jpg": function (e, t) {
 		e.exports = {
 			color: [139, 120, 223, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMjAiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQVVBQlFEQVNJQUFoRUJBeEVCLzhRQUdRQUJBQU1CQVFBQUFBQUFBQUFBQUFBQUFBSUVCUVlILzhRQUpoQUFBUU1DQlFNRkFBQUFBQUFBQUFBQUFRQUNFUU1FQlFZU0lURVRGV0VpVTRHeDRmL0VBQmdCQUFJREFBQUFBQUFBQUFBQUFBQUFBQUVHQUFNRi84UUFIUkVBQWdJQkJRQUFBQUFBQUFBQUFBQUFBQUVDQXhFVElTSlJrZi9hQUF3REFRQUNFUU1SQUQ4QXU1YWgrQldqbjFBSGFEeUNTZHlyNnpzc2tkZ3RBUnZvMlB5VnB0TGRUWmFJSFBsTzFXMEVFZ0FCTUFiN255aWtZa3h3aXNJZVMybWNzVXM3YW5iMFJiOU9tSUdxbkorMU9ybjNHR3RrQzE1OXI5UkV0eHZ0d3VUOUFkYlF4dThmaDloWGNhZXV2YnRxdTlPMG1lRVJGb2FrKzJFLy85az0iIGZpbHRlcj0idXJsKCN4KSIvPgogICAgICAgIDwvc3ZnPg==",
 			ratio: 1
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-2-1-c.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-2-1-c.jpg": function (e, t) {
 		e.exports = {
 			color: [76, 89, 83, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMjAiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQVVBQlFEQVNJQUFoRUJBeEVCLzhRQUdBQUJBQU1CQUFBQUFBQUFBQUFBQUFBQUFBUUdCd1gveEFBakVBQUNBZ0VEQXdVQUFBQUFBQUFBQUFBQkFnTVJBQVFTSVFVVE1RWUhGVEpSLzhRQUdBRUFBd0VCQUFBQUFBQUFBQUFBQUFBQUFnTUVBQUgveEFBYkVRQURBUUFEQVFBQUFBQUFBQUFBQUFBQUFRSVJFaE5SUWYvYUFBd0RBUUFDRVFNUkFEOEF6NlYwRkY0VVptQTUzTU11M3RXYmZxZENscEtGM1hMWlI5UjlJemZGWlovUUdwbWdsMW5ZbFJSMjl6YmwzZURWMTU0dkJWY1hyQXVYVTRqVWNaeUpPdXdyTklpd3lzcXRRWUVVdy9Sakc5cytrblZmaGpSbWxaMGN5TVhTdHBKOFpQMFhVdFhGTk5OM1M4Z2lJRE56UTNLY1l4RFNMcytrMzViVnl3d3NYQU95anRGWHllY1l4bk1NZi8vWiIgZmlsdGVyPSJ1cmwoI3gpIi8+CiAgICAgICAgPC9zdmc+",
 			ratio: 1
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-2-2.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-2-2.jpg": function (e, t) {
 		e.exports = {
 			color: [113, 118, 112, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMjAiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQVVBQlFEQVNJQUFoRUJBeEVCLzhRQUdRQUJBQUlEQUFBQUFBQUFBQUFBQUFBQUFBRUVBZ1VHLzhRQUpSQUFBUU1FQWdJQkJRQUFBQUFBQUFBQUFRSURCQUFGRVNFU01STkJJZ1lVUWxGaC84UUFGd0VBQXdFQUFBQUFBQUFBQUFBQUFBQUFBZ01FQmYvRUFDWVJBQUVEQVFVSkFBQUFBQUFBQUFBQUFBRUFBaEVERWhNaFFmQUVNak5SWVlHUnNjSC8yZ0FNQXdFQUFoRURFUUEvQUtUMG95cDhTRWhiYmR2WVlVRW9pcndWTEpQSWJHTzhBNEowTzZpMW9kazN5ZkVubzg3Wnk4aDU1d29XVThmaWxKR2NiQUJKN0dxbHlURGp4bWVUVXFJdzZrcEhNanpweUJoUkExeTVFNkhxcjhjMnhFdTRoZmtmWEViNUJibkpDM0ZjYzhRbjhUckJKRzgrczBEU2QyWkE5YTFDWEFiRG9nbFpXYStXSzFNdlJwUDN5bCtVcUFiNlNNRFhmZXQwcXEzYlVTVUpkanVXMjN4MWprMUhrTFVsYUVuWXpyWTNvK3hpbEE1b2NaZFRrODhGYXl2ZGl6ZUVSbG9yZFhHeVFHQmRSNEV1cEVvTXBTOE9ZU2tvemtaOTVPajZxSDRjYTJ3WUY0WlpDNXpzQkVndUtVb1lXRjV6OFNNL3JCeU1VcFRxdkY3S0xad0RUSTZqNnVUK29aTDdkN210ZVp4U0duQ2hBVW9uaWtkQWZ3VXBTdE5sQ2tXZ2xvOExHcXZkYk9PYS85az0iIGZpbHRlcj0idXJsKCN4KSIvPgogICAgICAgIDwvc3ZnPg==",
 			ratio: 1
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-2-3-a.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-2-3-a.jpg": function (e, t) {
 		e.exports = {
 			color: [149, 160, 174, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMjAiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQVVBQlFEQVNJQUFoRUJBeEVCLzhRQUdnQUJBUUFDQXdBQUFBQUFBQUFBQUFBQUFBY0JBZ01FQ1AvRUFDd1FBQUlCQXdNQkJBc0FBQUFBQUFBQUFBRUNBd0FFQlFZSEVSSVRJVEhSRkNRbE1rRlJZWEdFa2FIL3hBQVdBUUVCQVFBQUFBQUFBQUFBQUFBQUFBQUZBUVAveEFBZUVRQUNBUVFEQVFBQUFBQUFBQUFBQUFBQkFnQURCQkpSRXlHUjhQL2FBQXdEQVFBQ0VRTVJBRDhBb2I3NGFkamxjUzJtUkRna0ZRaWtEKzFsZCtOTkR4c01pZnZHbm5VNXRkbk5SWlpWdTdXZXdFZHd2YklIa1lIcGJ2SFBkOWE2Mm90b00vcC9GU1pESVhHUDlIalpWUFJJeFBMSGdmQ3RqVEpmRlI5N01RNENaTVpUTUh2RGlVdHB2VjhsZmRVN3VIbUNLVUJQSVFENUFFQ2xSYkdXVFdzRHh0SWpucjU1WHc4QlNsYVZnaFFGMTdoZFcvY09RamRUMkN1RnhpcUFsaGJJQU9CMHhnY1ZxMkV4a3FzazFoYlNwejdza1NzUDBSU2xEWnR1TVlMcWNRMHhnaHo3SHh4L0ZUeXBTbFhrZlprNDAwSi8vOWs9IiBmaWx0ZXI9InVybCgjeCkiLz4KICAgICAgICA8L3N2Zz4=",
 			ratio: 1
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-2-3-b.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-2-3-b.jpg": function (e, t) {
 		e.exports = {
 			color: [227, 230, 233, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMjAiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQVVBQlFEQVNJQUFoRUJBeEVCLzhRQUdRQUJBUUFEQVFBQUFBQUFBQUFBQUFBQUFBRURCQVVILzhRQUpCQUFBZ0lDQVFRQkJRQUFBQUFBQUFBQUFRSUFBd1FSQlJJVElWRkJCakZ4Z2ZEL3hBQVZBUUVCQUFBQUFBQUFBQUFBQUFBQUFBQUFBdi9FQUJnUkFRRUJBUUVBQUFBQUFBQUFBQUFBQUFBQkFoRkIvOW9BREFNQkFBSVJBeEVBUHdEM2Y2cDVEbXNETXdxK0o0MTh1bTBOM1hWUTNiUHh2eVBCL2Y0bTVoWlhLMlltTzkzSEwzV3JWckFMVlhUZkkwWjBiYXk3S1JvYSs4ajFCbjJWVSt0ais5eXBxU2M0bTV0OVphMXNhdFdldm9ZalpYcUIwZlc0a0E4UkpVc1JFQkVSQS8vWiIgZmlsdGVyPSJ1cmwoI3gpIi8+CiAgICAgICAgPC9zdmc+",
 			ratio: 1
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-2-3-c.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-2-3-c.jpg": function (e, t) {
 		e.exports = {
 			color: [207, 206, 200, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMjAiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQVVBQlFEQVNJQUFoRUJBeEVCLzhRQUdRQUJBUUFEQVFBQUFBQUFBQUFBQUFBQUFBVURCQVlILzhRQUp4QUFBZ0FGQXdNRUF3QUFBQUFBQUFBQUFRSUFBd1VHRVFRU0lSTWlNU00wTmxGaHMrTC94QUFYQVFFQkFRRUFBQUFBQUFBQUFBQUFBQUFEQWdBQi84UUFHUkVBQXdFQkFRQUFBQUFBQUFBQUFBQUFBQUVSRWdJaC85b0FEQU1CQUFJUkF4RUFQd0QyeTNjekxmb001cHJxRzBFcmNrdnRVNVJUbmFCaUtUUzVaQmJkTTVJR1Nwem1PZW85VmFuMnpiNkpUcXRxZzFPa01XMGVtNnFEc1VZUEk1amJXNWpnNzZCY2gvSTBIOVFXRmJDcVRib1NiS3FTcUpoUHByem5IM0NNMXo2ZDU5UlY1WkNqcEx3MlFSNWhGYWdiNHJwWnM3NGpRK0I3R1IrdFlyakdQQWhDTUljbmM3dUtuaEhLall2QUFoQ0VHMTZjcC8vWiIgZmlsdGVyPSJ1cmwoI3gpIi8+CiAgICAgICAgPC9zdmc+",
 			ratio: 1
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-cover.png": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-cover.png": function (e, t) {
 		e.exports = {
 			color: [170, 158, 138, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMTUiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL3BuZztiYXNlNjQsaVZCT1J3MEtHZ29BQUFBTlNVaEVVZ0FBQUJRQUFBQVBDQUlBQUFCcituZ0NBQUFBQ1hCSVdYTUFBQXNTQUFBTEVnSFMzWDc4QUFBRExVbEVRVlFvejJXVCswK1NVUmpIMzMrZ0grc0hhMnZMMnJLVk16Vk5kRXNtSnVJRjhVNHR0TXpaUlFWYkMzV1ZsNW5pSlVLNnFBa1dLRjdDc01DbXBaUXptektUa1FqSTVRV0Y5K1Y5azR2a3BkeGNXOGY0b2JMdDJUbmIyVDdQOTV6djl6d1E0bGh3MkxVWXFzY3c0OFMwVWlJUnlFZGtKdHU4KzZ2UmJ0ZWlpTTdqc3F4NnJGNDNETlpkQmZsSkU2eHBycTlxejZkTzFKYThLTXFvdmNJWW14eDEvZVpCZDU4SDNsaGJYdlBaZHJXQUVMc1d4NDF0UE01Z1NtaFhOdkZpOHRtYWROSTRMYXlsa0s3UnFYQlVqMk9MUnZPODBmUmwyVzdlWEVmKzVxRVZmRkdsL25pSkZNUE5qRXROb3NTRmh0Q1NLT1gwdEZzeEo3ajhsdSticUZJcGx3cFliNTRWREhVeEp5ZUdOOWYrOEpESFpWWU1TNDhmQ2d5T2llWGxrcVdYcVVXcENRUUtkZisrQVBhTlloT3M2K0hTQmg2Y1BaOUplRnBIa3ZKVE5CclY1cHJkejBQZ1lWTXo3N01KNFV4S2JIUVVnUm9ZQU8zWm14RlBMQWdQNHJXMktPUTl4RE1uTThoSDJocHlpbG5sWk9JeFFTZnY1N2JidldMZWdjSG1jQnA0MWV5M2FXR3Q1NU9TeVFuWHFRbmptWkZjZXVKbjdZeEMzbHVZRzhZdWltcTR3N2hiVmNIS0N4R0oycmUrWS80SW9GVTMvTTFyblp1ZnJtWVc5WjBqamQ5a3ZDbE1hV0pRWHlrRzExMW1CREcvRkZ3YmZSelJ3RTdzNTV5VWRlUXY2TlFZdXBPZnoydUQvQmtDSGw3UzlnMzJ0UEdibm9zNlJrWmZpMlhpeHI3MkFWbjM3TXpVVUQ5WE9WZzVMRzJaMTZwOHF4WVVXUUQ1QVI3eSsrYjFXSUZ6b05ZM0hNdXdoaVZzT3RkWmwxakx5aExlcXhmemNkUnNzZWxWczU4RVFyRzRXMksxQUhFOTRLRy9Rd2RIZ0c5OHdEbFZjb0dRbVJxZm5SNmJRNHNxelJ1V0Q5aXNjM2tGN0N4NlNWcFdLYWVKanpsMUR2dS9NTGpKMWdaNjlXYnBnY05IYVpjWjlPYUtnd2NDajBaR0Nyczd4dDY5RGdxT3JyeDlQeU9ubUVTbVdtRzFFOVgvQTd0ZGx1MGZXSjlVRkZGejdWSnJWWHhad1dsbUhybXViSHB5RkxiTVhXZldVc0Fub0pVOGZQUVV4LzVUQmdVODlPRG1tazV1VnRlOVV0a1RXbHVWc0YvNDFXbkFjWU5hUFNucEhSaVN2Vnl5YVlBc0dJcmQ4STd6dmlYZml1V0RVaUY1SVFLYUswNERnZ0FkTFk0WnZHNlQyMlVDbytadzdBemNMeE1PWlhOQ3ROeDlBQUFBQUVsRlRrU3VRbUNDIiBmaWx0ZXI9InVybCgjeCkiLz4KICAgICAgICA8L3N2Zz4=",
 			ratio: 1.3333333333333333
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-final.jpg": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-final.jpg": function (e, t) {
 		e.exports = {
 			color: [184, 207, 203, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMTMiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL2pwZWc7YmFzZTY0LC85ai8yd0JEQUFZRUJRWUZCQVlHQlFZSEJ3WUlDaEFLQ2drSkNoUU9Ed3dRRnhRWUdCY1VGaFlhSFNVZkdoc2pIQllXSUN3Z0l5WW5LU29wR1I4dE1DMG9NQ1VvS1NqLzJ3QkRBUWNIQndvSUNoTUtDaE1vR2hZYUtDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2dvS0Nnb0tDZ29LQ2ovd0FBUkNBQU5BQlFEQVNJQUFoRUJBeEVCLzhRQUdBQUFBd0VCQUFBQUFBQUFBQUFBQUFBQUFBVUhBUVAveEFBbkVBQUJBd01DQkFjQUFBQUFBQUFBQUFBQkFnTUVBQVVSRWlFR0UxR2hCeFVqTVRJMndmL0VBQmNCQUFNQkFBQUFBQUFBQUFBQUFBQUFBQUlFQlFiL3hBQWVFUUVBQVFRQ0F3QUFBQUFBQUFBQUFBQUJBZ0FEQkJGQlVTRWlNZi9hQUF3REFRQUNFUU1SQUQ4QXFFWi9ocTNXaTErYXdtbFNuNDRkMWNzcTFia1pPOU9MZkI0Zm50TXFiZ3dmV2JEcmFVSk92VDF3U2F5dzJ5TGNMTlp6S2pSWGlJNjA2bldRdFFBR1FBVDdESk9meW5EYkRrV0dHNHkyVzBOeFVLUWhMV0VoUk8rd1B4NkR1YU81Y2RwRmQ3ZWFSeDhmMUdSSFNISG41VTE0OWl4NE4rNU1KbEREWEpRZENCdGs1M29ydDRrZlpsakpPRzBnZDZLcjQ2dHFLOVZtczBJMzVoM1gvOWs9IiBmaWx0ZXI9InVybCgjeCkiLz4KICAgICAgICA8L3N2Zz4=",
 			ratio: 1.5
 		}
 	},
-	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-results.png": function (e, t) {
+	"../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-results.png": function (e, t) {
 		e.exports = {
 			color: [219, 203, 196, 1],
 			url: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjAgMTUiPgogICAgICAgICAgPGZpbHRlciBpZD0ieCI+CiAgICAgICAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjEiIC8+CiAgICAgICAgICA8L2ZpbHRlcj4KICAgICAgICAgIDxpbWFnZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSJkYXRhOmltYWdlL3BuZztiYXNlNjQsaVZCT1J3MEtHZ29BQUFBTlNVaEVVZ0FBQUJRQUFBQVBDQUlBQUFCcituZ0NBQUFBQ1hCSVdYTUFBQXNTQUFBTEVnSFMzWDc4QUFBREQwbEVRVlFvejBXU2EwOGNWUmpINTNQNURYelRGNUxZcEY1TG1tZ1RzZDVxb29teFRVbmwwb29CTEJoVHFrUUlvWFMzWlplcU5MTEZGTlNWd3Q1bWR1ZTZNM1B1NXp4blpnZUt0cjd5V0Y2WW5GZm4vOXorditleDVMMXY0T29ya3ZIN1RyamE2TjF1dUxzQlVta0NWMDZycFhHNGRvNEwrTWtPN3JiOXRhYmJUYW1nSE9ZdkR0NTdRVzU4WituWkMvRGxXMExBWHBpVzJ2N2RqdStsaEVFdWFtVTkvZ2I3YlpPcHZKK1NYOTErSTBLU0NTSVVTbUprTjlQOEwwdXMzeVQ5aU9pQ0l1TEZLRVpFTWNHWVNEbWtjSmpDRVZFNXBseFNsaURTU3pCam5GQlRRdk9ONzYya2VJYWRKclAzc2N3RjQzYU1hcjNJUjRTYitNQ0ZtWGZoMjA4NFpSSGg5OXIrN1piM3FCZUs0bTlaK2xwZk8yZUpneDA5OFdaMmVVanVQUXhGdG5MUXJYVDhVcU9MaW1ld1BLN21MOExFV2JXNWZFQ3pwY2ZPZXNjdk43dTBlS3BXcnV1dnpsdXllaE5tUm1EcVBLeE5oL3JKeXI1VDdRU1Z0b2ZVUU5SL3lhNmVNWTkzbTBqb3JWNTAzdzZhZlNTNEpBaUx0Vm1MSXFSdWZRNDNQcUJ4eklUcUp1aWhHZnMvcWd4blI4aDFVTS9HUWh0SHhtdUVDTUhHc2pZL3llRlRDK2ZIeWRFL2lSb1FKaW5sUVlJazVkZ0VxUUZ0UHlaMkErdkNlRzdGMkxBSVVzSWwwTUNEbVF2Nnh2dVdxTjZTaTZPbVArTnkxNDhybldESDZ6TmRzUDBURmkvSmVpMFUrb1JGK1lURjBwaWEveGdtaHkyelREMDVyRmVuak9IRlB6dWJUdmpEbmgxbHgxQmRnT2wzOU5UYjZzN3NDWXZLL3l4cTJSZXZacU9uTFQxNU5ydnlzcXdzNE96SkF5ZFlhM2xiYnQ5WVlJU3B4VkdZKzVER2ZiTTJzOEx0WGhRaGF1NEV5UXgxV3lqd0xGYXZzUWVyQ0FvemRvcUlHeU9LcWVMQzVLZUdTbjZNNEJDcmdhRmdXUGd4TW9VWlpVam1OQW90RTVIcUk5cXNVNHdKVjR6eVAvejQ5eUFoaEJHcCtlN1BldXcxdm5WSDZzUDlNQzIzL1ZMTGMxTnFadEVUd3hhRlFsWVg4azlmVk5NalNvZ2RQekh5YXNOOTVNVWdKSXk5TGxldXc2VWh3R2pEQ1V0TjE2amJ6eVg5MlNtVFBJRHBFVm1lZzh0RHluZTJBN3plOXN3eEdJZWdDN0U4a1ptNmN4K1pUblpzSlA5SE8reGp5bFRHV3ZWL0FRdVkzV0crd2dRTUFBQUFBRWxGVGtTdVFtQ0MiIGZpbHRlcj0idXJsKCN4KSIvPgogICAgICAgIDwvc3ZnPg==",
@@ -3964,151 +3964,151 @@ webpackJsonp(["app"], {
 			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/cisco/cisco-results.jpg")
 		}
 	},
-	"./assets/work/code-school/code-school-1-1-a.png?sizes=800w+1600w": function (e, t, o) {
+	"./assets/work/astro-cats/astro-cats-1-1-a.png?sizes=800w+1600w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-1-a.png?size=800w"),
-				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-1-a.png?size=1600w")
+				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-1-a.png?size=800w"),
+				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-1-a.png?size=1600w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-1-a.png?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-1-a.png?size=1600w") + " 1600w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-1-1-a.png")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-1-a.png?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-1-a.png?size=1600w") + " 1600w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-1-1-a.png")
 		}
 	},
-	"./assets/work/code-school/code-school-1-1-b.jpg?sizes=800w+1600w": function (e, t, o) {
+	"./assets/work/astro-cats/astro-cats-1-1-b.jpg?sizes=800w+1600w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-1-b.jpg?size=800w"),
-				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-1-b.jpg?size=1600w")
+				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-1-b.jpg?size=800w"),
+				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-1-b.jpg?size=1600w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-1-b.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-1-b.jpg?size=1600w") + " 1600w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-1-1-b.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-1-b.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-1-b.jpg?size=1600w") + " 1600w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-1-1-b.jpg")
 		}
 	},
-	"./assets/work/code-school/code-school-1-1-c.jpg?sizes=800w+1600w": function (e, t, o) {
+	"./assets/work/astro-cats/astro-cats-1-1-c.jpg?sizes=800w+1600w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-1-c.jpg?size=800w"),
-				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-1-c.jpg?size=1600w")
+				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-1-c.jpg?size=800w"),
+				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-1-c.jpg?size=1600w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-1-c.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-1-c.jpg?size=1600w") + " 1600w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-1-1-c.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-1-c.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-1-c.jpg?size=1600w") + " 1600w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-1-1-c.jpg")
 		}
 	},
-	"./assets/work/code-school/code-school-1-2.jpg?sizes=800w+1600w": function (e, t, o) {
+	"./assets/work/astro-cats/astro-cats-1-2.jpg?sizes=800w+1600w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-2.jpg?size=800w"),
-				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-2.jpg?size=1600w")
+				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-2.jpg?size=800w"),
+				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-2.jpg?size=1600w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-2.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-2.jpg?size=1600w") + " 1600w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-1-2.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-2.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-2.jpg?size=1600w") + " 1600w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-1-2.jpg")
 		}
 	},
-	"./assets/work/code-school/code-school-1-3.jpg?sizes=800w+1600w": function (e, t, o) {
+	"./assets/work/astro-cats/astro-cats-1-3.jpg?sizes=800w+1600w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-3.jpg?size=800w"),
-				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-3.jpg?size=1600w")
+				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-3.jpg?size=800w"),
+				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-3.jpg?size=1600w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-3.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-3.jpg?size=1600w") + " 1600w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-1-3.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-3.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-3.jpg?size=1600w") + " 1600w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-1-3.jpg")
 		}
 	},
-	"./assets/work/code-school/code-school-1-4-a.jpg?sizes=800w+1600w": function (e, t, o) {
+	"./assets/work/astro-cats/astro-cats-1-4-a.jpg?sizes=800w+1600w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-4-a.jpg?size=800w"),
-				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-4-a.jpg?size=1600w")
+				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-4-a.jpg?size=800w"),
+				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-4-a.jpg?size=1600w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-4-a.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-4-a.jpg?size=1600w") + " 1600w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-1-4-a.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-4-a.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-4-a.jpg?size=1600w") + " 1600w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-1-4-a.jpg")
 		}
 	},
-	"./assets/work/code-school/code-school-1-4-b.jpg?sizes=800w+1600w": function (e, t, o) {
+	"./assets/work/astro-cats/astro-cats-1-4-b.jpg?sizes=800w+1600w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-4-b.jpg?size=800w"),
-				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-4-b.jpg?size=1600w")
+				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-4-b.jpg?size=800w"),
+				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-4-b.jpg?size=1600w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-1-4-b.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-1-4-b.jpg?size=1600w") + " 1600w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-1-4-b.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-1-4-b.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-1-4-b.jpg?size=1600w") + " 1600w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-1-4-b.jpg")
 		}
 	},
-	"./assets/work/code-school/code-school-2-1-a.jpg?sizes=800w+1600w": function (e, t, o) {
+	"./assets/work/astro-cats/astro-cats-2-1-a.jpg?sizes=800w+1600w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-1-a.jpg?size=800w"),
-				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-1-a.jpg?size=1600w")
+				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-1-a.jpg?size=800w"),
+				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-1-a.jpg?size=1600w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-1-a.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-1-a.jpg?size=1600w") + " 1600w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-2-1-a.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-1-a.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-1-a.jpg?size=1600w") + " 1600w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-2-1-a.jpg")
 		}
 	},
-	"./assets/work/code-school/code-school-2-1-b.jpg?sizes=800w+1600w": function (e, t, o) {
+	"./assets/work/astro-cats/astro-cats-2-1-b.jpg?sizes=800w+1600w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-1-b.jpg?size=800w"),
-				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-1-b.jpg?size=1600w")
+				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-1-b.jpg?size=800w"),
+				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-1-b.jpg?size=1600w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-1-b.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-1-b.jpg?size=1600w") + " 1600w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-2-1-b.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-1-b.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-1-b.jpg?size=1600w") + " 1600w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-2-1-b.jpg")
 		}
 	},
-	"./assets/work/code-school/code-school-2-1-c.jpg?sizes=800w+1600w": function (e, t, o) {
+	"./assets/work/astro-cats/astro-cats-2-1-c.jpg?sizes=800w+1600w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-1-c.jpg?size=800w"),
-				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-1-c.jpg?size=1600w")
+				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-1-c.jpg?size=800w"),
+				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-1-c.jpg?size=1600w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-1-c.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-1-c.jpg?size=1600w") + " 1600w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-2-1-c.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-1-c.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-1-c.jpg?size=1600w") + " 1600w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-2-1-c.jpg")
 		}
 	},
-	"./assets/work/code-school/code-school-2-2.jpg?sizes=800w+1600w": function (e, t, o) {
+	"./assets/work/astro-cats/astro-cats-2-2.jpg?sizes=800w+1600w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-2.jpg?size=800w"),
-				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-2.jpg?size=1600w")
+				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-2.jpg?size=800w"),
+				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-2.jpg?size=1600w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-2.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-2.jpg?size=1600w") + " 1600w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-2-2.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-2.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-2.jpg?size=1600w") + " 1600w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-2-2.jpg")
 		}
 	},
-	"./assets/work/code-school/code-school-2-3-a.jpg?sizes=800w+1600w": function (e, t, o) {
+	"./assets/work/astro-cats/astro-cats-2-3-a.jpg?sizes=800w+1600w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-3-a.jpg?size=800w"),
-				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-3-a.jpg?size=1600w")
+				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-3-a.jpg?size=800w"),
+				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-3-a.jpg?size=1600w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-3-a.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-3-a.jpg?size=1600w") + " 1600w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-2-3-a.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-3-a.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-3-a.jpg?size=1600w") + " 1600w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-2-3-a.jpg")
 		}
 	},
-	"./assets/work/code-school/code-school-2-3-b.jpg?sizes=800w+1600w": function (e, t, o) {
+	"./assets/work/astro-cats/astro-cats-2-3-b.jpg?sizes=800w+1600w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-3-b.jpg?size=800w"),
-				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-3-b.jpg?size=1600w")
+				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-3-b.jpg?size=800w"),
+				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-3-b.jpg?size=1600w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-3-b.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-3-b.jpg?size=1600w") + " 1600w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-2-3-b.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-3-b.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-3-b.jpg?size=1600w") + " 1600w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-2-3-b.jpg")
 		}
 	},
-	"./assets/work/code-school/code-school-2-3-c.jpg?sizes=800w+1600w": function (e, t, o) {
+	"./assets/work/astro-cats/astro-cats-2-3-c.jpg?sizes=800w+1600w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-3-c.jpg?size=800w"),
-				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-3-c.jpg?size=1600w")
+				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-3-c.jpg?size=800w"),
+				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-3-c.jpg?size=1600w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-2-3-c.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-2-3-c.jpg?size=1600w") + " 1600w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-2-3-c.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-2-3-c.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-2-3-c.jpg?size=1600w") + " 1600w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-2-3-c.jpg")
 		}
 	},
 	"./assets/work/example-cover.png?sizes=1200w": function (e, t, o) {
 		e.exports = {
 			sources: {"1200w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1200!./assets/work/example-cover.png?size=1200w")},
 			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1200!./assets/work/example-cover.png?size=1200w") + " 1200w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-cover.png")
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-cover.png")
 		}
 	},
 	"./assets/work/example-cover.png?sizes=600w+1200w": function (e, t, o) {
@@ -4118,7 +4118,7 @@ webpackJsonp(["app"], {
 				"1200w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1200!./assets/work/example-cover.png?size=1200w")
 			},
 			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=600!./assets/work/example-cover.png?size=600w") + " 600w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1200!./assets/work/example-cover.png?size=1200w") + " 1200w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-cover.png")
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-cover.png")
 		}
 	},
 	"./assets/work/example-cover.png?sizes=800w+1600w": function (e, t, o) {
@@ -4128,27 +4128,27 @@ webpackJsonp(["app"], {
 				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/example-cover.png?size=1600w")
 			},
 			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/example-cover.png?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/example-cover.png?size=1600w") + " 1600w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-cover.png")
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-cover.png")
 		}
 	},
-	"./assets/work/code-school/code-school-final.jpg?sizes=800w+1600w": function (e, t, o) {
+	"./assets/work/astro-cats/astro-cats-final.jpg?sizes=800w+1600w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-final.jpg?size=800w"),
-				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-final.jpg?size=1600w")
+				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-final.jpg?size=800w"),
+				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-final.jpg?size=1600w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-final.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-final.jpg?size=1600w") + " 1600w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-final.jpg")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-final.jpg?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-final.jpg?size=1600w") + " 1600w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-final.jpg")
 		}
 	},
-	"./assets/work/code-school/code-school-results.png?sizes=800w+1600w": function (e, t, o) {
+	"./assets/work/astro-cats/astro-cats-results.png?sizes=800w+1600w": function (e, t, o) {
 		e.exports = {
 			sources: {
-				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-results.png?size=800w"),
-				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-results.png?size=1600w")
+				"800w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-results.png?size=800w"),
+				"1600w": o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-results.png?size=1600w")
 			},
-			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/code-school/code-school-results.png?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/code-school/code-school-results.png?size=1600w") + " 1600w",
-			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/code-school/code-school-results.png")
+			srcSet: o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=800!./assets/work/astro-cats/astro-cats-results.png?size=800w") + " 800w," + o("../node_modules/file-loader/dist/cjs.js!../node_modules/image-webpack-loader/index.js??ref--1-2!../node_modules/srcset-loader/lib/resize-loader.js?size=1600!./assets/work/astro-cats/astro-cats-results.png?size=1600w") + " 1600w",
+			placeholder: o("../node_modules/srcset-loader/lib/placeholder-loader.js?lightweight=false!./assets/work/astro-cats/astro-cats-results.png")
 		}
 	},
 	"./assets/work/edutyping/edutyping-1-1.jpg?sizes=800w+1600w": function (e, t, o) {
@@ -8768,7 +8768,7 @@ webpackJsonp(["app"], {
 						default: "600w",
 						imageData: me.default
 					})), Z.default.createElement(Me, null, Z.default.createElement(C.default, {
-						data: Be.default["code-school"],
+						data: Be.default["astro-cats"],
 						default: "600w",
 						imageData: pe.default
 					}))), Z.default.createElement(xe, null, Z.default.createElement(De, null, Z.default.createElement(J.default, {
@@ -8914,7 +8914,7 @@ webpackJsonp(["app"], {
 					})), y.default.createElement(ht, null, y.default.createElement(P.H3, null, "Exploratory"), y.default.createElement("p", null, "Exploratory visualizations provide interactive controls, allowing users to explore and discover patterns in complex datasets."))), y.default.createElement(ft, null, y.default.createElement(bt, null, y.default.createElement("img", {
 						alt: "",
 						src: ke.default
-					})), y.default.createElement(ht, null, y.default.createElement(P.H3, null, "Maps"), y.default.createElement("p", null, "From projections of specific locations to models of imagined solar systems, we’ve covered the spectrum of spatial analysis on the web."))), y.default.createElement(ct, null, y.default.createElement(X.Grid, null, y.default.createElement(pt, null, y.default.createElement(P.H2, null, "Technical Training"), y.default.createElement(P.Intro, null, "With ", y.default.createElement(P.StyledLink, {to: "/work/code-school/"}, "Code School"), ", we excelled as an early entry in the learn-to-code marketplace. Since then, we’ve consulted on and implemented platforms for education in data science, network administration, and more."))), y.default.createElement(ut, {background: "blackS"}, y.default.createElement(gt, null, y.default.createElement("img", {
+					})), y.default.createElement(ht, null, y.default.createElement(P.H3, null, "Maps"), y.default.createElement("p", null, "From projections of specific locations to models of imagined solar systems, we’ve covered the spectrum of spatial analysis on the web."))), y.default.createElement(ct, null, y.default.createElement(X.Grid, null, y.default.createElement(pt, null, y.default.createElement(P.H2, null, "Technical Training"), y.default.createElement(P.Intro, null, "With ", y.default.createElement(P.StyledLink, {to: "/work/astro-cats/"}, "Code School"), ", we excelled as an early entry in the learn-to-code marketplace. Since then, we’ve consulted on and implemented platforms for education in data science, network administration, and more."))), y.default.createElement(ut, {background: "blackS"}, y.default.createElement(gt, null, y.default.createElement("img", {
 						src: Ze.default,
 						alt: ""
 					})), y.default.createElement(mt, null, y.default.createElement(P.H3, null, "Assessments"), y.default.createElement("p", null, "Delivering assessments over a network (especially for certifications) involves obstacles like connection monitoring, timing, synchronization, and activity tracking.")), y.default.createElement(gt, null, y.default.createElement("img", {
@@ -9033,7 +9033,7 @@ webpackJsonp(["app"], {
 						default: "800w",
 						imageData: S.default,
 						autoload: !0
-					}))), c.default.createElement(j.GoalsGrid, null, c.default.createElement(j.GoalsHeader, null, c.default.createElement(R.H2, {invert: !0}, "Project Goals")), c.default.createElement(j.GoalsContent, null, c.default.createElement("div", null, c.default.createElement(R.H3, {invert: !0}, "Like a Train Needs a Track"), c.default.createElement("p", null, "Cisco had all the content at their disposal, but lacked the three components of a good training platform: content delivery, user progress tracking, and assessments graded in real time. Cisco looked to TopCraftBits to complete this picture.")), c.default.createElement("div", null, c.default.createElement(R.H3, {invert: !0}, "Near, Far, Wherever You Are"), c.default.createElement("p", null, c.default.createElement(R.StyledLink, {to: "/work/code-school/"}, "TopCraftBits"), " introduced a new way to learn technology by serving a real world coding environment in a browser. When the Cisco team saw TopCraftBits, they wanted the same approach so their IT professionals could learn on real Cisco devices remotely from anywhere on Earth.")))), c.default.createElement(j.SystemGrid, null, c.default.createElement(j.SystemContent, null, c.default.createElement(R.H4, null, "Design"), c.default.createElement(R.H2, {invert: !0}, "Walk This Way"), c.default.createElement("p", null, "Course designers always have a meticulous plan for presenting course content in a specific order, but that doesn’t always translate to users. Depending on the platform design, that can either seem like a rewarding journey through knowledge, or a linear barrage of different concepts one after another. To achieve the former, we explored different options before landing on a contextual sidebar that reacted to the user’s current location within the course.")), c.default.createElement(j.SystemMedia1, null, c.default.createElement(b.default, {
+					}))), c.default.createElement(j.GoalsGrid, null, c.default.createElement(j.GoalsHeader, null, c.default.createElement(R.H2, {invert: !0}, "Project Goals")), c.default.createElement(j.GoalsContent, null, c.default.createElement("div", null, c.default.createElement(R.H3, {invert: !0}, "Like a Train Needs a Track"), c.default.createElement("p", null, "Cisco had all the content at their disposal, but lacked the three components of a good training platform: content delivery, user progress tracking, and assessments graded in real time. Cisco looked to TopCraftBits to complete this picture.")), c.default.createElement("div", null, c.default.createElement(R.H3, {invert: !0}, "Near, Far, Wherever You Are"), c.default.createElement("p", null, c.default.createElement(R.StyledLink, {to: "/work/astro-cats/"}, "TopCraftBits"), " introduced a new way to learn technology by serving a real world coding environment in a browser. When the Cisco team saw TopCraftBits, they wanted the same approach so their IT professionals could learn on real Cisco devices remotely from anywhere on Earth.")))), c.default.createElement(j.SystemGrid, null, c.default.createElement(j.SystemContent, null, c.default.createElement(R.H4, null, "Design"), c.default.createElement(R.H2, {invert: !0}, "Walk This Way"), c.default.createElement("p", null, "Course designers always have a meticulous plan for presenting course content in a specific order, but that doesn’t always translate to users. Depending on the platform design, that can either seem like a rewarding journey through knowledge, or a linear barrage of different concepts one after another. To achieve the former, we explored different options before landing on a contextual sidebar that reacted to the user’s current location within the course.")), c.default.createElement(j.SystemMedia1, null, c.default.createElement(b.default, {
 						alt: "Navigation concept A",
 						default: "800w",
 						imageData: W.default
@@ -9130,7 +9130,7 @@ webpackJsonp(["app"], {
 			return function (t, o, s) {
 				return o && e(t.prototype, o), s && e(t, s), t
 			}
-		}(), i = o("../node_modules/react/index.js"), c = n(i), m = o("../node_modules/prop-types/index.js"), u = n(m), p = o("./components/CaseStudy.js"), g = n(p), f = o("./components/Page.js"), h = n(f), U = o("./components/Photo.js"), b = n(U), w = o("./components/styled-components/Studies.js"), Q = s(w), F = o("./components/styled-components/Text.js"), j = s(F), V = o("./assets/work/example-cover.png?sizes=800w+1600w"), R = n(V), B = o("./assets/work/code-school/code-school-final.jpg?sizes=800w+1600w"), k = n(B), z = o("./assets/work/code-school/code-school-1-1-a.png?sizes=800w+1600w"), Z = n(z), v = o("./assets/work/code-school/code-school-1-1-b.jpg?sizes=800w+1600w"), I = n(v), E = o("./assets/work/code-school/code-school-1-1-c.jpg?sizes=800w+1600w"), S = n(E), N = o("./assets/work/code-school/code-school-1-2.jpg?sizes=800w+1600w"), y = n(N), C = o("./assets/work/code-school/code-school-1-3.jpg?sizes=800w+1600w"), W = n(C), x = o("./assets/work/code-school/code-school-1-4-a.jpg?sizes=800w+1600w"), D = n(x), T = o("./assets/work/code-school/code-school-1-4-b.jpg?sizes=800w+1600w"), A = n(T), _ = o("./assets/work/code-school/code-school-2-1-a.jpg?sizes=800w+1600w"), M = n(_), J = o("./assets/work/code-school/code-school-2-1-b.jpg?sizes=800w+1600w"), L = n(J), G = o("./assets/work/code-school/code-school-2-1-c.jpg?sizes=800w+1600w"), H = n(G), Y = o("./assets/work/code-school/code-school-2-2.jpg?sizes=800w+1600w"), X = n(Y), O = o("./assets/work/code-school/code-school-2-3-a.jpg?sizes=800w+1600w"), P = n(O), K = o("./assets/work/code-school/code-school-2-3-b.jpg?sizes=800w+1600w"), q = n(K), $ = o("./assets/work/code-school/code-school-2-3-c.jpg?sizes=800w+1600w"), ee = n($), te = o("./assets/work/code-school/code-school-results.png?sizes=800w+1600w"), oe = n(te), se = o("./assets/work/ivy/ivy-cover.jpg?sizes=800w+1600w"), ne = n(se), ae = o("./assets/work/example-cover.png?sizes=1200w"), de = n(ae), le = o("../data/work.js"), re = n(le), ie = re.default["code-school"], ce = re.default.ivy, me = function (e) {
+		}(), i = o("../node_modules/react/index.js"), c = n(i), m = o("../node_modules/prop-types/index.js"), u = n(m), p = o("./components/CaseStudy.js"), g = n(p), f = o("./components/Page.js"), h = n(f), U = o("./components/Photo.js"), b = n(U), w = o("./components/styled-components/Studies.js"), Q = s(w), F = o("./components/styled-components/Text.js"), j = s(F), V = o("./assets/work/example-cover.png?sizes=800w+1600w"), R = n(V), B = o("./assets/work/astro-cats/astro-cats-final.jpg?sizes=800w+1600w"), k = n(B), z = o("./assets/work/astro-cats/astro-cats-1-1-a.png?sizes=800w+1600w"), Z = n(z), v = o("./assets/work/astro-cats/astro-cats-1-1-b.jpg?sizes=800w+1600w"), I = n(v), E = o("./assets/work/astro-cats/astro-cats-1-1-c.jpg?sizes=800w+1600w"), S = n(E), N = o("./assets/work/astro-cats/astro-cats-1-2.jpg?sizes=800w+1600w"), y = n(N), C = o("./assets/work/astro-cats/astro-cats-1-3.jpg?sizes=800w+1600w"), W = n(C), x = o("./assets/work/astro-cats/astro-cats-1-4-a.jpg?sizes=800w+1600w"), D = n(x), T = o("./assets/work/astro-cats/astro-cats-1-4-b.jpg?sizes=800w+1600w"), A = n(T), _ = o("./assets/work/astro-cats/astro-cats-2-1-a.jpg?sizes=800w+1600w"), M = n(_), J = o("./assets/work/astro-cats/astro-cats-2-1-b.jpg?sizes=800w+1600w"), L = n(J), G = o("./assets/work/astro-cats/astro-cats-2-1-c.jpg?sizes=800w+1600w"), H = n(G), Y = o("./assets/work/astro-cats/astro-cats-2-2.jpg?sizes=800w+1600w"), X = n(Y), O = o("./assets/work/astro-cats/astro-cats-2-3-a.jpg?sizes=800w+1600w"), P = n(O), K = o("./assets/work/astro-cats/astro-cats-2-3-b.jpg?sizes=800w+1600w"), q = n(K), $ = o("./assets/work/astro-cats/astro-cats-2-3-c.jpg?sizes=800w+1600w"), ee = n($), te = o("./assets/work/astro-cats/astro-cats-results.png?sizes=800w+1600w"), oe = n(te), se = o("./assets/work/ivy/ivy-cover.jpg?sizes=800w+1600w"), ne = n(se), ae = o("./assets/work/example-cover.png?sizes=1200w"), de = n(ae), le = o("../data/work.js"), re = n(le), ie = re.default["astro-cats"], ce = re.default.ivy, me = function (e) {
 			function t() {
 				return a(this, t), d(this, (t.__proto__ || Object.getPrototypeOf(t)).apply(this, arguments))
 			}
@@ -9223,7 +9223,7 @@ webpackJsonp(["app"], {
 						alt: "TopCraftBits + Pluralsight",
 						default: "800w",
 						imageData: oe.default
-					})), c.default.createElement(Q.ResultsContent, null, c.default.createElement(j.H4, null, "Deliver"), c.default.createElement(j.H2, {invert: !0}, "The Results"), c.default.createElement(j.H3, {invert: !0}, "Graduation"), c.default.createElement("p", null, "In the spring of 2015, TopCraftBits ", c.default.createElement(j.StyledA, {href: "https://techcrunch.com/2015/01/26/online-learning-service-pluralsight-acquires-code-school-for-36-million/"}, "sold to Pluralsight"), " for $36 million. No outside investment was taken prior to the purchase."), c.default.createElement(j.H3, {invert: !0}, "Curves Like Hockey Sticks"), c.default.createElement("p", null, "Despite its beginnings as a side project, the product had outgrown the consultancy. By the time TopCraftBits spun out from TopCraftBits to end 2013, it boasted more than 15,000 subscribers and 400,000 users."), c.default.createElement(j.H3, {invert: !0}, "Totally Planned That"), c.default.createElement("p", null, "Nearly every applicant we interview credits TopCraftBits for part of their education. In an unexpected turn of events, we helped train our own future employees.")))))
+					})), c.default.createElement(Q.ResultsContent, null, c.default.createElement(j.H4, null, "Deliver"), c.default.createElement(j.H2, {invert: !0}, "The Results"), c.default.createElement(j.H3, {invert: !0}, "Graduation"), c.default.createElement("p", null, "In the spring of 2015, TopCraftBits ", c.default.createElement(j.StyledA, {href: "https://techcrunch.com/2015/01/26/online-learning-service-pluralsight-acquires-astro-cats-for-36-million/"}, "sold to Pluralsight"), " for $36 million. No outside investment was taken prior to the purchase."), c.default.createElement(j.H3, {invert: !0}, "Curves Like Hockey Sticks"), c.default.createElement("p", null, "Despite its beginnings as a side project, the product had outgrown the consultancy. By the time TopCraftBits spun out from TopCraftBits to end 2013, it boasted more than 15,000 subscribers and 400,000 users."), c.default.createElement(j.H3, {invert: !0}, "Totally Planned That"), c.default.createElement("p", null, "Nearly every applicant we interview credits TopCraftBits for part of their education. In an unexpected turn of events, we helped train our own future employees.")))))
 				}
 			}]), t
 		}(c.default.PureComponent);
@@ -9460,7 +9460,7 @@ webpackJsonp(["app"], {
 						alt: "Space theme concept",
 						default: "800w",
 						imageData: x.default
-					}))), m.default.createElement(z.StickyGrid, null, m.default.createElement(z.StickyContent, null, m.default.createElement(v.H3, {invert: !0}, "Same Thing We Do Every Night, Pinky"), m.default.createElement("p", null, "For about as long as TopCraftBits had been around, we’ve been scheming to build better educational interfaces (such as ", m.default.createElement(v.StyledLink, {to: "/work/code-school/"}, "Code School"), "). Explore Data Science proved to be the perfect opportunity to employ a number of new ideas for world domination.")), m.default.createElement(z.StickyMedia, null, m.default.createElement(F.default, {
+					}))), m.default.createElement(z.StickyGrid, null, m.default.createElement(z.StickyContent, null, m.default.createElement(v.H3, {invert: !0}, "Same Thing We Do Every Night, Pinky"), m.default.createElement("p", null, "For about as long as TopCraftBits had been around, we’ve been scheming to build better educational interfaces (such as ", m.default.createElement(v.StyledLink, {to: "/work/astro-cats/"}, "Code School"), "). Explore Data Science proved to be the perfect opportunity to employ a number of new ideas for world domination.")), m.default.createElement(z.StickyMedia, null, m.default.createElement(F.default, {
 						alt: "Explore Data Science sketches",
 						default: "800w",
 						imageData: K.default
@@ -9594,7 +9594,7 @@ webpackJsonp(["app"], {
 						imageData: be.default
 					}), g.default.createElement(oe.Grid, null, g.default.createElement(Ve, null, g.default.createElement(ne.H2, null, "In-House Initiatives"), g.default.createElement(ne.Intro, null, "Consulting is our first love, but it’s occasionally enjoyable to don the product owner hat (especially with a pretty decent software team on hand). Here are a few of our favorite ventures and passion projects."))), g.default.createElement(j.default, {
 						background: "blackS",
-						data: Qe.default["code-school"],
+						data: Qe.default["astro-cats"],
 						default: "600w",
 						imageData: ce.default
 					}), g.default.createElement(j.default, {
@@ -9631,7 +9631,7 @@ webpackJsonp(["app"], {
 						return g.default.createElement(S.default, {status: t, parentStatus: e.status})
 					}
 				}), g.default.createElement(U.Route, {
-					path: "/work/code-school", render: function () {
+					path: "/work/astro-cats", render: function () {
 						return g.default.createElement(y.default, {status: t, parentStatus: e.status})
 					}
 				}), g.default.createElement(U.Route, {
@@ -9759,7 +9759,7 @@ webpackJsonp(["app"], {
 						default: "800w",
 						imageData: _.default,
 						autoload: !0
-					}))), m.default.createElement(B.GoalsGrid, null, m.default.createElement(B.GoalsHeader, null, m.default.createElement(z.H2, {invert: !0}, "Project Goals")), m.default.createElement(B.GoalsContent, null, m.default.createElement("div", null, m.default.createElement(z.H3, {invert: !0}, "No Manual Needed"), m.default.createElement("p", null, "Course design is a difficult task by itself without clunky software. Ivy needs to make content creation as easy as possible in order to succeed as an education platform.")), m.default.createElement("div", null, m.default.createElement(z.H3, {invert: !0}, "Head in The Cloud"), m.default.createElement("p", null, "Similar to ", m.default.createElement(z.StyledLink, {to: "/work/code-school/"}, "Code School"), ", executing code in the Cloud skips all the cost and hassle of IT. Ivy needs to inherit and improve the tech that makes cloud-based code execution possible.")), m.default.createElement("div", null, m.default.createElement(z.H3, {invert: !0}, "Cleared For Takeoff"), m.default.createElement("p", null, "Ivy needs to be set up from square one as a growth-ready product in order to handle the year-over-year increase of people wanting to learn to code.")))), m.default.createElement(B.SystemGrid, null, m.default.createElement(B.SystemContent, null, m.default.createElement(z.H4, null, "Discover"), m.default.createElement(z.H2, {invert: !0}, "Long Live The King"), m.default.createElement("p", null, "Content is still king, so our foundation for design exploration began and ended with the writing experience. We pulled ideas from some of our favorite writing experiences to put tools in authors’ hands right when they needed.")), m.default.createElement(B.SystemMedia1, null, m.default.createElement(F.default, {
+					}))), m.default.createElement(B.GoalsGrid, null, m.default.createElement(B.GoalsHeader, null, m.default.createElement(z.H2, {invert: !0}, "Project Goals")), m.default.createElement(B.GoalsContent, null, m.default.createElement("div", null, m.default.createElement(z.H3, {invert: !0}, "No Manual Needed"), m.default.createElement("p", null, "Course design is a difficult task by itself without clunky software. Ivy needs to make content creation as easy as possible in order to succeed as an education platform.")), m.default.createElement("div", null, m.default.createElement(z.H3, {invert: !0}, "Head in The Cloud"), m.default.createElement("p", null, "Similar to ", m.default.createElement(z.StyledLink, {to: "/work/astro-cats/"}, "Code School"), ", executing code in the Cloud skips all the cost and hassle of IT. Ivy needs to inherit and improve the tech that makes cloud-based code execution possible.")), m.default.createElement("div", null, m.default.createElement(z.H3, {invert: !0}, "Cleared For Takeoff"), m.default.createElement("p", null, "Ivy needs to be set up from square one as a growth-ready product in order to handle the year-over-year increase of people wanting to learn to code.")))), m.default.createElement(B.SystemGrid, null, m.default.createElement(B.SystemContent, null, m.default.createElement(z.H4, null, "Discover"), m.default.createElement(z.H2, {invert: !0}, "Long Live The King"), m.default.createElement("p", null, "Content is still king, so our foundation for design exploration began and ended with the writing experience. We pulled ideas from some of our favorite writing experiences to put tools in authors’ hands right when they needed.")), m.default.createElement(B.SystemMedia1, null, m.default.createElement(F.default, {
 						alt: "Ivy analytics wireframes",
 						default: "800w",
 						imageData: $.default
@@ -10644,7 +10644,7 @@ webpackJsonp(["app"], {
 			return function (t, o, s) {
 				return o && e(t.prototype, o), s && e(t, s), t
 			}
-		}(), c = r(["\n  background: #345468;\n  color: ", ";\n  margin-bottom: 8rem;\n  padding: 8rem 0 1px;\n  @media (min-width: 45em) {\n    margin-bottom: 16rem;\n    padding-top: 16rem;\n  }\n"], ["\n  background: #345468;\n  color: ", ";\n  margin-bottom: 8rem;\n  padding: 8rem 0 1px;\n  @media (min-width: 45em) {\n    margin-bottom: 16rem;\n    padding-top: 16rem;\n  }\n"]), m = r(["\n  background: #5EACD2;\n  color: ", ";\n  margin-bottom: 8rem;\n  padding: 8rem 0 1px;\n  & a {\n    color: ", ";\n    &::after {\n      background: ", ";\n    }\n  }\n  @media (min-width: 45em) {\n    margin-bottom: 16rem;\n    padding-top: 16rem;\n  }\n"], ["\n  background: #5EACD2;\n  color: ", ";\n  margin-bottom: 8rem;\n  padding: 8rem 0 1px;\n  & a {\n    color: ", ";\n    &::after {\n      background: ", ";\n    }\n  }\n  @media (min-width: 45em) {\n    margin-bottom: 16rem;\n    padding-top: 16rem;\n  }\n"]), u = o("../node_modules/react/index.js"), p = n(u), g = o("../node_modules/prop-types/index.js"), f = n(g), h = o("../node_modules/styled-components/dist/styled-components.browser.es.js"), U = n(h), b = o("./components/CaseStudy.js"), w = n(b), Q = o("./components/Page.js"), F = n(Q), j = o("./components/Photo.js"), V = n(j), R = o("./components/Video.js"), B = n(R), k = o("./components/styled-components/Studies.js"), z = s(k), Z = o("./components/styled-components/Text.js"), v = s(Z), I = o("./assets/work/tech-rocket/tech-rocket-2-3.gif?sizes=default"), E = n(I), S = o("./assets/work/tech-rocket/tech-rocket-2-2-a.jpg?sizes=800w+1600w"), N = n(S), y = o("./assets/work/tech-rocket/tech-rocket-cover.jpg?sizes=800w+1600w"), C = n(y), W = o("./assets/work/tech-rocket/tech-rocket-2-4.jpg?sizes=800w+1600w"), x = n(W), D = o("./assets/work/tech-rocket/tech-rocket-results.gif?sizes=default"), T = n(D), A = o("./assets/work/tech-rocket/tech-rocket-1-1.jpg?sizes=800w+1600w"), _ = n(A), M = o("./assets/work/tech-rocket/tech-rocket-1-2-a.png?sizes=800w+1600w"), J = n(M), L = o("./assets/work/tech-rocket/tech-rocket-1-2-b.png?sizes=800w+1600w"), G = n(L), H = o("./assets/work/tech-rocket/tech-rocket-1-2-c.png?sizes=800w+1600w"), Y = n(H), X = o("./assets/work/tech-rocket/tech-rocket-2-2-b.mp4"), O = n(X), P = o("./assets/work/tech-rocket/tech-rocket-final.mp4"), K = n(P), q = o("./assets/work/tech-rocket/tech-rocket-2-1.mp4"), $ = n(q), ee = o("./assets/work/tech-rocket/tech-rocket-2-5.mp4"), te = n(ee), oe = o("./assets/work/example-cover.png?sizes=800w+1600w"), se = n(oe), ne = o("./assets/work/tech-rocket/tech-rocket-cover.jpg?sizes=1200w"), ae = n(ne), de = o("../data/work.js"), le = n(de), re = le.default["tech-rocket"], ie = le.default["code-school"], ce = U.default.div(c, function (e) {
+		}(), c = r(["\n  background: #345468;\n  color: ", ";\n  margin-bottom: 8rem;\n  padding: 8rem 0 1px;\n  @media (min-width: 45em) {\n    margin-bottom: 16rem;\n    padding-top: 16rem;\n  }\n"], ["\n  background: #345468;\n  color: ", ";\n  margin-bottom: 8rem;\n  padding: 8rem 0 1px;\n  @media (min-width: 45em) {\n    margin-bottom: 16rem;\n    padding-top: 16rem;\n  }\n"]), m = r(["\n  background: #5EACD2;\n  color: ", ";\n  margin-bottom: 8rem;\n  padding: 8rem 0 1px;\n  & a {\n    color: ", ";\n    &::after {\n      background: ", ";\n    }\n  }\n  @media (min-width: 45em) {\n    margin-bottom: 16rem;\n    padding-top: 16rem;\n  }\n"], ["\n  background: #5EACD2;\n  color: ", ";\n  margin-bottom: 8rem;\n  padding: 8rem 0 1px;\n  & a {\n    color: ", ";\n    &::after {\n      background: ", ";\n    }\n  }\n  @media (min-width: 45em) {\n    margin-bottom: 16rem;\n    padding-top: 16rem;\n  }\n"]), u = o("../node_modules/react/index.js"), p = n(u), g = o("../node_modules/prop-types/index.js"), f = n(g), h = o("../node_modules/styled-components/dist/styled-components.browser.es.js"), U = n(h), b = o("./components/CaseStudy.js"), w = n(b), Q = o("./components/Page.js"), F = n(Q), j = o("./components/Photo.js"), V = n(j), R = o("./components/Video.js"), B = n(R), k = o("./components/styled-components/Studies.js"), z = s(k), Z = o("./components/styled-components/Text.js"), v = s(Z), I = o("./assets/work/tech-rocket/tech-rocket-2-3.gif?sizes=default"), E = n(I), S = o("./assets/work/tech-rocket/tech-rocket-2-2-a.jpg?sizes=800w+1600w"), N = n(S), y = o("./assets/work/tech-rocket/tech-rocket-cover.jpg?sizes=800w+1600w"), C = n(y), W = o("./assets/work/tech-rocket/tech-rocket-2-4.jpg?sizes=800w+1600w"), x = n(W), D = o("./assets/work/tech-rocket/tech-rocket-results.gif?sizes=default"), T = n(D), A = o("./assets/work/tech-rocket/tech-rocket-1-1.jpg?sizes=800w+1600w"), _ = n(A), M = o("./assets/work/tech-rocket/tech-rocket-1-2-a.png?sizes=800w+1600w"), J = n(M), L = o("./assets/work/tech-rocket/tech-rocket-1-2-b.png?sizes=800w+1600w"), G = n(L), H = o("./assets/work/tech-rocket/tech-rocket-1-2-c.png?sizes=800w+1600w"), Y = n(H), X = o("./assets/work/tech-rocket/tech-rocket-2-2-b.mp4"), O = n(X), P = o("./assets/work/tech-rocket/tech-rocket-final.mp4"), K = n(P), q = o("./assets/work/tech-rocket/tech-rocket-2-1.mp4"), $ = n(q), ee = o("./assets/work/tech-rocket/tech-rocket-2-5.mp4"), te = n(ee), oe = o("./assets/work/example-cover.png?sizes=800w+1600w"), se = n(oe), ne = o("./assets/work/tech-rocket/tech-rocket-cover.jpg?sizes=1200w"), ae = n(ne), de = o("../data/work.js"), le = n(de), re = le.default["tech-rocket"], ie = le.default["astro-cats"], ce = U.default.div(c, function (e) {
 			return e.theme.colors.grayT
 		}), me = U.default.div(m, function (e) {
 			return e.theme.colors.white
@@ -10677,7 +10677,7 @@ webpackJsonp(["app"], {
 					}, p.default.createElement(z.LeadGrid, null, p.default.createElement(z.LeadMedia, null, p.default.createElement(B.default, {
 						ratio: .6666,
 						src: K.default
-					}))), p.default.createElement(z.GoalsGrid, null, p.default.createElement(z.GoalsHeader, null, p.default.createElement(v.H2, {invert: !0}, "Project Goals")), p.default.createElement(z.GoalsContent, null, p.default.createElement("div", null, p.default.createElement(v.H3, {invert: !0}, "Eternal Summer"), p.default.createElement("p", null, "iD Tech’s camps were legendary for getting kids excited about tech, but they were limited to a few weeks every summer and select locations. Adding a branded always-on web platform meant more kids could learn on their busy schedules.")), p.default.createElement("div", null, p.default.createElement(v.H3, {invert: !0}, "Can’t Touch This"), p.default.createElement("p", null, "iD Tech was producing web content, but it was non-interactive video. In order to publish fully interactive web courses, TopCraftBits was well-equipped to help.")), p.default.createElement("div", null, p.default.createElement(v.H3, {invert: !0}, "Cashflow Positive"), p.default.createElement("p", null, "iD’s revenue came in a pretty substantial bell curve that peaked mid-year. Opening up a year-round revenue stream could help the company break through some growth barriers.")))), p.default.createElement(z.StickyGrid, null, p.default.createElement(z.StickyContent, null, p.default.createElement(v.H4, null, "Discover"), p.default.createElement(v.H2, {invert: !0}, "We’re Going On an Adventure"), p.default.createElement("p", null, "We began research and initial wireframes for Tech Rocket back in 2014. Taking lessons we learned from ", p.default.createElement(v.StyledLink, {to: "/work/code-school/"}, "Link"), ", we dialed back the age demographic to appeal to a younger audience. We collected lessons and insights over the following years to add features and steady refinement.")), p.default.createElement(z.StickyMedia, null, p.default.createElement(V.default, {
+					}))), p.default.createElement(z.GoalsGrid, null, p.default.createElement(z.GoalsHeader, null, p.default.createElement(v.H2, {invert: !0}, "Project Goals")), p.default.createElement(z.GoalsContent, null, p.default.createElement("div", null, p.default.createElement(v.H3, {invert: !0}, "Eternal Summer"), p.default.createElement("p", null, "iD Tech’s camps were legendary for getting kids excited about tech, but they were limited to a few weeks every summer and select locations. Adding a branded always-on web platform meant more kids could learn on their busy schedules.")), p.default.createElement("div", null, p.default.createElement(v.H3, {invert: !0}, "Can’t Touch This"), p.default.createElement("p", null, "iD Tech was producing web content, but it was non-interactive video. In order to publish fully interactive web courses, TopCraftBits was well-equipped to help.")), p.default.createElement("div", null, p.default.createElement(v.H3, {invert: !0}, "Cashflow Positive"), p.default.createElement("p", null, "iD’s revenue came in a pretty substantial bell curve that peaked mid-year. Opening up a year-round revenue stream could help the company break through some growth barriers.")))), p.default.createElement(z.StickyGrid, null, p.default.createElement(z.StickyContent, null, p.default.createElement(v.H4, null, "Discover"), p.default.createElement(v.H2, {invert: !0}, "We’re Going On an Adventure"), p.default.createElement("p", null, "We began research and initial wireframes for Tech Rocket back in 2014. Taking lessons we learned from ", p.default.createElement(v.StyledLink, {to: "/work/astro-cats/"}, "Link"), ", we dialed back the age demographic to appeal to a younger audience. We collected lessons and insights over the following years to add features and steady refinement.")), p.default.createElement(z.StickyMedia, null, p.default.createElement(V.default, {
 						alt: "Tech Rocket 2013 version",
 						default: "800w",
 						imageData: _.default
