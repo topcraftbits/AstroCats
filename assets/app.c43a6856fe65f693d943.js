@@ -6140,7 +6140,7 @@ webpackJsonp(["app"], {
 					}))), j.default.createElement(L, null, j.default.createElement("a", {href: "mailto:hello@topcraftbits.com?subject=Hey%20TopCraftBits!"}, "hello@topcraftbits.com")), j.default.createElement(L, null, j.default.createElement("a", {href: "tel:8443100257"}, "844.310.0257"))), j.default.createElement(A, {
 						"aria-hidden": "true",
 						role: "presentation"
-					}, j.default.createElement(G, null, j.default.createElement(N.H4, {flush: !0}, "Navigate")), j.default.createElement(M, null, j.default.createElement(z.Link, {to: "/AstroCats/work/"}, "Work"), j.default.createElement("br", null), j.default.createElement(z.Link, {to: "/AstroCats/services/"}, "Services"), j.default.createElement("br", null), j.default.createElement(z.Link, {to: "/AstroCats/about/"}, "About"), j.default.createElement("br", null), j.default.createElement(z.Link, {to: "/AstroCats/contact/"}, "Contact"), j.default.createElement("br", null), j.default.createElement(R.default.OutboundLink, {
+					}, j.default.createElement(G, null, j.default.createElement(N.H4, {flush: !0}, "Navigate")), j.default.createElement(M, null, j.default.createElement(z.Link, {to: "/AstroCats/about/"}, "About"), j.default.createElement("br", null), j.default.createElement(z.Link, {to: "/AstroCats/contact/"}, "Contact"), j.default.createElement("br", null), j.default.createElement(R.default.OutboundLink, {
 						eventLabel: "TopCraftBits Blog",
 						to: "https://blog.topcraftbits.com",
 						rel: "noopener",
@@ -6172,14 +6172,14 @@ webpackJsonp(["app"], {
 						id: "github",
 						title: "GitHub"
 					}), " GitHub"), j.default.createElement("br", null), j.default.createElement(R.default.OutboundLink, {
-						eventLabel: "TopCraftBits on Instagram",
-						to: "https://instagram.com/topcraftbits",
+						eventLabel: "TopCraftBits on Facebook",
+						to: "https://facebook.com/topcraftbits",
 						rel: "noopener",
 						target: "_blank"
 					}, j.default.createElement(E.default, {
-						id: "instagram",
-						title: "Instagram"
-					}), " Instagram"))), j.default.createElement(J, null, j.default.createElement("span", null, "♥"), " Made in RO-DE"))))
+						id: "facebook",
+						title: "Facebook"
+					}), " Facebook"))), j.default.createElement(J, null, j.default.createElement("span", null, "🚀"), " Made in RO-DE"))))
 				}
 			}]), t
 		}(j.default.PureComponent);
