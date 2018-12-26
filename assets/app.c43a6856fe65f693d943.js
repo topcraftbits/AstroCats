@@ -20,7 +20,27 @@ webpackJsonp(["app"], {
 			name: "Lucas Louca",
 			slug: "lucas-louca",
 			title: "Sr Developer",
-			bio: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+			bio: '<p>I am a keen astrocat software engineer with over five years of software development experience. I developed a passion for writing code at a young age while competing and placing in top spots at national Computer Olympiads. I hold a bachelor\'s and master\'s degree in Computer Science from the Technical University of Munich.</p>\n' +
+                '<p>Working for companies like Workday and Accenture helped me get exposure to both small and large enterprise software projects and hone my skills in agile methodologies. My main area of expertise is algorithms and data structures. I am a profound Java developer but consider myself language agnostic.</p>\n' +
+                '<p>From a functional side I have experience in the Capital Markets, HCM and Healthcare Information Systems area. I am a native of two languages, German and Greek, with high proficiency in spoken and written English.</p>\n' +
+                '<h3><strong>Languages, Frameworks and Libraries:&nbsp;</strong></h3>\n' +
+                '<p>- Java, Spring, Hibernate, JUnit<br />\n' +
+                '- Python&nbsp;<br />\n' +
+                '- JavaScript, Node.js&nbsp;<br />\n' +
+                '- MySQL, Oracle Database&nbsp;<br />\n' +
+                '- SVN, Git&nbsp;<br />\n' +
+                '- Ant, Maven&nbsp;<br />\n' +
+                '- Jenkins&nbsp;<br />\n' +
+                '</p>\n' +
+                '<p><strong>Project experience:</strong></p>\n' +
+                '<p>As a Software Development Engineer at Workday, I worked on several core components of Workday\'s cloud-based financial management and HR solutions and conducted performance analysis of complex software components supporting thousands of tenants.</p>\n' +
+                '<p>Prior to joining Workday, I served with Accenture\'s Capital Markets team. At Accenture, I was responsible for delivering front-to-back technology solutions in Capital Markets, Clearing and Settlement. My clients included UniCredit S.p.A. and CACEIS Bank S.A. My responsibilities included delivering custom Calypso Technology reports, maintaining UniCredit\'s existing Securities Processing System, and rearchitecting UniCredit\'s Nachhandelstransparenz System. I have designed and implemented new interfaces to Xetra\'s FIX API which was used for reporting MiFID relevant trades. In addition to that, I have implemented a web application (TradeRepository) that is being used for reporting trades relevant for the Italian Financial Transaction Tax at UniCredit.</p>\n' +
+                '<p>Preceding Accenture, I was a research fellow at the Institute for Medical Statistics and Epidemiology - TU München, working as a Software Engineer on the "Leading-Edge Cluster m4" project. The project involved the progression of an Electronic Data Capture system used for clinical trials at the Klinikum Großhadern and Rechts der Isar Hospital with focus on data protection, security and privacy.</p>\n' +
+                '<p><strong>What do I do as a hobby?</strong><br />In my spare time, I enjoy reading and programming. I also like spending time at the gym to recharge my internal batteries.</p>\n' +
+                '<p><strong>Languages?</strong><br/>\n' +
+                '- German - native<br/>\n' +
+                '- Greek - native<br />\n' +
+                '- English - fluent</p>',
 			social: [["twitter", "https://twitter.com/lucaslouca"], ["github", "https://github.com/lucaslouca"]]
 		}]
 	},
