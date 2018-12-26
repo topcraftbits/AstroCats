@@ -6159,7 +6159,7 @@ webpackJsonp(["app"], {
 						to: "https://dribbble.com/topcraftbits",
 						"data-service": "dribbble",
 						rel: "noopener",
-						target: "_blank"
+						target: "https://github.com/topcraftbits/AstroCats"
 					}, j.default.createElement(E.default, {
 						id: "dribbble",
 						title: "Dribbble"
