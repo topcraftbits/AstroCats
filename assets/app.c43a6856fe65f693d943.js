@@ -6,7 +6,34 @@ webpackJsonp(["app"], {
 			name: "Lucian Crisan",
 			slug: "lucian-crisan@Lucian-alliance",
 			title: "Dragon Chi Developer",
-			bio: '<p class="u-mt">I am an astrocat fullstack software engineer, expert &amp; hands-on on ReactJS and ability to design &amp; develop SPA using components. Ensure technical feasibility of UI/UX designs, proficient understanding of cross-browser compatibility and proficient understanding of object oriented client-side scripting using ES6 and JavaScript frameworks. Working with server-side CSS pre-processors such as Sass, Less, and server-side templating languages such as Jade(pug), JSX, handlebars.js. Able to modify, crop, optimize size pictures in Photoshop and Gimp.</p><p class="u-mt">Having and experience of over 10 years in the software engineering I am<br />able to communicate effectively at all levels and able to work on own initiative or within a group environment. Dedicated to maintaining high quality standards.</p><p class="u-mt">My main focus is on Single Page Application, Progresive Web Aplication, REST.APIs. Microservices know-how.</p>',
+			bio: '<p class="u-mt">I am an astrocat fullstack software engineer, expert &amp; hands-on on ReactJS and ability to design &amp; develop SPA using components. Ensure technical feasibility of UI/UX designs, proficient understanding of cross-browser compatibility and proficient understanding of object oriented client-side scripting using ES6 and JavaScript frameworks. Working with server-side CSS pre-processors such as Sass, Less, and server-side templating languages such as Jade(pug), JSX, handlebars.js. Able to modify, crop, optimize size pictures in Photoshop and Gimp.</p><p class="u-mt">Having and experience of over 10 years in the software engineering I am able to communicate effectively at all levels and able to work on own initiative or within a group environment. Dedicated to maintaining high quality standards.</p><p class="u-mt">My main focus is on Single Page Application, Progresive Web Aplication, REST.APIs. Microservices know-how.</p>' +
+			'<h3><strong>Languages, Frameworks and Libraries:</strong></h3>' +
+			'<p>JS: ReactJS, Angular, Backbone, Ember<br />' +
+			'- Python<br />' +
+			'Streaming: Kafka, Redis<br />' +
+			'<strong>Cloud & DevOps</strong><br />' +
+			'- AWS: S3, Lamba, Cognito<br />' +
+			'- Docker, docker-compose<br />' +
+			'- pipeline engineering: Jenkins, TeamCity<br />' +
+			'<strong>Database (sql & nosql) and search index knowledge:</strong><br />' +
+			'- MSSQL Server, PostgreSQL, Oracle<br />' +
+			'- DynamoDB<br />' +
+			'- ElasticSearch<br />' +
+			'- MongoDB<br />' +
+			'- MySQL and MariaDB<br />' +
+			'- PostgresSQL<br />' +
+			'</p>' +
+			'<p>I have strong OOP skills with a strong focus on writing clean code, TDD using Agile development practices, code reviews and pairing.</p>' +
+			'<p><strong>Project experience:</strong></p>' +
+			'<p>As a Full-Stack Developer Engineer at Pro7Sat1Group, I worked on  the core functionality what suppose to be appied over 6 web sites projects like Sophia Thiel, Daniel Aminati ... </p>' +
+			'<p> I was responsible for delivering front-to-back solutions based on subscriptionmodel for Fitness influencers and partners. I was involved in migration of legacy code, upgrade frameworks, implement Single Page Aplication, create new REST API, replace old services, create campaigns, implement payment</p>' +
+			'<p>During my career I have worked as both a consultant and as an internal employee.</p>' +
+			'<p><strong>What do I do as a hobby?</strong><br />play video games from Larian Studios (BAFTA Games Award) source: <a href="https://www.imdb.com/title/tt7410340/awards">click here</a> ; enjoy to drink Japan Sencha tee at Das Teehaus in Berlin, source: <a href="https://www.yelp.com/biz/das-teehaus-berlin">click here</a>; biohacking and meta-learning ready to be develop; fan of SG1 movie, Lucian Alliance - source: <a href="https://www.youtube.com/watch?v=OzmpQS5xrio">click here</a></p>' +
+			'<p><strong>Languages?</strong><br/>' +
+				'- English - fluent<br/>' +
+			  '- French - medium<br />' +
+			  '- German - begginer</p>'
+			,
 			social: [["twitter", "https://twitter.com/crisanlucid"], ["github", "https://github.com/crisanlucid"], ["linkedin", "https://linkedin.com/in/crisanlucid"], ["personal", "https://codepen.io/crisanlucid/"]]
 		}, {
 			id: 2,
