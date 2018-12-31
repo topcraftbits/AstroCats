@@ -7219,7 +7219,7 @@ webpackJsonp(["app"], {
 		}, function (e) {
 			return e.theme.easings.quintOut
 		}), re = function (e) {
-			return m.default.createElement(se, null, m.default.createElement(R.Grid, {color: "blackT"}, m.default.createElement(ae, {path: e.location.pathname}, m.default.createElement(B.H2, {invert: !0}, "95% People, 5% Snacks & Coffee"), m.default.createElement(B.Intro, null, "We’re not sure what to call our employees (Labbers?), so it’s a good thing we’re happy being a collective."))), m.default.createElement(de, {path: e.location.pathname}, oe.map(function (t) {
+			return m.default.createElement(se, null, m.default.createElement(R.Grid, {color: "blackT"}, m.default.createElement(ae, {path: e.location.pathname}, m.default.createElement(B.H2, {invert: !0}, "97% People, 3% Snacks & Coffee"), m.default.createElement(B.Intro, null, "We’re not sure what to call our employees (Labbers?), so it’s a good thing we’re happy being a collective."))), m.default.createElement(de, {path: e.location.pathname}, oe.map(function (t) {
 				return m.default.createElement(le, {
 					key: t.id,
 					"data-slug": t.slug,
