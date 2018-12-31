@@ -6137,7 +6137,7 @@ webpackJsonp(["app"], {
 					}), j.default.createElement(H, null), j.default.createElement(W, {fixed: this.state.fixed}, j.default.createElement(x, null, j.default.createElement(D, null, j.default.createElement(G, null, j.default.createElement(z.Link, {to: "/"}, j.default.createElement(_, {
 						src: C.default,
 						alt: ""
-					}))), j.default.createElement(L, null, j.default.createElement("a", {href: "mailto:hello@topcraftbits.com?subject=Hey%20TopCraftBits!"}, "hello@topcraftbits.com")), j.default.createElement(L, null, j.default.createElement("a", {href: "tel:8443100257"}, "844.310.0257"))), j.default.createElement(A, {
+					}))), j.default.createElement(L, null, j.default.createElement("a", {href: "mailto:topcraftbits@gmail.com?subject=Hey%20TopCraftBits!"}, "topcraftbits@gmail.com")), j.default.createElement(L, null, j.default.createElement("a", {href: "tel:8443100257"}, "844.310.0257"))), j.default.createElement(A, {
 						"aria-hidden": "true",
 						role: "presentation"
 					}, j.default.createElement(G, null, j.default.createElement(N.H4, {flush: !0}, "Navigate")), j.default.createElement(M, null, j.default.createElement(z.Link, {to: "/AstroCats/about/"}, "About"), j.default.createElement("br", null), j.default.createElement(z.Link, {to: "/AstroCats/contact/"}, "Contact"), j.default.createElement("br", null), j.default.createElement(R.default.OutboundLink, {
@@ -6159,7 +6159,7 @@ webpackJsonp(["app"], {
 						to: "https://dribbble.com/topcraftbits",
 						"data-service": "dribbble",
 						rel: "noopener",
-						target: "_blank"
+						target: "https://github.com/topcraftbits/AstroCats"
 					}, j.default.createElement(E.default, {
 						id: "dribbble",
 						title: "Dribbble"
@@ -8576,7 +8576,7 @@ webpackJsonp(["app"], {
 					}, j.default.createElement(T, null, j.default.createElement(L, null, j.default.createElement(N.GridContent, null, j.default.createElement(O, null, "Contact"), j.default.createElement(Y, {flush: !0}, "Let’s Talk Vision"))), j.default.createElement(I.default, null, j.default.createElement(N.Grid, {color: "blackT"}, j.default.createElement(J, null, j.default.createElement("img", {
 						src: W.default,
 						alt: ""
-					})), j.default.createElement(A, null, j.default.createElement(y.H4, null, "Email"), j.default.createElement(P, null, j.default.createElement(y.StyledA, {href: "mailto:hello@topcraftbits.com?subject=Hey%20TopCraftBits!"}, "hello@topcraftbits.com")), j.default.createElement(y.H4, null, "Phone"), j.default.createElement(P, null, j.default.createElement(y.StyledA, {href: "tel:898989989"}, "899.898.8999")), j.default.createElement(y.H4, null, "Address"), j.default.createElement(x, null, "Marcel-Breuer-Straße 15 ", j.default.createElement("span", null, "80807 München,"), j.default.createElement("br", null), "Germany"))))))
+					})), j.default.createElement(A, null, j.default.createElement(y.H4, null, "Email"), j.default.createElement(P, null, j.default.createElement(y.StyledA, {href: "mailto:topcraftbits@gmail.com?subject=Hey%20TopCraftBits!"}, "topcraftbits@gmail.com")), j.default.createElement(y.H4, null, "Phone"), j.default.createElement(P, null, j.default.createElement(y.StyledA, {href: "tel:898989989"}, "899.898.8999")), j.default.createElement(y.H4, null, "Address"), j.default.createElement(x, null, "Marcel-Breuer-Straße 15 ", j.default.createElement("span", null, "80807 München,"), j.default.createElement("br", null), "Germany"))))))
 				}
 			}]), t
 		}(j.default.PureComponent);
@@ -8600,7 +8600,7 @@ webpackJsonp(["app"], {
 		function d(e, t) {
 			if ("function" != typeof t && null !== t)throw new TypeError("Super expression must either be null or a function, not " + typeof t);
 			e.prototype = Object.create(t && t.prototype, {
-				constructor: {
+			 	constructor: {
 					value: e,
 					enumerable: !1,
 					writable: !0,
