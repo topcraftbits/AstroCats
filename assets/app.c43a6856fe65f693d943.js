@@ -6187,7 +6187,9 @@ webpackJsonp(["app"], {
 					}))), j.default.createElement(L, null, j.default.createElement("a", {href: "mailto:topcraftbits@gmail.com?subject=Hey%20TopCraftBits!"}, "topcraftbits@gmail.com")), j.default.createElement(L, null, j.default.createElement("a", {href: "tel:+4915171537273"}, "+49 1517 1537273"))), j.default.createElement(A, {
 						"aria-hidden": "true",
 						role: "presentation"
-					}, j.default.createElement(G, null, j.default.createElement(N.H4, {flush: !0}, "Navigate")), j.default.createElement(M, null, j.default.createElement(z.Link, {to: "/AstroCats/about/"}, "About"), j.default.createElement("br", null), j.default.createElement(z.Link, {to: "/AstroCats/contact/"}, "Contact"), j.default.createElement("br", null), j.default.createElement(R.default.OutboundLink, {
+					}, j.default.createElement(G, null, j.default.createElement(N.H4, {flush: !0}, "Navigate")), j.default.createElement(M, null, j.default.createElement(z.Link, {to: "/AstroCats/about/"}, "About"), j.default.createElement("br", null), j.default.createElement(z.Link, {to: "/AstroCats/contact/"}, "Contact"), j.default.createElement("br", null),
+						j.default.createElement(z.Link, {to: "https://codepen.io/cricanr/pen/BvYQNW"}, "TechRadar"), j.default.createElement("br", null),
+						j.default.createElement(R.default.OutboundLink, {
 						eventLabel: "TopCraftBits Blog",
 						to: "https://blog.topcraftbits.com",
 						rel: "noopener",
