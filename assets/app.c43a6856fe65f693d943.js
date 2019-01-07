@@ -6188,7 +6188,7 @@ webpackJsonp(["app"], {
 						"aria-hidden": "true",
 						role: "presentation"
 					}, j.default.createElement(G, null, j.default.createElement(N.H4, {flush: !0}, "Navigate")), j.default.createElement(M, null, j.default.createElement(z.Link, {to: "/AstroCats/about/"}, "About"), j.default.createElement("br", null), j.default.createElement(z.Link, {to: "/AstroCats/contact/"}, "Contact"), j.default.createElement("br", null),
-						j.default.createElement(z.Link, {to: "https://codepen.io/cricanr/pen/BvYQNW"}, "TechRadar"), j.default.createElement("br", null),
+						j.default.createElement(R.default.OutboundLink, {eventLabel: "TopCraftBits TechRadar", to: "https://codepen.io/cricanr/pen/BvYQNW", rel: "noopener"}, "TechRadar"), j.default.createElement("br", null),
 						j.default.createElement(R.default.OutboundLink, {
 						eventLabel: "TopCraftBits Blog",
 						to: "https://blog.topcraftbits.com",
