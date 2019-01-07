@@ -7246,7 +7246,7 @@ webpackJsonp(["app"], {
 		}, function (e) {
 			return e.theme.easings.quintOut
 		}), re = function (e) {
-			return m.default.createElement(se, null, m.default.createElement(R.Grid, {color: "blackT"}, m.default.createElement(ae, {path: e.location.pathname}, m.default.createElement(B.H2, {invert: !0}, "97% People, 3% Snacks & Coffee"), m.default.createElement(B.Intro, null, "We’re not sure what to call our employees (Labbers?), so it’s a good thing we’re happy being a collective."))), m.default.createElement(de, {path: e.location.pathname}, oe.map(function (t) {
+			return m.default.createElement(se, null, m.default.createElement(R.Grid, {color: "blackT"}, m.default.createElement(ae, {path: e.location.pathname}, m.default.createElement(B.H2, {invert: !0}, "60% AstroCats, 30% software craftsmanship, 10% space exploration"), m.default.createElement(B.Intro, null, "We’re not sure what to call our employees (Labbers?), so it’s a good thing we’re happy being a collective."))), m.default.createElement(de, {path: e.location.pathname}, oe.map(function (t) {
 				return m.default.createElement(le, {
 					key: t.id,
 					"data-slug": t.slug,
@@ -8623,7 +8623,7 @@ webpackJsonp(["app"], {
 					}, j.default.createElement(T, null, j.default.createElement(L, null, j.default.createElement(N.GridContent, null, j.default.createElement(O, null, "Contact"), j.default.createElement(Y, {flush: !0}, "Let’s Talk Vision"))), j.default.createElement(I.default, null, j.default.createElement(N.Grid, {color: "blackT"}, j.default.createElement(J, null, j.default.createElement("img", {
 						src: W.default,
 						alt: ""
-					})), j.default.createElement(A, null, j.default.createElement(y.H4, null, "Email"), j.default.createElement(P, null, j.default.createElement(y.StyledA, {href: "mailto:topcraftbits@gmail.com?subject=Hey%20TopCraftBits!"}, "topcraftbits@gmail.com")), j.default.createElement(y.H4, null, "Phone"), j.default.createElement(P, null, j.default.createElement(y.StyledA, {href: "tel:898989989"}, "899.898.8999")), j.default.createElement(y.H4, null, "Address"), j.default.createElement(x, null, "Marcel-Breuer-Straße 15 ", j.default.createElement("span", null, "80807 München,"), j.default.createElement("br", null), "Germany"))))))
+					})), j.default.createElement(A, null, j.default.createElement(y.H4, null, "Email"), j.default.createElement(P, null, j.default.createElement(y.StyledA, {href: "mailto:topcraftbits@gmail.com?subject=Hey%20TopCraftBits!"}, "topcraftbits@gmail.com")), j.default.createElement(y.H4, null, "Phone"), j.default.createElement(P, null, j.default.createElement(y.StyledA, {href: "tel:+4915171537273"}, "+49 1517 1537273")), j.default.createElement(y.H4, null, "Address"), j.default.createElement(x, null, "Marcel-Breuer-Straße 15 ", j.default.createElement("span", null, "80807 München,"), j.default.createElement("br", null), "Germany"))))))
 				}
 			}]), t
 		}(j.default.PureComponent);
