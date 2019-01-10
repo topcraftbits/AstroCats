@@ -30,3 +30,12 @@ npm -v   #v5.4.2 or higher
 npm i
 npm run serve
 ```
+## How to modify the presentation website
+You need to run locally the server and try to find the Javascript file:
+```bash
+assets/app.c43a6856fe65f693d943.js
+```
+### Notice:
+Before to commit check errors in Console Log from your favorite Browser. There is a chance to have JS errors and the website to not work.
+Remember the Website is Single Page Application (SPA) based on Javascript. 
+NO Javascript Errors!!
