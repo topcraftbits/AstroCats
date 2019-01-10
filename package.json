@@ -1,0 +1,13 @@
+{
+  "name": "astrocats-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "TopCraftBits",
+  "license": "MIT",
+  "scripts": {
+    "serve": "live-server ."
+  },
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
