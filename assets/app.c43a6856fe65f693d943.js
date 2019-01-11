@@ -6195,24 +6195,15 @@ webpackJsonp(["app"], {
 						rel: "noopener",
 						target: "_blank"
 					}, "Blog"))), j.default.createElement(T, null, j.default.createElement(G, null, j.default.createElement(N.H4, {flush: !0}, "Wanderlust")), j.default.createElement(M, null, j.default.createElement(R.default.OutboundLink, {
-						eventLabel: "TopCraftBits on Twitter",
-						to: "https://twitter.com/topcraftbits",
-						"data-service": "twitter",
+						eventLabel: "TopCraftBits on Kata",
+						to: "https://codepen.io/collection/DKqPWo",
+						"data-service": "kata",
 						rel: "noopener",
 						target: "_blank"
 					}, j.default.createElement(E.default, {
-						id: "twitter",
-						title: "Twitter"
-					}), " Twitter"), j.default.createElement("br", null), j.default.createElement(R.default.OutboundLink, {
-						eventLabel: "TopCraftBits on Dribbble",
-						to: "https://dribbble.com/topcraftbits",
-						"data-service": "dribbble",
-						rel: "noopener",
-						target: "https://github.com/topcraftbits/AstroCats"
-					}, j.default.createElement(E.default, {
-						id: "dribbble",
-						title: "Dribbble"
-					}), " Dribbble"), j.default.createElement("br", null), j.default.createElement(R.default.OutboundLink, {
+						id: "kata",
+						title: "Kata"
+					}), " Kata"), j.default.createElement("br", null), j.default.createElement(R.default.OutboundLink, {
 						eventLabel: "TopCraftBits on GitHub",
 						to: "https://github.com/topcraftbits",
 						rel: "noopener",
@@ -6222,7 +6213,7 @@ webpackJsonp(["app"], {
 						title: "GitHub"
 					}), " GitHub"), j.default.createElement("br", null), j.default.createElement(R.default.OutboundLink, {
 						eventLabel: "TopCraftBits on Facebook",
-						to: "https://facebook.com/topcraftbits",
+						to: "https://facebook.com/topcraftbit",
 						rel: "noopener",
 						target: "_blank"
 					}, j.default.createElement(E.default, {
