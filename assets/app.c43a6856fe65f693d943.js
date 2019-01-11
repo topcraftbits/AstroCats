@@ -6191,7 +6191,7 @@ webpackJsonp(["app"], {
 						j.default.createElement(R.default.OutboundLink, {eventLabel: "TopCraftBits TechRadar", to: "https://codepen.io/cricanr/pen/BvYQNW", rel: "noopener"}, "TechRadar"), j.default.createElement("br", null),
 						j.default.createElement(R.default.OutboundLink, {
 						eventLabel: "TopCraftBits Blog",
-						to: "https://blog.topcraftbits.com",
+						to: "https://codepen.io/topcraftbits",
 						rel: "noopener",
 						target: "_blank"
 					}, "Blog"))), j.default.createElement(T, null, j.default.createElement(G, null, j.default.createElement(N.H4, {flush: !0}, "Wanderlust")), j.default.createElement(M, null, j.default.createElement(R.default.OutboundLink, {
@@ -6707,7 +6707,7 @@ webpackJsonp(["app"], {
 						}
 					}, Q.default.createElement(B.NavLink, {activeClassName: 'active', to: Z[3].to}, Z[3].name)), Q.default.createElement(E, {invert: this.props.invert}, Q.default.createElement(j.default.OutboundLink, {
 						eventLabel: "TopCraftBits Blog",
-						to: "https://blog.topcraftbits.com",
+						to: "https://codepen.io/topcraftbits",
 						rel: "noopener",
 						target: "_blank"
 					}, "Blog"))))
